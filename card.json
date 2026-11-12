@@ -28,6 +28,11 @@
     "hers": "I built the evidence and made the case to leadership, and my direct manager carried it upward. Training owned the changes to manager training and curriculum.",
     "result": "Teams under leaders promoted as top sellers lost people faster than teams under leaders who had been average sellers with good people skills. I tightened hiring criteria, and Training reworked promotion assessment and manager training. I cut department turnover about 15% (2023) and 17% (2024)."
   },
+  "calls": [
+    "Linked sellers to leaders through the team's center code, because no record says who reports to whom.",
+    "Held branch still, because busy branches promote top sellers more often and lose more people anyway.",
+    "Ran the method on 20 datasets with no effect built in, after a single run missed zero."
+  ],
   "tools": [
     "Python",
     "pandas",
