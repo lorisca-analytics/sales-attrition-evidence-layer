@@ -1,0 +1,24 @@
+name: test
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Record files match the data contract
+        run: python -m ael.contract data/synthetic
+      - name: Generator rebuilds the committed files exactly
+        run: |
+          python -m ael.generate --out /tmp/regen
+          for f in data/synthetic/*.csv; do cmp "$f" "/tmp/regen/$(basename "$f")"; done
+      - name: Unit tests
+        run: python -m pytest -q
+      - name: Dashboard data matches the clean tables
+        run: |
+          for f in route_rates region_rates survival exit_reasons record_gaps; do cmp "data/clean/$f.csv" "dashboard/data/$f.csv"; done
+          cmp docs/findings.json dashboard/data/findings.json

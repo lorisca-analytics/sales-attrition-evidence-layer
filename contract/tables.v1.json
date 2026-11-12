@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "note": "Input record files in data/synthetic. Column order is part of the contract.",
+  "tables": {
+    "roster_monthly": {
+      "key": ["month", "employee_id"],
+      "columns": {
+        "month": {"type": "month"},
+        "employee_id": {"type": "string", "pattern": "^E\\d{6}$"},
+        "job_title": {"type": "string", "allowed": ["Sales Officer", "Team Leader"]},
+        "center_code": {"type": "string", "pattern": "^C\\d{3}$"},
+        "branch_code": {"type": "string", "pattern": "^B\\d{2}$"},
+        "region": {"type": "string", "pattern": "^R\\d{2}$"},
+        "join_date": {"type": "date"},
+        "employment_type": {"type": "string", "allowed": ["Contract", "Permanent"]}
+      }
+    },
+    "kpi_monthly": {
+      "key": ["month", "employee_id"],
+      "columns": {
+        "month": {"type": "month"},
+        "employee_id": {"type": "string", "pattern": "^E\\d{6}$"},
+        "kpi_achievement_pct": {"type": "number", "min": 0, "max": 300},
+        "kpi_rating": {"type": "string", "allowed": ["A", "B", "C", "D", "E"]},
+        "warning_stage": {"type": "string", "allowed": ["None", "PIP1", "PIP2", "SP1", "SP2", "SP3"]}
+      }
+    },
+    "probation": {
+      "key": ["employee_id"],
+      "columns": {
+        "employee_id": {"type": "string", "pattern": "^E\\d{6}$"},
+        "join_date": {"type": "date"},
+        "probation_result": {"type": "string", "allowed": ["Passed", "Exception", "Failed & Resign"]}
+      }
+    },
+    "resignations": {
+      "key": ["employee_id"],
+      "columns": {
+        "employee_id": {"type": "string", "pattern": "^E\\d{6}$"},
+        "job_title": {"type": "string", "allowed": ["Sales Officer", "Team Leader"]},
+        "exit_date": {"type": "date"},
+        "center_code": {"type": "string", "pattern": "^C\\d{3}$"},
+        "branch_code": {"type": "string", "pattern": "^B\\d{2}$"},
+        "region": {"type": "string", "pattern": "^R\\d{2}$"},
+        "exit_type": {"type": "string", "allowed": ["Resign", "Failed probation", "Terminated after SP3"]},
+        "recorded_date": {"type": "date", "not_before": "exit_date"}
+      }
+    },
+    "exit_interviews": {
+      "key": ["employee_id"],
+      "columns": {
+        "submitted_date": {"type": "date"},
+        "employee_id": {"type": "string", "pattern": "^E\\d{6}$"},
+        "exit_date": {"type": "date"},
+        "reason": {"type": "string", "allowed": ["Personal growth", "Career path", "Unsupportive scope of work", "Leadership"]},
+        "would_return": {"type": "string", "allowed": ["Yes", "No"]}
+      }
+    }
+  },
+  "links": [
+    {"from": "kpi_monthly", "to": "roster_monthly", "on": ["month", "employee_id"], "rule": "every KPI row has a roster row"},
+    {"from": "resignations", "to": "roster_monthly", "on": ["employee_id"], "rule": "every resignation names someone on the roster"},
+    {"from": "exit_interviews", "to": "resignations", "on": ["employee_id"], "rule": "a form can exist without a list row (the list may run late), never for someone never on the roster", "to_fallback": "roster_monthly"}
+  ]
+}

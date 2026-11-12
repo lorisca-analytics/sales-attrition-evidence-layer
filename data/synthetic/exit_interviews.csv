@@ -1,0 +1,3441 @@
+submitted_date,employee_id,exit_date,reason,would_return
+2020-02-01,E100096,2020-01-29,Personal growth,No
+2020-01-27,E100214,2020-01-18,Personal growth,Yes
+2020-01-30,E100225,2020-01-24,Unsupportive scope of work,No
+2020-01-22,E100302,2020-01-15,Personal growth,No
+2020-01-22,E100317,2020-01-25,Unsupportive scope of work,No
+2020-01-14,E100348,2020-01-16,Career path,No
+2020-01-08,E100359,2020-01-01,Unsupportive scope of work,Yes
+2020-01-06,E100446,2020-01-08,Personal growth,Yes
+2020-01-28,E100455,2020-01-29,Unsupportive scope of work,Yes
+2020-01-25,E100487,2020-01-17,Personal growth,No
+2020-01-10,E100574,2020-01-02,Career path,No
+2020-01-27,E100662,2020-01-20,Personal growth,No
+2020-01-18,E100699,2020-01-21,Personal growth,No
+2020-01-21,E100743,2020-01-15,Career path,No
+2020-01-20,E100747,2020-01-12,Career path,No
+2020-01-11,E100748,2020-01-04,Leadership,Yes
+2020-02-04,E100813,2020-01-26,Personal growth,No
+2020-01-09,E100943,2020-01-14,Career path,Yes
+2020-01-16,E100950,2020-01-13,Career path,No
+2020-01-12,E100952,2020-01-15,Career path,Yes
+2020-01-16,E100979,2020-01-16,Unsupportive scope of work,No
+2020-01-15,E101030,2020-01-18,Unsupportive scope of work,Yes
+2020-02-02,E101057,2020-01-30,Personal growth,No
+2020-01-19,E101080,2020-01-12,Unsupportive scope of work,No
+2020-01-16,E101092,2020-01-09,Career path,No
+2020-01-12,E101216,2020-01-16,Career path,No
+2020-01-14,E101227,2020-01-07,Personal growth,No
+2020-01-17,E101341,2020-01-16,Career path,No
+2020-02-02,E101399,2020-01-30,Unsupportive scope of work,Yes
+2020-01-17,E101400,2020-01-21,Personal growth,Yes
+2020-01-09,E101441,2020-01-02,Unsupportive scope of work,No
+2020-02-01,E101478,2020-01-29,Personal growth,No
+2020-01-20,E101497,2020-01-19,Personal growth,No
+2020-01-10,E101544,2020-01-07,Career path,No
+2020-01-15,E101584,2020-01-15,Career path,Yes
+2020-01-07,E101693,2020-01-02,Personal growth,No
+2020-02-06,E101700,2020-01-28,Career path,Yes
+2020-01-09,E101755,2020-01-14,Career path,No
+2020-01-29,E101765,2020-01-25,Personal growth,Yes
+2020-01-30,E101857,2020-01-21,Career path,No
+2020-01-04,E101869,2020-01-06,Career path,No
+2020-01-18,E101946,2020-01-20,Leadership,No
+2020-01-22,E101989,2020-01-16,Career path,No
+2020-01-17,E102026,2020-01-21,Leadership,No
+2020-01-09,E102110,2020-01-08,Career path,Yes
+2020-01-17,E102140,2020-01-20,Unsupportive scope of work,No
+2020-01-25,E102222,2020-01-21,Unsupportive scope of work,No
+2020-01-04,E102232,2020-01-02,Unsupportive scope of work,Yes
+2020-01-13,E102240,2020-01-09,Career path,No
+2020-01-10,E102265,2020-01-12,Unsupportive scope of work,No
+2020-01-02,E102273,2020-01-06,Leadership,No
+2020-01-05,E102301,2020-01-08,Personal growth,Yes
+2020-01-26,E102483,2020-01-30,Career path,No
+2020-01-19,E102494,2020-01-11,Personal growth,No
+2020-01-31,E102504,2020-01-24,Personal growth,No
+2020-01-11,E102541,2020-01-04,Personal growth,No
+2020-01-08,E102563,2020-01-09,Career path,No
+2020-01-01,E102628,2020-01-02,Unsupportive scope of work,Yes
+2020-01-25,E102629,2020-01-29,Personal growth,Yes
+2020-01-14,E102675,2020-01-10,Personal growth,Yes
+2020-01-03,E102737,2020-01-07,Unsupportive scope of work,Yes
+2020-01-24,E102749,2020-01-17,Career path,No
+2020-01-12,E102854,2020-01-09,Career path,No
+2020-01-10,E102878,2020-01-13,Career path,No
+2020-01-20,E102915,2020-01-24,Personal growth,No
+2020-01-08,E103047,2020-01-05,Career path,No
+2020-01-21,E103053,2020-01-23,Personal growth,No
+2020-01-09,E103097,2020-01-12,Unsupportive scope of work,Yes
+2020-01-18,E103208,2020-01-11,Career path,No
+2020-01-16,E103211,2020-01-12,Personal growth,No
+2020-02-07,E103266,2020-01-31,Personal growth,No
+2020-01-03,E103267,2020-01-03,Career path,No
+2020-02-16,E100014,2020-02-09,Personal growth,Yes
+2020-03-03,E100166,2020-02-27,Unsupportive scope of work,No
+2020-02-09,E100183,2020-02-10,Personal growth,No
+2020-02-26,E100358,2020-02-25,Personal growth,No
+2020-02-02,E100387,2020-02-03,Personal growth,No
+2020-02-23,E100519,2020-02-28,Unsupportive scope of work,No
+2020-02-18,E100543,2020-02-10,Personal growth,Yes
+2020-02-25,E100555,2020-02-21,Unsupportive scope of work,No
+2020-02-07,E100562,2020-02-08,Unsupportive scope of work,No
+2020-02-09,E100599,2020-02-03,Career path,No
+2020-02-20,E100634,2020-02-11,Leadership,Yes
+2020-02-23,E100692,2020-02-18,Personal growth,No
+2020-02-17,E100709,2020-02-16,Personal growth,Yes
+2020-02-07,E100848,2020-02-02,Personal growth,No
+2020-03-03,E100867,2020-02-27,Personal growth,No
+2020-02-24,E100974,2020-02-25,Unsupportive scope of work,Yes
+2020-02-13,E101002,2020-02-15,Personal growth,Yes
+2020-02-15,E101033,2020-02-11,Personal growth,No
+2020-02-08,E101056,2020-02-01,Personal growth,No
+2020-02-12,E101063,2020-02-13,Leadership,Yes
+2020-02-16,E101179,2020-02-11,Unsupportive scope of work,No
+2020-02-05,E101222,2020-02-06,Career path,No
+2020-02-20,E101277,2020-02-17,Career path,Yes
+2020-02-21,E101323,2020-02-14,Personal growth,No
+2020-02-16,E101342,2020-02-08,Personal growth,No
+2020-02-15,E101446,2020-02-20,Personal growth,Yes
+2020-03-02,E101476,2020-02-25,Personal growth,No
+2020-02-13,E101536,2020-02-15,Career path,No
+2020-02-07,E101585,2020-02-06,Leadership,No
+2020-02-27,E101657,2020-02-29,Unsupportive scope of work,No
+2020-02-18,E101688,2020-02-13,Unsupportive scope of work,No
+2020-02-18,E101771,2020-02-14,Personal growth,No
+2020-02-10,E101836,2020-02-05,Personal growth,Yes
+2020-02-06,E102010,2020-02-06,Career path,No
+2020-02-13,E102033,2020-02-17,Personal growth,Yes
+2020-02-14,E102056,2020-02-18,Personal growth,No
+2020-03-03,E102174,2020-02-24,Personal growth,No
+2020-02-03,E102231,2020-02-01,Leadership,Yes
+2020-02-11,E102239,2020-02-12,Career path,Yes
+2020-02-16,E102280,2020-02-16,Leadership,No
+2020-02-04,E102318,2020-02-05,Personal growth,No
+2020-02-21,E102331,2020-02-20,Unsupportive scope of work,No
+2020-02-11,E102341,2020-02-08,Leadership,No
+2020-02-03,E102361,2020-02-01,Personal growth,Yes
+2020-02-05,E102362,2020-02-03,Personal growth,No
+2020-02-11,E102394,2020-02-08,Leadership,No
+2020-02-11,E102469,2020-02-14,Leadership,Yes
+2020-01-30,E102524,2020-02-02,Personal growth,No
+2020-02-23,E102545,2020-02-14,Personal growth,No
+2020-02-16,E102580,2020-02-13,Personal growth,No
+2020-02-01,E102611,2020-02-04,Leadership,Yes
+2020-02-29,E102656,2020-02-23,Unsupportive scope of work,No
+2020-02-08,E102663,2020-02-05,Career path,No
+2020-02-15,E102702,2020-02-12,Career path,Yes
+2020-02-07,E102785,2020-02-10,Unsupportive scope of work,No
+2020-02-22,E102816,2020-02-13,Personal growth,Yes
+2020-02-11,E102840,2020-02-08,Career path,Yes
+2020-02-12,E102855,2020-02-10,Personal growth,Yes
+2020-02-03,E103019,2020-02-05,Personal growth,No
+2020-02-02,E103105,2020-02-07,Personal growth,No
+2020-02-10,E103152,2020-02-10,Career path,Yes
+2020-02-18,E103200,2020-02-12,Career path,No
+2020-02-17,E103207,2020-02-20,Unsupportive scope of work,Yes
+2020-02-10,E103309,2020-02-10,Personal growth,Yes
+2020-02-09,E103316,2020-02-14,Career path,No
+2020-02-07,E103377,2020-02-07,Personal growth,Yes
+2020-02-23,E103397,2020-02-20,Personal growth,Yes
+2020-03-04,E103460,2020-02-26,Personal growth,Yes
+2020-03-01,E100101,2020-03-02,Personal growth,No
+2020-03-19,E100138,2020-03-17,Personal growth,No
+2020-03-27,E100260,2020-03-30,Unsupportive scope of work,No
+2020-03-26,E100268,2020-03-17,Career path,No
+2020-03-31,E100301,2020-03-28,Personal growth,No
+2020-03-04,E100336,2020-03-08,Personal growth,Yes
+2020-03-19,E100454,2020-03-13,Career path,Yes
+2020-03-08,E100493,2020-03-03,Career path,No
+2020-04-01,E100503,2020-03-24,Leadership,No
+2020-04-01,E100551,2020-03-28,Career path,Yes
+2020-03-12,E100552,2020-03-14,Personal growth,No
+2020-03-21,E100585,2020-03-20,Career path,No
+2020-03-21,E100608,2020-03-17,Personal growth,Yes
+2020-03-13,E100640,2020-03-08,Leadership,No
+2020-04-02,E100654,2020-03-31,Personal growth,Yes
+2020-03-20,E100767,2020-03-16,Leadership,No
+2020-03-20,E100786,2020-03-23,Leadership,Yes
+2020-03-27,E100830,2020-03-28,Personal growth,Yes
+2020-03-13,E100921,2020-03-18,Career path,No
+2020-03-26,E100958,2020-03-24,Personal growth,Yes
+2020-04-01,E101010,2020-03-23,Unsupportive scope of work,No
+2020-03-16,E101199,2020-03-08,Personal growth,No
+2020-03-19,E101315,2020-03-23,Personal growth,No
+2020-03-11,E101378,2020-03-08,Personal growth,No
+2020-03-18,E101577,2020-03-16,Personal growth,Yes
+2020-03-23,E101788,2020-03-28,Unsupportive scope of work,No
+2020-03-31,E101799,2020-03-30,Career path,No
+2020-03-16,E101910,2020-03-20,Career path,No
+2020-03-16,E101918,2020-03-14,Leadership,No
+2020-03-10,E101920,2020-03-15,Unsupportive scope of work,No
+2020-03-21,E101936,2020-03-23,Personal growth,No
+2020-03-20,E102193,2020-03-16,Personal growth,No
+2020-02-28,E102317,2020-03-04,Personal growth,Yes
+2020-03-23,E102388,2020-03-24,Personal growth,No
+2020-04-03,E102412,2020-03-30,Career path,No
+2020-03-16,E102442,2020-03-11,Personal growth,No
+2020-03-14,E102549,2020-03-14,Career path,No
+2020-02-28,E102596,2020-03-04,Personal growth,Yes
+2020-03-24,E102618,2020-03-15,Unsupportive scope of work,No
+2020-03-07,E102958,2020-03-02,Career path,No
+2020-03-25,E103044,2020-03-28,Career path,Yes
+2020-04-06,E103064,2020-03-31,Personal growth,No
+2020-03-18,E103082,2020-03-15,Unsupportive scope of work,Yes
+2020-03-02,E103160,2020-03-05,Leadership,Yes
+2020-02-29,E103240,2020-03-02,Personal growth,Yes
+2020-04-03,E103311,2020-03-29,Career path,Yes
+2020-03-21,E103342,2020-03-21,Career path,Yes
+2020-03-25,E103399,2020-03-22,Career path,No
+2020-04-03,E103464,2020-03-27,Leadership,No
+2020-03-16,E103525,2020-03-18,Unsupportive scope of work,No
+2020-03-07,E103542,2020-03-09,Career path,No
+2020-03-24,E103565,2020-03-18,Leadership,No
+2020-03-26,E103573,2020-03-25,Personal growth,No
+2020-03-13,E103576,2020-03-05,Career path,No
+2020-03-24,E103612,2020-03-28,Personal growth,No
+2020-04-11,E100027,2020-04-13,Personal growth,No
+2020-04-29,E100034,2020-04-23,Career path,No
+2020-04-20,E100392,2020-04-16,Leadership,No
+2020-05-02,E100529,2020-04-24,Career path,No
+2020-04-27,E100557,2020-04-26,Unsupportive scope of work,Yes
+2020-04-04,E100578,2020-04-05,Personal growth,Yes
+2020-04-23,E100579,2020-04-16,Personal growth,No
+2020-04-09,E100809,2020-04-11,Career path,No
+2020-04-13,E100877,2020-04-06,Unsupportive scope of work,No
+2020-04-11,E100954,2020-04-12,Personal growth,Yes
+2020-04-15,E101037,2020-04-06,Personal growth,Yes
+2020-04-11,E101100,2020-04-02,Personal growth,No
+2020-04-27,E101143,2020-04-20,Personal growth,Yes
+2020-04-24,E101198,2020-04-20,Leadership,Yes
+2020-03-29,E101202,2020-04-01,Career path,No
+2020-04-25,E101213,2020-04-27,Career path,No
+2020-04-01,E101283,2020-04-03,Career path,No
+2020-04-10,E101291,2020-04-02,Unsupportive scope of work,No
+2020-04-16,E101464,2020-04-12,Career path,No
+2020-04-14,E101474,2020-04-14,Leadership,Yes
+2020-04-11,E101510,2020-04-15,Leadership,No
+2020-05-05,E101579,2020-04-26,Career path,Yes
+2020-04-12,E101671,2020-04-09,Personal growth,Yes
+2020-04-23,E101745,2020-04-16,Career path,No
+2020-04-13,E101780,2020-04-08,Career path,No
+2020-03-27,E101810,2020-04-01,Unsupportive scope of work,No
+2020-04-24,E102020,2020-04-18,Leadership,No
+2020-04-14,E102041,2020-04-14,Career path,No
+2020-04-23,E102081,2020-04-27,Unsupportive scope of work,No
+2020-04-25,E102101,2020-04-18,Personal growth,No
+2020-04-25,E102198,2020-04-25,Personal growth,No
+2020-04-14,E102268,2020-04-14,Career path,No
+2020-04-23,E102373,2020-04-14,Career path,No
+2020-04-08,E102441,2020-04-08,Personal growth,No
+2020-04-17,E102591,2020-04-14,Career path,No
+2020-04-21,E102697,2020-04-16,Career path,Yes
+2020-04-12,E102732,2020-04-17,Personal growth,Yes
+2020-04-23,E102756,2020-04-26,Personal growth,No
+2020-05-01,E102860,2020-04-22,Career path,No
+2020-04-14,E103057,2020-04-18,Unsupportive scope of work,No
+2020-03-30,E103346,2020-04-04,Personal growth,No
+2020-04-04,E103354,2020-04-03,Leadership,No
+2020-04-17,E103529,2020-04-22,Unsupportive scope of work,No
+2020-04-15,E103619,2020-04-12,Career path,No
+2020-04-23,E103627,2020-04-24,Career path,No
+2020-04-09,E103681,2020-04-09,Personal growth,Yes
+2020-04-06,E103703,2020-04-11,Personal growth,No
+2020-04-21,E103749,2020-04-21,Career path,No
+2020-04-26,E103761,2020-04-28,Leadership,No
+2020-05-01,E103795,2020-04-27,Career path,Yes
+2020-05-18,E100055,2020-05-16,Personal growth,No
+2020-05-27,E100113,2020-05-30,Personal growth,No
+2020-05-12,E100164,2020-05-06,Career path,No
+2020-05-27,E100201,2020-05-19,Career path,No
+2020-05-24,E100295,2020-05-28,Career path,Yes
+2020-06-02,E100339,2020-05-28,Leadership,No
+2020-06-03,E100457,2020-05-31,Personal growth,No
+2020-05-08,E100516,2020-05-02,Leadership,Yes
+2020-05-17,E100653,2020-05-11,Personal growth,No
+2020-05-08,E100741,2020-05-08,Unsupportive scope of work,No
+2020-05-07,E100873,2020-05-01,Personal growth,Yes
+2020-05-01,E101064,2020-05-02,Leadership,No
+2020-05-28,E101112,2020-05-28,Career path,Yes
+2020-05-07,E101255,2020-05-05,Leadership,No
+2020-05-26,E101334,2020-05-19,Leadership,No
+2020-05-20,E101431,2020-05-23,Unsupportive scope of work,No
+2020-05-26,E101489,2020-05-24,Personal growth,No
+2020-05-28,E101707,2020-05-19,Unsupportive scope of work,No
+2020-05-27,E101826,2020-05-26,Unsupportive scope of work,Yes
+2020-05-10,E101846,2020-05-12,Unsupportive scope of work,No
+2020-05-06,E101999,2020-05-04,Unsupportive scope of work,No
+2020-05-11,E102000,2020-05-02,Personal growth,Yes
+2020-05-21,E102031,2020-05-17,Unsupportive scope of work,No
+2020-05-10,E102187,2020-05-03,Personal growth,Yes
+2020-05-12,E102199,2020-05-07,Personal growth,No
+2020-05-12,E102226,2020-05-15,Career path,No
+2020-05-21,E102302,2020-05-14,Unsupportive scope of work,No
+2020-05-29,E102304,2020-05-22,Leadership,Yes
+2020-05-25,E102383,2020-05-16,Personal growth,No
+2020-05-05,E102573,2020-05-09,Personal growth,Yes
+2020-05-24,E102603,2020-05-27,Career path,No
+2020-05-08,E102652,2020-05-13,Personal growth,No
+2020-05-15,E102660,2020-05-12,Unsupportive scope of work,No
+2020-05-23,E102677,2020-05-24,Career path,No
+2020-05-03,E102727,2020-05-03,Personal growth,No
+2020-05-10,E102808,2020-05-04,Personal growth,Yes
+2020-05-16,E102903,2020-05-08,Career path,No
+2020-05-08,E102959,2020-05-02,Leadership,No
+2020-05-29,E103079,2020-05-25,Career path,No
+2020-05-23,E103139,2020-05-14,Unsupportive scope of work,No
+2020-06-04,E103190,2020-05-26,Career path,No
+2020-05-19,E103287,2020-05-23,Leadership,No
+2020-05-17,E103408,2020-05-22,Career path,Yes
+2020-04-28,E103415,2020-05-01,Personal growth,Yes
+2020-05-22,E103474,2020-05-24,Personal growth,Yes
+2020-05-31,E103567,2020-05-22,Career path,No
+2020-05-30,E103629,2020-05-29,Career path,No
+2020-05-17,E103682,2020-05-13,Unsupportive scope of work,No
+2020-04-30,E103730,2020-05-02,Career path,No
+2020-05-21,E103732,2020-05-20,Career path,No
+2020-05-26,E103742,2020-05-23,Career path,No
+2020-05-05,E103809,2020-05-02,Career path,Yes
+2020-05-30,E103817,2020-05-24,Career path,No
+2020-06-07,E103921,2020-05-30,Personal growth,No
+2020-05-22,E103929,2020-05-25,Leadership,No
+2020-05-09,E103935,2020-05-14,Unsupportive scope of work,No
+2020-05-21,E103945,2020-05-14,Personal growth,No
+2020-05-16,E103951,2020-05-16,Leadership,No
+2020-05-15,E103952,2020-05-10,Career path,Yes
+2020-06-05,E100094,2020-06-10,Career path,No
+2020-06-18,E100149,2020-06-18,Leadership,No
+2020-06-24,E100234,2020-06-20,Unsupportive scope of work,No
+2020-06-09,E100246,2020-06-12,Personal growth,No
+2020-06-26,E100292,2020-06-25,Career path,No
+2020-06-16,E100398,2020-06-12,Personal growth,No
+2020-06-13,E100433,2020-06-09,Personal growth,Yes
+2020-06-13,E100467,2020-06-08,Career path,Yes
+2020-06-21,E100490,2020-06-26,Unsupportive scope of work,No
+2020-06-07,E100505,2020-06-04,Unsupportive scope of work,No
+2020-06-05,E100567,2020-06-08,Career path,No
+2020-06-05,E100863,2020-06-03,Personal growth,No
+2020-06-09,E100879,2020-06-06,Career path,No
+2020-06-26,E100964,2020-06-25,Unsupportive scope of work,Yes
+2020-06-27,E101031,2020-06-22,Personal growth,Yes
+2020-07-08,E101106,2020-06-30,Unsupportive scope of work,No
+2020-06-11,E101425,2020-06-12,Career path,No
+2020-06-12,E101433,2020-06-05,Career path,No
+2020-06-17,E101487,2020-06-15,Personal growth,Yes
+2020-06-26,E101504,2020-06-30,Personal growth,No
+2020-06-05,E101527,2020-06-05,Personal growth,No
+2020-06-14,E101551,2020-06-05,Personal growth,No
+2020-06-10,E101603,2020-06-03,Personal growth,Yes
+2020-06-30,E101610,2020-06-29,Career path,No
+2020-06-29,E101718,2020-06-24,Unsupportive scope of work,No
+2020-07-08,E101766,2020-06-29,Unsupportive scope of work,Yes
+2020-07-02,E101803,2020-06-26,Career path,No
+2020-06-10,E101839,2020-06-11,Unsupportive scope of work,Yes
+2020-06-08,E101873,2020-06-03,Personal growth,No
+2020-06-13,E101884,2020-06-16,Career path,No
+2020-07-04,E101924,2020-06-28,Personal growth,No
+2020-07-01,E101954,2020-06-25,Leadership,No
+2020-06-16,E102255,2020-06-12,Career path,No
+2020-06-13,E102342,2020-06-11,Unsupportive scope of work,No
+2020-06-14,E102430,2020-06-06,Personal growth,No
+2020-06-27,E102433,2020-06-24,Unsupportive scope of work,No
+2020-06-15,E102476,2020-06-14,Career path,Yes
+2020-06-24,E102513,2020-06-21,Personal growth,No
+2020-06-28,E102594,2020-06-23,Leadership,No
+2020-06-21,E102882,2020-06-15,Career path,No
+2020-06-18,E102892,2020-06-16,Personal growth,No
+2020-05-31,E102939,2020-06-05,Unsupportive scope of work,No
+2020-06-16,E103024,2020-06-16,Career path,No
+2020-06-20,E103035,2020-06-25,Personal growth,No
+2020-06-07,E103112,2020-06-07,Career path,No
+2020-06-10,E103255,2020-06-05,Career path,No
+2020-06-25,E103299,2020-06-28,Personal growth,Yes
+2020-06-10,E103336,2020-06-13,Unsupportive scope of work,Yes
+2020-06-06,E103344,2020-06-03,Career path,Yes
+2020-06-26,E103363,2020-06-18,Unsupportive scope of work,No
+2020-06-19,E103402,2020-06-15,Unsupportive scope of work,No
+2020-07-01,E103403,2020-06-24,Personal growth,No
+2020-06-25,E103462,2020-06-21,Personal growth,Yes
+2020-06-15,E103524,2020-06-14,Unsupportive scope of work,No
+2020-05-30,E103593,2020-06-01,Personal growth,Yes
+2020-07-01,E103651,2020-06-28,Unsupportive scope of work,Yes
+2020-06-20,E103722,2020-06-24,Personal growth,No
+2020-06-27,E103760,2020-06-29,Leadership,No
+2020-06-24,E103762,2020-06-19,Personal growth,No
+2020-07-04,E103767,2020-06-30,Personal growth,No
+2020-06-30,E103780,2020-06-28,Career path,No
+2020-05-30,E103886,2020-06-02,Career path,No
+2020-06-23,E103938,2020-06-16,Unsupportive scope of work,No
+2020-06-17,E103962,2020-06-10,Leadership,No
+2020-07-01,E104012,2020-06-29,Personal growth,No
+2020-05-31,E104030,2020-06-02,Career path,No
+2020-06-19,E104067,2020-06-12,Unsupportive scope of work,Yes
+2020-06-22,E104092,2020-06-16,Personal growth,Yes
+2020-05-31,E104101,2020-06-03,Unsupportive scope of work,Yes
+2020-06-18,E104105,2020-06-12,Personal growth,Yes
+2020-06-05,E104110,2020-06-03,Leadership,No
+2020-06-11,E104122,2020-06-09,Unsupportive scope of work,Yes
+2020-06-30,E104134,2020-06-28,Personal growth,No
+2020-07-26,E100015,2020-07-31,Career path,No
+2020-07-22,E100022,2020-07-14,Career path,No
+2020-07-20,E100347,2020-07-22,Career path,No
+2020-08-04,E100418,2020-07-26,Personal growth,No
+2020-07-27,E100492,2020-07-20,Career path,No
+2020-07-16,E100504,2020-07-21,Personal growth,No
+2020-08-04,E100595,2020-07-27,Career path,Yes
+2020-07-29,E100600,2020-07-25,Career path,No
+2020-07-31,E100601,2020-07-23,Personal growth,Yes
+2020-07-13,E100816,2020-07-16,Career path,No
+2020-08-04,E100888,2020-07-28,Personal growth,No
+2020-07-21,E100890,2020-07-19,Career path,No
+2020-07-26,E101050,2020-07-25,Career path,No
+2020-07-01,E101074,2020-07-03,Leadership,No
+2020-07-14,E101078,2020-07-11,Career path,No
+2020-08-03,E101109,2020-07-28,Career path,No
+2020-07-03,E101122,2020-07-04,Career path,Yes
+2020-07-22,E101130,2020-07-23,Career path,No
+2020-07-09,E101218,2020-07-09,Personal growth,No
+2020-07-18,E101240,2020-07-09,Leadership,Yes
+2020-07-07,E101481,2020-07-07,Personal growth,Yes
+2020-08-02,E101762,2020-07-26,Career path,No
+2020-06-28,E101779,2020-07-03,Personal growth,No
+2020-07-11,E101855,2020-07-08,Career path,No
+2020-07-21,E101983,2020-07-20,Personal growth,No
+2020-07-22,E101996,2020-07-15,Unsupportive scope of work,Yes
+2020-07-17,E102045,2020-07-18,Career path,Yes
+2020-07-10,E102118,2020-07-04,Personal growth,No
+2020-07-12,E102162,2020-07-08,Personal growth,Yes
+2020-07-26,E102190,2020-07-19,Personal growth,No
+2020-07-17,E102534,2020-07-13,Career path,No
+2020-07-07,E102556,2020-07-12,Career path,No
+2020-07-17,E102622,2020-07-22,Unsupportive scope of work,No
+2020-07-22,E102625,2020-07-18,Personal growth,No
+2020-07-28,E102688,2020-07-22,Career path,No
+2020-07-07,E102724,2020-07-04,Career path,No
+2020-07-18,E102883,2020-07-17,Personal growth,No
+2020-07-03,E102919,2020-07-02,Personal growth,No
+2020-07-22,E102968,2020-07-24,Unsupportive scope of work,No
+2020-06-29,E102983,2020-07-01,Leadership,No
+2020-07-15,E103045,2020-07-13,Career path,Yes
+2020-07-26,E103075,2020-07-30,Career path,No
+2020-07-20,E103095,2020-07-11,Career path,No
+2020-07-05,E103126,2020-07-08,Unsupportive scope of work,No
+2020-07-05,E103178,2020-07-01,Leadership,No
+2020-07-07,E103203,2020-07-11,Personal growth,No
+2020-07-07,E103337,2020-07-01,Career path,Yes
+2020-07-22,E103413,2020-07-26,Unsupportive scope of work,No
+2020-07-26,E103469,2020-07-18,Career path,Yes
+2020-07-19,E103476,2020-07-23,Personal growth,No
+2020-07-15,E103508,2020-07-20,Career path,Yes
+2020-06-29,E103697,2020-07-02,Career path,No
+2020-07-22,E103792,2020-07-25,Unsupportive scope of work,No
+2020-07-25,E103793,2020-07-26,Career path,No
+2020-07-24,E103794,2020-07-24,Career path,Yes
+2020-07-15,E103810,2020-07-09,Career path,No
+2020-06-30,E103811,2020-07-02,Personal growth,No
+2020-07-02,E103892,2020-07-01,Unsupportive scope of work,No
+2020-07-24,E103910,2020-07-26,Career path,No
+2020-07-08,E103912,2020-07-06,Personal growth,No
+2020-08-01,E103924,2020-07-26,Personal growth,No
+2020-08-07,E103942,2020-07-30,Personal growth,No
+2020-07-25,E103960,2020-07-29,Personal growth,No
+2020-07-20,E104004,2020-07-16,Personal growth,No
+2020-07-09,E104010,2020-07-08,Personal growth,No
+2020-07-24,E104035,2020-07-29,Unsupportive scope of work,Yes
+2020-07-20,E104053,2020-07-16,Unsupportive scope of work,No
+2020-07-15,E104072,2020-07-14,Personal growth,Yes
+2020-07-19,E104152,2020-07-10,Leadership,Yes
+2020-07-02,E104162,2020-07-07,Personal growth,Yes
+2020-07-11,E104186,2020-07-12,Personal growth,Yes
+2020-08-04,E104192,2020-07-27,Career path,No
+2020-07-26,E104222,2020-07-19,Personal growth,No
+2020-07-19,E104232,2020-07-16,Personal growth,Yes
+2020-07-10,E104241,2020-07-11,Career path,No
+2020-07-07,E104254,2020-07-08,Unsupportive scope of work,Yes
+2020-07-11,E104289,2020-07-05,Career path,No
+2020-07-13,E104290,2020-07-07,Personal growth,Yes
+2020-08-03,E100020,2020-08-07,Personal growth,No
+2020-08-16,E100119,2020-08-17,Personal growth,No
+2020-08-24,E100176,2020-08-20,Career path,No
+2020-08-26,E100210,2020-08-25,Career path,No
+2020-08-19,E100452,2020-08-10,Personal growth,No
+2020-08-07,E100570,2020-08-12,Career path,No
+2020-08-06,E100832,2020-08-05,Personal growth,No
+2020-08-07,E100860,2020-08-01,Career path,No
+2020-08-22,E100893,2020-08-18,Career path,No
+2020-07-30,E101091,2020-08-01,Career path,Yes
+2020-09-05,E101191,2020-08-31,Leadership,No
+2020-08-24,E101350,2020-08-26,Career path,No
+2020-08-25,E101442,2020-08-28,Unsupportive scope of work,No
+2020-08-08,E101583,2020-08-09,Leadership,No
+2020-08-18,E101756,2020-08-10,Career path,Yes
+2020-08-12,E101821,2020-08-14,Unsupportive scope of work,No
+2020-08-08,E101878,2020-08-08,Leadership,No
+2020-07-29,E102066,2020-08-02,Unsupportive scope of work,No
+2020-08-19,E102123,2020-08-23,Unsupportive scope of work,Yes
+2020-09-03,E102214,2020-08-28,Career path,No
+2020-08-02,E102223,2020-08-01,Career path,No
+2020-08-03,E102309,2020-08-06,Career path,No
+2020-08-03,E102457,2020-08-05,Unsupportive scope of work,No
+2020-08-15,E102567,2020-08-14,Career path,No
+2020-07-31,E102619,2020-08-04,Personal growth,No
+2020-08-19,E102640,2020-08-14,Personal growth,No
+2020-08-11,E102683,2020-08-15,Career path,Yes
+2020-08-01,E102721,2020-08-05,Career path,No
+2020-08-19,E102734,2020-08-21,Career path,Yes
+2020-08-26,E102741,2020-08-31,Personal growth,No
+2020-08-22,E102748,2020-08-19,Personal growth,Yes
+2020-08-14,E102783,2020-08-15,Personal growth,Yes
+2020-08-06,E102837,2020-08-09,Unsupportive scope of work,No
+2020-08-22,E102864,2020-08-17,Career path,No
+2020-08-24,E102947,2020-08-20,Personal growth,Yes
+2020-08-21,E103052,2020-08-15,Personal growth,Yes
+2020-08-05,E103094,2020-08-04,Career path,No
+2020-08-25,E103150,2020-08-20,Personal growth,Yes
+2020-08-17,E103232,2020-08-10,Leadership,No
+2020-08-13,E103246,2020-08-13,Personal growth,Yes
+2020-08-20,E103368,2020-08-22,Unsupportive scope of work,No
+2020-09-05,E103539,2020-08-30,Career path,Yes
+2020-08-13,E103587,2020-08-11,Leadership,Yes
+2020-08-18,E103594,2020-08-13,Career path,No
+2020-08-13,E103717,2020-08-10,Personal growth,No
+2020-08-13,E103853,2020-08-08,Career path,No
+2020-08-13,E103855,2020-08-14,Leadership,No
+2020-08-27,E103884,2020-08-19,Career path,No
+2020-08-29,E103946,2020-08-22,Career path,No
+2020-08-02,E104000,2020-08-05,Personal growth,No
+2020-08-24,E104051,2020-08-24,Unsupportive scope of work,No
+2020-08-20,E104136,2020-08-16,Personal growth,Yes
+2020-08-27,E104194,2020-08-19,Leadership,No
+2020-08-22,E104201,2020-08-22,Career path,No
+2020-08-30,E104229,2020-08-22,Personal growth,No
+2020-09-05,E104233,2020-08-30,Leadership,No
+2020-08-30,E104255,2020-08-21,Career path,No
+2020-08-15,E104277,2020-08-11,Personal growth,No
+2020-08-13,E104363,2020-08-15,Personal growth,No
+2020-09-06,E104416,2020-08-31,Career path,No
+2020-08-31,E104419,2020-08-29,Personal growth,Yes
+2020-08-10,E104426,2020-08-04,Personal growth,No
+2020-08-15,E104440,2020-08-12,Unsupportive scope of work,Yes
+2020-08-15,E104448,2020-08-17,Leadership,No
+2020-08-13,E104468,2020-08-15,Career path,No
+2020-09-20,E100114,2020-09-22,Career path,No
+2020-09-29,E100238,2020-09-30,Career path,No
+2020-09-15,E100323,2020-09-15,Personal growth,No
+2020-09-21,E100403,2020-09-19,Personal growth,No
+2020-09-30,E100424,2020-09-29,Personal growth,Yes
+2020-09-26,E100822,2020-09-25,Career path,No
+2020-09-12,E101028,2020-09-05,Personal growth,No
+2020-09-10,E101043,2020-09-10,Career path,No
+2020-10-06,E101090,2020-09-28,Personal growth,No
+2020-09-25,E101166,2020-09-25,Personal growth,No
+2020-09-20,E101221,2020-09-20,Leadership,Yes
+2020-09-19,E101304,2020-09-18,Personal growth,No
+2020-10-07,E101312,2020-09-28,Unsupportive scope of work,No
+2020-09-09,E101401,2020-09-14,Personal growth,No
+2020-09-25,E101630,2020-09-22,Personal growth,No
+2020-10-03,E101794,2020-09-26,Personal growth,No
+2020-09-17,E101848,2020-09-19,Career path,Yes
+2020-09-13,E101943,2020-09-08,Career path,No
+2020-09-21,E101948,2020-09-20,Personal growth,No
+2020-09-28,E102046,2020-09-25,Personal growth,Yes
+2020-09-29,E102154,2020-09-26,Career path,No
+2020-10-03,E102169,2020-09-24,Personal growth,Yes
+2020-09-13,E102254,2020-09-17,Unsupportive scope of work,No
+2020-09-03,E102332,2020-09-01,Career path,No
+2020-09-15,E102374,2020-09-11,Leadership,No
+2020-09-30,E102462,2020-09-25,Leadership,Yes
+2020-09-12,E102497,2020-09-14,Career path,Yes
+2020-09-28,E102853,2020-09-28,Personal growth,No
+2020-09-21,E102932,2020-09-21,Personal growth,No
+2020-09-25,E102956,2020-09-23,Career path,No
+2020-09-10,E102987,2020-09-12,Personal growth,No
+2020-09-28,E103063,2020-09-21,Unsupportive scope of work,Yes
+2020-09-01,E103115,2020-09-04,Unsupportive scope of work,No
+2020-10-06,E103155,2020-09-27,Personal growth,No
+2020-09-06,E103201,2020-09-10,Career path,Yes
+2020-09-28,E103314,2020-09-22,Career path,No
+2020-09-14,E103367,2020-09-07,Personal growth,No
+2020-09-24,E103453,2020-09-18,Career path,Yes
+2020-09-23,E103475,2020-09-23,Unsupportive scope of work,No
+2020-09-07,E103636,2020-09-10,Career path,No
+2020-09-23,E103756,2020-09-17,Personal growth,No
+2020-09-04,E103773,2020-09-03,Personal growth,No
+2020-09-26,E103790,2020-09-18,Personal growth,No
+2020-10-04,E103806,2020-09-27,Personal growth,Yes
+2020-09-20,E103885,2020-09-24,Personal growth,No
+2020-09-20,E103908,2020-09-21,Career path,No
+2020-09-14,E103926,2020-09-07,Unsupportive scope of work,No
+2020-09-05,E104111,2020-09-04,Personal growth,No
+2020-09-07,E104208,2020-09-03,Unsupportive scope of work,No
+2020-09-06,E104273,2020-09-09,Personal growth,No
+2020-09-16,E104282,2020-09-19,Leadership,No
+2020-09-26,E104303,2020-09-25,Leadership,Yes
+2020-09-29,E104340,2020-09-27,Personal growth,No
+2020-09-19,E104346,2020-09-23,Unsupportive scope of work,No
+2020-09-16,E104377,2020-09-12,Leadership,No
+2020-09-13,E104381,2020-09-15,Personal growth,Yes
+2020-09-27,E104444,2020-09-19,Personal growth,No
+2020-09-04,E104507,2020-09-03,Leadership,No
+2020-09-11,E104511,2020-09-07,Leadership,Yes
+2020-09-24,E104515,2020-09-16,Unsupportive scope of work,No
+2020-09-18,E104522,2020-09-10,Unsupportive scope of work,No
+2020-09-25,E104533,2020-09-25,Career path,No
+2020-09-14,E104561,2020-09-19,Personal growth,No
+2020-09-04,E104570,2020-09-05,Personal growth,No
+2020-09-09,E104585,2020-09-09,Unsupportive scope of work,No
+2020-10-04,E104614,2020-09-29,Personal growth,No
+2020-09-09,E104622,2020-09-09,Personal growth,No
+2020-09-26,E104626,2020-09-25,Career path,No
+2020-09-09,E104627,2020-09-01,Unsupportive scope of work,No
+2020-10-24,E100016,2020-10-17,Personal growth,Yes
+2020-10-29,E100129,2020-10-27,Personal growth,No
+2020-09-30,E100154,2020-10-04,Personal growth,Yes
+2020-10-30,E100178,2020-10-26,Career path,Yes
+2020-10-25,E100180,2020-10-20,Career path,No
+2020-10-17,E100334,2020-10-21,Career path,No
+2020-10-15,E100362,2020-10-17,Career path,No
+2020-10-23,E100416,2020-10-16,Leadership,Yes
+2020-10-19,E100427,2020-10-23,Personal growth,Yes
+2020-10-19,E100569,2020-10-20,Unsupportive scope of work,No
+2020-10-27,E100982,2020-10-31,Personal growth,Yes
+2020-10-13,E101027,2020-10-07,Leadership,No
+2020-10-23,E101039,2020-10-17,Unsupportive scope of work,No
+2020-10-22,E101144,2020-10-22,Personal growth,No
+2020-10-26,E101238,2020-10-30,Career path,No
+2020-10-03,E101284,2020-10-03,Unsupportive scope of work,No
+2020-10-22,E101306,2020-10-23,Career path,No
+2020-10-24,E101491,2020-10-28,Career path,No
+2020-10-27,E101499,2020-10-29,Career path,No
+2020-11-06,E101514,2020-10-28,Unsupportive scope of work,No
+2020-10-15,E101597,2020-10-09,Career path,No
+2020-10-16,E101683,2020-10-08,Personal growth,Yes
+2020-10-23,E101719,2020-10-25,Career path,No
+2020-10-02,E101785,2020-10-02,Unsupportive scope of work,No
+2020-10-09,E101906,2020-10-02,Career path,No
+2020-10-16,E101932,2020-10-10,Unsupportive scope of work,No
+2020-10-13,E101957,2020-10-10,Unsupportive scope of work,Yes
+2020-10-17,E102112,2020-10-09,Personal growth,No
+2020-10-11,E102155,2020-10-05,Personal growth,Yes
+2020-10-18,E102181,2020-10-14,Personal growth,Yes
+2020-11-07,E102229,2020-10-30,Unsupportive scope of work,No
+2020-10-02,E102248,2020-10-03,Personal growth,Yes
+2020-10-05,E102444,2020-10-02,Career path,No
+2020-09-30,E102547,2020-10-03,Unsupportive scope of work,No
+2020-11-04,E102561,2020-10-31,Personal growth,Yes
+2020-10-26,E102590,2020-10-23,Leadership,Yes
+2020-10-30,E102595,2020-10-26,Personal growth,No
+2020-10-16,E102599,2020-10-11,Unsupportive scope of work,No
+2020-10-25,E102630,2020-10-18,Personal growth,Yes
+2020-10-16,E102802,2020-10-09,Personal growth,Yes
+2020-10-22,E102844,2020-10-18,Career path,Yes
+2020-10-28,E102856,2020-10-19,Personal growth,No
+2020-10-24,E103028,2020-10-29,Personal growth,No
+2020-10-19,E103188,2020-10-14,Career path,No
+2020-10-11,E103234,2020-10-06,Personal growth,No
+2020-10-21,E103256,2020-10-22,Leadership,No
+2020-11-08,E103392,2020-10-31,Career path,No
+2020-10-22,E103422,2020-10-18,Unsupportive scope of work,No
+2020-10-24,E103614,2020-10-29,Unsupportive scope of work,No
+2020-10-12,E103709,2020-10-16,Career path,No
+2020-10-26,E103868,2020-10-21,Unsupportive scope of work,No
+2020-10-12,E103985,2020-10-09,Personal growth,No
+2020-10-04,E104259,2020-10-09,Career path,No
+2020-10-07,E104314,2020-10-05,Unsupportive scope of work,No
+2020-10-01,E104337,2020-10-06,Personal growth,No
+2020-10-08,E104344,2020-10-09,Career path,No
+2020-10-03,E104361,2020-10-04,Personal growth,No
+2020-10-19,E104376,2020-10-19,Career path,No
+2020-10-09,E104387,2020-10-08,Unsupportive scope of work,Yes
+2020-10-02,E104410,2020-10-04,Personal growth,No
+2020-10-28,E104435,2020-10-23,Career path,No
+2020-10-19,E104443,2020-10-11,Career path,No
+2020-10-02,E104469,2020-10-03,Career path,No
+2020-10-15,E104528,2020-10-06,Career path,Yes
+2020-10-18,E104579,2020-10-14,Unsupportive scope of work,No
+2020-10-23,E104629,2020-10-25,Career path,No
+2020-10-22,E104671,2020-10-15,Personal growth,No
+2020-10-21,E104676,2020-10-17,Career path,Yes
+2020-10-14,E104710,2020-10-12,Personal growth,No
+2020-11-01,E104759,2020-10-29,Personal growth,No
+2020-10-23,E104768,2020-10-27,Career path,No
+2020-10-30,E104769,2020-10-28,Unsupportive scope of work,Yes
+2020-10-01,E104819,2020-10-06,Career path,No
+2020-12-02,E100122,2020-11-26,Personal growth,No
+2020-11-22,E100207,2020-11-24,Personal growth,No
+2020-12-04,E100213,2020-11-29,Personal growth,Yes
+2020-11-23,E100459,2020-11-25,Unsupportive scope of work,No
+2020-11-06,E100602,2020-11-01,Unsupportive scope of work,No
+2020-11-03,E100667,2020-11-08,Leadership,No
+2020-11-08,E100675,2020-11-03,Unsupportive scope of work,No
+2020-11-22,E100739,2020-11-21,Unsupportive scope of work,No
+2020-11-04,E100897,2020-11-06,Unsupportive scope of work,Yes
+2020-11-11,E101206,2020-11-16,Career path,Yes
+2020-12-05,E101490,2020-11-27,Personal growth,Yes
+2020-11-03,E101512,2020-11-02,Career path,Yes
+2020-11-24,E101545,2020-11-26,Career path,No
+2020-11-11,E101554,2020-11-09,Personal growth,No
+2020-12-05,E101601,2020-11-28,Unsupportive scope of work,No
+2020-10-29,E101615,2020-11-02,Leadership,Yes
+2020-11-29,E101886,2020-11-26,Career path,No
+2020-11-29,E101937,2020-11-23,Personal growth,No
+2020-11-03,E101959,2020-11-05,Personal growth,No
+2020-11-21,E102139,2020-11-23,Personal growth,No
+2020-11-14,E102183,2020-11-12,Personal growth,No
+2020-11-05,E102189,2020-11-01,Personal growth,Yes
+2020-11-22,E102203,2020-11-14,Leadership,No
+2020-11-27,E102227,2020-11-24,Personal growth,Yes
+2020-11-22,E102521,2020-11-25,Personal growth,No
+2020-11-16,E102806,2020-11-21,Leadership,No
+2020-11-13,E103033,2020-11-16,Leadership,No
+2020-11-21,E103108,2020-11-19,Career path,No
+2020-11-03,E103132,2020-11-02,Personal growth,Yes
+2020-11-27,E103282,2020-11-21,Unsupportive scope of work,Yes
+2020-11-12,E103293,2020-11-08,Unsupportive scope of work,No
+2020-11-20,E103295,2020-11-16,Career path,No
+2020-11-28,E103632,2020-11-29,Personal growth,Yes
+2020-11-22,E103739,2020-11-25,Leadership,No
+2020-12-02,E103751,2020-11-24,Career path,Yes
+2020-11-02,E103850,2020-11-06,Personal growth,No
+2020-11-18,E104017,2020-11-11,Leadership,No
+2020-10-31,E104063,2020-11-01,Unsupportive scope of work,No
+2020-11-19,E104069,2020-11-10,Career path,No
+2020-10-28,E104237,2020-11-01,Career path,No
+2020-11-21,E104429,2020-11-13,Personal growth,No
+2020-11-03,E104501,2020-11-04,Leadership,No
+2020-11-12,E104518,2020-11-10,Personal growth,No
+2020-11-14,E104529,2020-11-05,Personal growth,Yes
+2020-11-29,E104539,2020-11-26,Personal growth,No
+2020-11-08,E104624,2020-11-05,Unsupportive scope of work,Yes
+2020-11-27,E104644,2020-11-25,Unsupportive scope of work,No
+2020-12-06,E104652,2020-11-28,Personal growth,No
+2020-11-26,E104725,2020-11-27,Unsupportive scope of work,No
+2020-12-06,E104734,2020-11-30,Unsupportive scope of work,No
+2020-12-06,E104835,2020-11-27,Personal growth,No
+2020-12-01,E104865,2020-11-28,Leadership,No
+2020-12-01,E104875,2020-11-25,Personal growth,No
+2020-11-09,E104901,2020-11-03,Personal growth,No
+2020-11-24,E104906,2020-11-17,Personal growth,Yes
+2020-12-03,E104962,2020-11-28,Leadership,No
+2020-11-22,E104963,2020-11-17,Leadership,No
+2020-11-06,E104990,2020-11-09,Unsupportive scope of work,No
+2020-12-15,E100150,2020-12-06,Career path,Yes
+2020-12-21,E100163,2020-12-22,Personal growth,No
+2020-11-30,E100286,2020-12-01,Career path,Yes
+2020-12-20,E100325,2020-12-18,Personal growth,No
+2020-12-11,E100376,2020-12-04,Personal growth,No
+2020-11-28,E100802,2020-12-02,Career path,No
+2020-12-20,E100845,2020-12-13,Career path,No
+2020-12-14,E100874,2020-12-19,Personal growth,No
+2020-12-13,E101058,2020-12-08,Career path,No
+2020-12-06,E101104,2020-12-10,Career path,No
+2020-12-06,E101322,2020-12-09,Unsupportive scope of work,Yes
+2020-12-17,E101409,2020-12-14,Career path,Yes
+2020-12-14,E101546,2020-12-19,Personal growth,No
+2020-12-26,E101556,2020-12-20,Career path,No
+2020-12-23,E101609,2020-12-27,Unsupportive scope of work,No
+2021-01-01,E101611,2020-12-29,Unsupportive scope of work,Yes
+2020-12-10,E101734,2020-12-04,Career path,No
+2020-11-27,E102027,2020-12-01,Unsupportive scope of work,Yes
+2020-12-19,E102087,2020-12-20,Career path,No
+2020-12-23,E102149,2020-12-18,Personal growth,No
+2020-12-03,E102279,2020-12-02,Leadership,Yes
+2020-11-30,E102311,2020-12-03,Personal growth,No
+2020-12-19,E102409,2020-12-23,Personal growth,Yes
+2020-12-21,E102616,2020-12-13,Career path,No
+2020-12-11,E102649,2020-12-08,Personal growth,No
+2020-12-16,E102746,2020-12-20,Unsupportive scope of work,No
+2020-12-31,E102830,2020-12-30,Personal growth,Yes
+2020-12-31,E103085,2020-12-24,Personal growth,Yes
+2020-12-19,E103113,2020-12-16,Career path,No
+2021-01-01,E103163,2020-12-30,Career path,No
+2020-12-27,E103196,2020-12-18,Leadership,Yes
+2020-12-27,E103349,2020-12-26,Career path,No
+2020-12-06,E103382,2020-12-07,Career path,Yes
+2020-12-11,E103479,2020-12-05,Career path,Yes
+2020-12-02,E103607,2020-12-04,Personal growth,Yes
+2020-12-24,E103648,2020-12-29,Career path,No
+2020-12-20,E103841,2020-12-20,Career path,Yes
+2020-12-14,E103873,2020-12-11,Unsupportive scope of work,No
+2020-12-17,E103896,2020-12-12,Personal growth,No
+2020-12-26,E103906,2020-12-26,Unsupportive scope of work,No
+2021-01-08,E104032,2020-12-31,Career path,No
+2020-12-12,E104046,2020-12-09,Career path,No
+2020-12-27,E104083,2020-12-25,Career path,Yes
+2020-12-30,E104146,2020-12-21,Personal growth,Yes
+2020-12-02,E104168,2020-12-02,Personal growth,Yes
+2020-12-10,E104239,2020-12-10,Unsupportive scope of work,Yes
+2020-12-08,E104258,2020-12-11,Personal growth,No
+2020-12-10,E104319,2020-12-10,Unsupportive scope of work,No
+2020-12-08,E104406,2020-12-09,Career path,Yes
+2020-12-13,E104462,2020-12-18,Leadership,Yes
+2020-12-07,E104465,2020-12-02,Leadership,No
+2020-12-15,E104485,2020-12-14,Leadership,No
+2020-12-15,E104486,2020-12-18,Career path,Yes
+2020-12-23,E104505,2020-12-16,Personal growth,Yes
+2020-12-09,E104547,2020-12-09,Unsupportive scope of work,No
+2020-12-14,E104613,2020-12-19,Career path,Yes
+2021-01-01,E104653,2020-12-24,Unsupportive scope of work,No
+2020-12-10,E104669,2020-12-04,Career path,No
+2020-12-13,E104686,2020-12-16,Unsupportive scope of work,Yes
+2020-12-18,E104688,2020-12-22,Career path,No
+2020-12-24,E104771,2020-12-16,Leadership,Yes
+2020-12-16,E104813,2020-12-21,Leadership,No
+2020-12-01,E104885,2020-12-02,Unsupportive scope of work,No
+2021-01-03,E104905,2020-12-26,Leadership,No
+2020-12-28,E104921,2020-12-25,Career path,No
+2020-12-15,E104929,2020-12-15,Leadership,Yes
+2020-12-06,E104940,2020-12-10,Career path,No
+2020-12-10,E104948,2020-12-02,Personal growth,No
+2020-12-06,E104958,2020-12-05,Personal growth,No
+2020-12-12,E105026,2020-12-05,Unsupportive scope of work,Yes
+2020-12-26,E105032,2020-12-17,Unsupportive scope of work,No
+2021-01-04,E105081,2020-12-31,Unsupportive scope of work,No
+2020-12-24,E105094,2020-12-23,Unsupportive scope of work,Yes
+2020-12-12,E105096,2020-12-16,Career path,No
+2020-12-15,E105101,2020-12-18,Leadership,Yes
+2021-01-28,E100229,2021-01-30,Unsupportive scope of work,No
+2021-01-09,E100244,2021-01-10,Unsupportive scope of work,No
+2021-01-18,E100471,2021-01-15,Career path,No
+2021-01-09,E100515,2021-01-14,Personal growth,No
+2021-01-17,E100530,2021-01-14,Career path,Yes
+2021-01-13,E100590,2021-01-09,Career path,No
+2021-01-29,E100596,2021-01-25,Career path,Yes
+2021-01-04,E100781,2021-01-05,Career path,No
+2021-01-17,E100783,2021-01-11,Personal growth,Yes
+2021-01-15,E100993,2021-01-15,Career path,Yes
+2021-01-20,E101034,2021-01-11,Unsupportive scope of work,No
+2021-01-09,E101038,2021-01-09,Leadership,Yes
+2021-01-26,E101344,2021-01-23,Personal growth,No
+2021-01-17,E101421,2021-01-10,Unsupportive scope of work,No
+2021-01-16,E101516,2021-01-09,Unsupportive scope of work,No
+2021-01-14,E101617,2021-01-18,Personal growth,No
+2021-01-03,E101695,2021-01-05,Personal growth,Yes
+2021-01-17,E101708,2021-01-22,Career path,No
+2021-01-06,E101711,2021-01-10,Unsupportive scope of work,No
+2021-01-24,E101849,2021-01-21,Personal growth,No
+2021-01-27,E101929,2021-01-23,Leadership,No
+2021-01-26,E101940,2021-01-22,Leadership,Yes
+2021-01-20,E101942,2021-01-19,Personal growth,No
+2021-01-01,E101960,2021-01-03,Personal growth,No
+2021-01-14,E101997,2021-01-09,Personal growth,No
+2021-01-13,E102021,2021-01-18,Unsupportive scope of work,No
+2021-01-10,E102052,2021-01-13,Career path,No
+2021-01-16,E102109,2021-01-13,Personal growth,No
+2021-01-25,E102352,2021-01-16,Personal growth,No
+2021-01-03,E102396,2021-01-03,Unsupportive scope of work,No
+2021-01-28,E102665,2021-01-29,Career path,No
+2021-01-10,E102686,2021-01-12,Unsupportive scope of work,No
+2021-01-15,E102824,2021-01-15,Leadership,Yes
+2021-01-23,E102872,2021-01-25,Personal growth,No
+2021-01-06,E102925,2021-01-03,Personal growth,No
+2021-01-19,E102938,2021-01-12,Career path,Yes
+2021-01-21,E102991,2021-01-12,Career path,No
+2021-01-18,E103117,2021-01-14,Career path,No
+2021-01-31,E103262,2021-01-25,Unsupportive scope of work,No
+2021-01-23,E103473,2021-01-14,Personal growth,Yes
+2021-01-16,E103500,2021-01-08,Personal growth,Yes
+2021-01-23,E103615,2021-01-23,Unsupportive scope of work,No
+2021-01-30,E103624,2021-01-23,Personal growth,No
+2021-01-20,E103733,2021-01-12,Unsupportive scope of work,No
+2021-01-11,E103755,2021-01-11,Personal growth,No
+2021-01-25,E103844,2021-01-27,Leadership,No
+2021-01-26,E103857,2021-01-22,Personal growth,No
+2021-01-14,E104062,2021-01-09,Unsupportive scope of work,Yes
+2021-01-23,E104064,2021-01-19,Career path,No
+2021-01-12,E104099,2021-01-17,Career path,Yes
+2021-01-25,E104150,2021-01-24,Personal growth,No
+2021-01-28,E104165,2021-01-24,Unsupportive scope of work,No
+2021-01-20,E104324,2021-01-14,Unsupportive scope of work,No
+2021-01-17,E104412,2021-01-15,Career path,No
+2021-01-22,E104454,2021-01-15,Career path,No
+2021-01-29,E104470,2021-01-25,Personal growth,No
+2021-01-07,E104492,2021-01-04,Personal growth,No
+2021-01-12,E104599,2021-01-08,Personal growth,No
+2021-01-14,E104699,2021-01-05,Leadership,No
+2021-01-09,E104712,2021-01-09,Leadership,Yes
+2021-01-04,E104743,2021-01-08,Personal growth,No
+2021-01-02,E104753,2021-01-05,Career path,Yes
+2021-01-22,E104781,2021-01-15,Career path,No
+2021-01-24,E104821,2021-01-18,Personal growth,No
+2021-01-17,E104828,2021-01-22,Career path,Yes
+2021-01-08,E104879,2021-01-04,Personal growth,No
+2021-02-03,E104890,2021-01-26,Career path,No
+2021-01-15,E104937,2021-01-06,Personal growth,No
+2021-01-06,E104975,2021-01-03,Personal growth,No
+2021-01-12,E104977,2021-01-04,Personal growth,Yes
+2021-01-15,E104992,2021-01-09,Unsupportive scope of work,No
+2021-01-25,E105027,2021-01-28,Personal growth,Yes
+2021-01-29,E105070,2021-01-26,Career path,No
+2021-01-09,E105076,2021-01-14,Personal growth,No
+2021-01-14,E105097,2021-01-12,Career path,No
+2021-01-15,E105152,2021-01-17,Personal growth,No
+2021-01-15,E105157,2021-01-19,Personal growth,No
+2021-01-12,E105166,2021-01-05,Unsupportive scope of work,Yes
+2021-01-23,E105215,2021-01-20,Personal growth,No
+2021-01-12,E105227,2021-01-14,Personal growth,No
+2021-01-17,E105233,2021-01-18,Personal growth,Yes
+2021-02-03,E105269,2021-01-25,Career path,No
+2021-02-12,E100147,2021-02-15,Personal growth,No
+2021-02-22,E100307,2021-02-26,Career path,No
+2021-02-05,E100327,2021-02-01,Personal growth,No
+2021-02-18,E100438,2021-02-14,Unsupportive scope of work,Yes
+2021-02-25,E100511,2021-02-27,Career path,No
+2021-02-10,E100539,2021-02-05,Career path,Yes
+2021-02-19,E100541,2021-02-24,Career path,No
+2021-02-21,E100558,2021-02-20,Personal growth,Yes
+2021-02-09,E100849,2021-02-13,Personal growth,No
+2021-02-12,E100856,2021-02-10,Personal growth,Yes
+2021-02-04,E100899,2021-02-06,Personal growth,No
+2021-02-17,E101437,2021-02-12,Unsupportive scope of work,No
+2021-02-10,E101525,2021-02-14,Personal growth,Yes
+2021-02-22,E101967,2021-02-22,Leadership,No
+2021-02-23,E101990,2021-02-21,Career path,No
+2021-02-23,E102038,2021-02-25,Leadership,Yes
+2021-02-16,E102138,2021-02-07,Career path,No
+2021-02-23,E102329,2021-02-23,Personal growth,No
+2021-02-22,E102395,2021-02-18,Personal growth,No
+2021-02-24,E102455,2021-02-19,Career path,No
+2021-02-07,E102608,2021-02-07,Personal growth,No
+2021-01-31,E102687,2021-02-01,Personal growth,No
+2021-02-18,E102736,2021-02-11,Leadership,No
+2021-02-02,E102869,2021-02-03,Leadership,No
+2021-02-18,E102965,2021-02-11,Unsupportive scope of work,No
+2021-02-17,E103018,2021-02-21,Unsupportive scope of work,No
+2021-02-12,E103156,2021-02-10,Unsupportive scope of work,No
+2021-02-07,E103175,2021-02-02,Leadership,Yes
+2021-02-21,E103197,2021-02-20,Career path,Yes
+2021-02-17,E103273,2021-02-10,Personal growth,No
+2021-03-01,E103300,2021-02-20,Career path,No
+2021-02-09,E103335,2021-02-09,Personal growth,No
+2021-02-04,E103390,2021-02-01,Leadership,Yes
+2021-02-09,E103452,2021-02-12,Personal growth,Yes
+2021-02-23,E103638,2021-02-19,Career path,No
+2021-02-25,E103644,2021-02-16,Unsupportive scope of work,No
+2021-02-17,E103955,2021-02-20,Career path,Yes
+2021-02-07,E103998,2021-02-11,Unsupportive scope of work,No
+2021-02-04,E104257,2021-02-01,Unsupportive scope of work,Yes
+2021-03-02,E104325,2021-02-26,Career path,Yes
+2021-02-16,E104372,2021-02-20,Career path,No
+2021-02-02,E104461,2021-02-07,Unsupportive scope of work,No
+2021-03-03,E104479,2021-02-27,Career path,No
+2021-02-14,E104635,2021-02-09,Personal growth,No
+2021-02-04,E104689,2021-02-01,Unsupportive scope of work,No
+2021-02-16,E104824,2021-02-13,Personal growth,No
+2021-03-07,E104861,2021-02-28,Personal growth,No
+2021-02-28,E104871,2021-02-21,Personal growth,Yes
+2021-02-09,E104892,2021-02-01,Career path,No
+2021-02-18,E104923,2021-02-20,Personal growth,No
+2021-03-01,E104964,2021-02-21,Career path,No
+2021-02-06,E105072,2021-02-11,Unsupportive scope of work,No
+2021-02-27,E105124,2021-02-19,Career path,No
+2021-02-11,E105167,2021-02-07,Personal growth,Yes
+2021-02-18,E105173,2021-02-09,Career path,Yes
+2021-02-21,E105197,2021-02-19,Career path,Yes
+2021-02-23,E105252,2021-02-28,Unsupportive scope of work,No
+2021-02-05,E105262,2021-02-08,Personal growth,No
+2021-02-13,E105293,2021-02-17,Career path,No
+2021-02-28,E105317,2021-02-23,Personal growth,No
+2021-03-08,E105413,2021-02-28,Career path,No
+2021-02-06,E105443,2021-02-09,Unsupportive scope of work,No
+2021-02-03,E105448,2021-02-08,Career path,Yes
+2021-02-24,E105454,2021-02-24,Career path,Yes
+2021-03-11,E100013,2021-03-09,Unsupportive scope of work,No
+2021-03-30,E100046,2021-03-22,Career path,No
+2021-04-05,E100073,2021-03-30,Career path,No
+2021-03-18,E100157,2021-03-21,Unsupportive scope of work,No
+2021-03-13,E100220,2021-03-08,Personal growth,No
+2021-03-11,E100546,2021-03-06,Career path,No
+2021-03-21,E100629,2021-03-23,Career path,Yes
+2021-03-19,E100901,2021-03-13,Unsupportive scope of work,Yes
+2021-03-07,E100941,2021-03-08,Personal growth,No
+2021-03-19,E101047,2021-03-24,Personal growth,No
+2021-03-11,E101133,2021-03-15,Unsupportive scope of work,No
+2021-03-18,E101457,2021-03-11,Career path,No
+2021-03-21,E101513,2021-03-20,Personal growth,No
+2021-04-03,E101784,2021-03-30,Personal growth,No
+2021-03-19,E101930,2021-03-11,Career path,Yes
+2021-03-07,E102282,2021-03-12,Unsupportive scope of work,No
+2021-03-20,E102349,2021-03-14,Career path,Yes
+2021-02-26,E102577,2021-03-02,Career path,Yes
+2021-04-02,E102631,2021-03-27,Career path,No
+2021-03-08,E102703,2021-03-13,Career path,No
+2021-03-28,E102848,2021-03-26,Personal growth,Yes
+2021-03-16,E103054,2021-03-14,Personal growth,Yes
+2021-03-26,E103437,2021-03-27,Personal growth,No
+2021-03-12,E103456,2021-03-09,Personal growth,No
+2021-03-28,E103605,2021-03-31,Unsupportive scope of work,No
+2021-03-12,E103685,2021-03-14,Unsupportive scope of work,No
+2021-04-01,E103805,2021-03-23,Personal growth,No
+2021-03-14,E104008,2021-03-14,Unsupportive scope of work,No
+2021-03-15,E104020,2021-03-16,Unsupportive scope of work,Yes
+2021-04-02,E104082,2021-03-24,Career path,No
+2021-04-01,E104265,2021-03-28,Leadership,No
+2021-03-28,E104298,2021-03-21,Unsupportive scope of work,No
+2021-03-13,E104745,2021-03-15,Career path,No
+2021-03-15,E104749,2021-03-15,Unsupportive scope of work,No
+2021-03-11,E104814,2021-03-14,Leadership,No
+2021-03-12,E104968,2021-03-05,Leadership,No
+2021-03-11,E105009,2021-03-02,Unsupportive scope of work,No
+2021-03-17,E105036,2021-03-21,Career path,No
+2021-03-21,E105041,2021-03-26,Career path,No
+2021-03-19,E105159,2021-03-12,Leadership,Yes
+2021-03-07,E105172,2021-03-08,Unsupportive scope of work,No
+2021-03-22,E105224,2021-03-18,Personal growth,Yes
+2021-04-07,E105268,2021-03-30,Unsupportive scope of work,Yes
+2021-03-25,E105347,2021-03-22,Unsupportive scope of work,No
+2021-04-04,E105360,2021-03-31,Unsupportive scope of work,No
+2021-03-21,E105428,2021-03-16,Unsupportive scope of work,No
+2021-03-28,E105431,2021-03-21,Personal growth,No
+2021-04-04,E105434,2021-03-31,Personal growth,No
+2021-03-30,E105436,2021-03-23,Career path,No
+2021-03-05,E105472,2021-03-08,Career path,No
+2021-03-14,E105499,2021-03-09,Career path,No
+2021-03-27,E105500,2021-03-20,Personal growth,No
+2021-03-19,E105509,2021-03-11,Career path,No
+2021-04-01,E105510,2021-03-29,Personal growth,No
+2021-03-23,E105515,2021-03-21,Unsupportive scope of work,No
+2021-03-20,E105519,2021-03-25,Career path,Yes
+2021-03-14,E105539,2021-03-19,Personal growth,No
+2021-02-28,E105555,2021-03-03,Leadership,Yes
+2021-03-30,E105588,2021-03-29,Personal growth,No
+2021-04-01,E105640,2021-03-28,Personal growth,No
+2021-03-15,E105648,2021-03-09,Personal growth,No
+2021-03-07,E105650,2021-03-12,Unsupportive scope of work,Yes
+2021-04-30,E100250,2021-04-29,Career path,No
+2021-04-20,E100641,2021-04-21,Personal growth,No
+2021-04-14,E100670,2021-04-06,Unsupportive scope of work,No
+2021-05-06,E100763,2021-04-29,Personal growth,No
+2021-04-16,E101232,2021-04-10,Personal growth,Yes
+2021-04-17,E101330,2021-04-17,Personal growth,No
+2021-04-05,E101444,2021-04-08,Leadership,No
+2021-04-08,E101452,2021-04-04,Career path,Yes
+2021-05-02,E101592,2021-04-30,Career path,No
+2021-04-27,E101916,2021-04-20,Career path,Yes
+2021-05-08,E102237,2021-04-29,Personal growth,No
+2021-04-29,E102353,2021-04-30,Personal growth,No
+2021-04-07,E102439,2021-04-05,Career path,Yes
+2021-04-16,E102498,2021-04-11,Personal growth,Yes
+2021-04-21,E102551,2021-04-15,Unsupportive scope of work,Yes
+2021-04-28,E102560,2021-04-22,Career path,No
+2021-04-20,E102760,2021-04-23,Unsupportive scope of work,No
+2021-05-01,E102847,2021-04-29,Personal growth,No
+2021-04-26,E102955,2021-04-17,Unsupportive scope of work,No
+2021-05-01,E102977,2021-04-29,Personal growth,Yes
+2021-04-11,E103023,2021-04-03,Personal growth,No
+2021-04-25,E103154,2021-04-23,Personal growth,No
+2021-04-30,E103231,2021-04-24,Career path,No
+2021-04-24,E103239,2021-04-15,Career path,No
+2021-04-27,E103270,2021-04-23,Personal growth,No
+2021-04-20,E103519,2021-04-15,Leadership,No
+2021-04-25,E103768,2021-04-29,Personal growth,No
+2021-04-22,E103782,2021-04-25,Career path,Yes
+2021-04-05,E103786,2021-04-07,Personal growth,No
+2021-04-12,E103937,2021-04-03,Leadership,No
+2021-04-17,E103967,2021-04-11,Career path,No
+2021-04-20,E104019,2021-04-17,Personal growth,No
+2021-04-21,E104117,2021-04-23,Career path,No
+2021-04-10,E104135,2021-04-03,Personal growth,No
+2021-04-23,E104171,2021-04-19,Personal growth,No
+2021-04-26,E104198,2021-04-29,Unsupportive scope of work,Yes
+2021-04-18,E104234,2021-04-18,Career path,No
+2021-04-10,E104274,2021-04-08,Personal growth,No
+2021-04-08,E104357,2021-04-09,Personal growth,No
+2021-04-26,E104382,2021-04-22,Unsupportive scope of work,No
+2021-04-29,E104399,2021-04-24,Unsupportive scope of work,Yes
+2021-04-03,E104466,2021-04-07,Career path,No
+2021-04-29,E104508,2021-04-20,Career path,Yes
+2021-04-23,E104608,2021-04-22,Leadership,Yes
+2021-04-08,E104643,2021-04-04,Career path,Yes
+2021-04-06,E104764,2021-04-01,Personal growth,No
+2021-04-10,E104795,2021-04-07,Personal growth,Yes
+2021-04-19,E104808,2021-04-13,Unsupportive scope of work,No
+2021-04-26,E105034,2021-04-27,Leadership,No
+2021-04-07,E105106,2021-04-11,Personal growth,No
+2021-04-18,E105165,2021-04-21,Career path,Yes
+2021-04-14,E105202,2021-04-07,Leadership,No
+2021-04-13,E105208,2021-04-13,Unsupportive scope of work,Yes
+2021-04-10,E105213,2021-04-09,Career path,No
+2021-04-28,E105241,2021-04-25,Leadership,No
+2021-04-22,E105244,2021-04-22,Personal growth,Yes
+2021-04-20,E105248,2021-04-24,Career path,No
+2021-04-01,E105251,2021-04-02,Career path,No
+2021-05-04,E105294,2021-04-28,Unsupportive scope of work,Yes
+2021-04-10,E105323,2021-04-09,Leadership,Yes
+2021-05-03,E105343,2021-04-30,Personal growth,No
+2021-04-26,E105370,2021-04-27,Career path,No
+2021-04-22,E105398,2021-04-19,Personal growth,Yes
+2021-04-22,E105409,2021-04-20,Unsupportive scope of work,No
+2021-04-28,E105533,2021-04-21,Career path,No
+2021-04-23,E105594,2021-04-25,Unsupportive scope of work,No
+2021-03-28,E105639,2021-04-02,Career path,No
+2021-04-24,E105707,2021-04-20,Leadership,No
+2021-04-13,E105713,2021-04-17,Career path,No
+2021-04-21,E105730,2021-04-15,Career path,No
+2021-04-11,E105751,2021-04-07,Personal growth,No
+2021-04-12,E105772,2021-04-12,Unsupportive scope of work,No
+2021-04-15,E105789,2021-04-07,Personal growth,Yes
+2021-05-01,E105825,2021-04-26,Personal growth,No
+2021-05-14,E100005,2021-05-07,Leadership,No
+2021-05-23,E100008,2021-05-15,Leadership,No
+2021-05-19,E100076,2021-05-19,Unsupportive scope of work,No
+2021-05-23,E100315,2021-05-16,Personal growth,No
+2021-05-18,E100527,2021-05-16,Career path,No
+2021-05-14,E100607,2021-05-08,Career path,No
+2021-05-11,E100727,2021-05-04,Leadership,No
+2021-05-17,E100932,2021-05-14,Unsupportive scope of work,Yes
+2021-05-27,E101119,2021-05-22,Career path,Yes
+2021-05-17,E101267,2021-05-11,Unsupportive scope of work,No
+2021-05-04,E101631,2021-05-04,Unsupportive scope of work,Yes
+2021-05-25,E101749,2021-05-20,Unsupportive scope of work,Yes
+2021-05-29,E101751,2021-05-24,Career path,Yes
+2021-05-13,E101917,2021-05-04,Unsupportive scope of work,No
+2021-06-05,E101958,2021-05-28,Unsupportive scope of work,No
+2021-05-19,E102125,2021-05-23,Unsupportive scope of work,No
+2021-06-06,E102158,2021-05-29,Personal growth,Yes
+2021-05-18,E102166,2021-05-20,Career path,No
+2021-05-03,E102241,2021-05-02,Personal growth,No
+2021-05-22,E102357,2021-05-27,Personal growth,No
+2021-05-31,E102503,2021-05-29,Personal growth,Yes
+2021-05-31,E102544,2021-05-26,Unsupportive scope of work,No
+2021-05-05,E102600,2021-05-07,Personal growth,No
+2021-06-05,E102706,2021-05-27,Career path,No
+2021-05-22,E102982,2021-05-27,Personal growth,No
+2021-06-02,E103031,2021-05-30,Personal growth,No
+2021-05-06,E103142,2021-05-04,Unsupportive scope of work,No
+2021-05-20,E103455,2021-05-15,Career path,Yes
+2021-06-03,E103591,2021-05-25,Personal growth,No
+2021-05-19,E103604,2021-05-17,Unsupportive scope of work,No
+2021-05-20,E103687,2021-05-13,Career path,No
+2021-05-09,E103731,2021-05-03,Unsupportive scope of work,No
+2021-04-30,E103752,2021-05-05,Unsupportive scope of work,Yes
+2021-05-29,E103843,2021-05-26,Leadership,No
+2021-05-26,E103941,2021-05-17,Personal growth,No
+2021-05-28,E104147,2021-05-21,Career path,No
+2021-05-29,E104336,2021-05-23,Leadership,No
+2021-05-05,E104521,2021-05-07,Career path,No
+2021-05-17,E104549,2021-05-09,Unsupportive scope of work,No
+2021-05-16,E104638,2021-05-19,Unsupportive scope of work,Yes
+2021-06-07,E104664,2021-05-29,Career path,No
+2021-05-21,E105014,2021-05-12,Unsupportive scope of work,Yes
+2021-05-13,E105195,2021-05-18,Personal growth,No
+2021-05-29,E105319,2021-05-25,Personal growth,No
+2021-06-09,E105351,2021-05-31,Leadership,No
+2021-05-17,E105355,2021-05-22,Leadership,No
+2021-05-06,E105405,2021-05-08,Career path,Yes
+2021-05-28,E105425,2021-05-31,Unsupportive scope of work,No
+2021-05-08,E105482,2021-05-01,Career path,No
+2021-05-25,E105562,2021-05-30,Career path,Yes
+2021-05-18,E105598,2021-05-10,Personal growth,No
+2021-05-01,E105606,2021-05-01,Unsupportive scope of work,No
+2021-05-16,E105627,2021-05-17,Career path,No
+2021-05-08,E105671,2021-05-10,Unsupportive scope of work,No
+2021-05-20,E105769,2021-05-13,Leadership,Yes
+2021-05-13,E105863,2021-05-09,Leadership,No
+2021-05-23,E105889,2021-05-24,Unsupportive scope of work,Yes
+2021-05-16,E105919,2021-05-20,Career path,No
+2021-05-16,E105929,2021-05-11,Personal growth,Yes
+2021-05-27,E105930,2021-05-31,Leadership,Yes
+2021-05-03,E105956,2021-05-06,Personal growth,No
+2021-05-12,E105995,2021-05-14,Personal growth,No
+2021-06-07,E100003,2021-06-12,Leadership,No
+2021-06-14,E100054,2021-06-05,Career path,No
+2021-06-09,E100198,2021-06-11,Leadership,Yes
+2021-06-25,E100255,2021-06-25,Unsupportive scope of work,No
+2021-06-29,E100445,2021-06-22,Career path,No
+2021-06-23,E100554,2021-06-18,Career path,No
+2021-06-29,E100726,2021-06-27,Personal growth,No
+2021-07-02,E100730,2021-06-25,Personal growth,Yes
+2021-07-06,E100824,2021-06-28,Career path,No
+2021-06-17,E101136,2021-06-17,Career path,No
+2021-06-06,E101922,2021-06-09,Career path,No
+2021-07-05,E102607,2021-06-29,Personal growth,No
+2021-05-28,E102695,2021-06-01,Personal growth,Yes
+2021-07-01,E103313,2021-06-24,Leadership,No
+2021-06-20,E103373,2021-06-15,Career path,No
+2021-06-18,E103384,2021-06-19,Leadership,No
+2021-06-07,E103517,2021-06-12,Personal growth,No
+2021-06-28,E103623,2021-06-24,Unsupportive scope of work,Yes
+2021-06-27,E104070,2021-06-22,Career path,No
+2021-06-01,E104090,2021-06-06,Career path,Yes
+2021-06-11,E104191,2021-06-02,Unsupportive scope of work,Yes
+2021-06-15,E104354,2021-06-10,Personal growth,Yes
+2021-06-02,E104540,2021-06-01,Personal growth,Yes
+2021-06-15,E104548,2021-06-15,Unsupportive scope of work,No
+2021-07-09,E104709,2021-06-30,Unsupportive scope of work,No
+2021-06-16,E104735,2021-06-11,Personal growth,No
+2021-06-28,E104783,2021-06-27,Career path,Yes
+2021-06-19,E104787,2021-06-12,Career path,No
+2021-06-20,E104818,2021-06-12,Personal growth,No
+2021-06-09,E104855,2021-06-06,Leadership,Yes
+2021-05-31,E104911,2021-06-03,Personal growth,No
+2021-06-22,E105044,2021-06-22,Personal growth,No
+2021-06-20,E105189,2021-06-25,Unsupportive scope of work,Yes
+2021-07-04,E105304,2021-06-29,Career path,No
+2021-06-15,E105342,2021-06-19,Personal growth,No
+2021-06-22,E105352,2021-06-15,Personal growth,Yes
+2021-05-31,E105359,2021-06-02,Unsupportive scope of work,No
+2021-06-25,E105400,2021-06-25,Career path,No
+2021-06-14,E105486,2021-06-13,Unsupportive scope of work,No
+2021-06-26,E105596,2021-06-26,Unsupportive scope of work,No
+2021-06-27,E105601,2021-06-19,Career path,No
+2021-06-09,E105641,2021-06-07,Personal growth,No
+2021-06-19,E105683,2021-06-12,Career path,No
+2021-06-21,E105726,2021-06-14,Career path,Yes
+2021-06-11,E105738,2021-06-05,Personal growth,Yes
+2021-06-17,E105745,2021-06-15,Personal growth,No
+2021-06-27,E105746,2021-06-21,Personal growth,Yes
+2021-05-31,E105754,2021-06-03,Career path,No
+2021-06-22,E105778,2021-06-18,Career path,No
+2021-06-16,E105783,2021-06-17,Unsupportive scope of work,No
+2021-06-19,E105833,2021-06-21,Personal growth,No
+2021-06-14,E105947,2021-06-16,Career path,No
+2021-06-14,E106019,2021-06-11,Unsupportive scope of work,No
+2021-06-28,E106021,2021-06-30,Career path,No
+2021-06-03,E106049,2021-06-08,Career path,No
+2021-06-16,E106055,2021-06-08,Career path,No
+2021-07-04,E106066,2021-06-28,Personal growth,No
+2021-06-26,E106108,2021-06-18,Personal growth,No
+2021-06-01,E106109,2021-06-01,Personal growth,No
+2021-06-16,E106117,2021-06-11,Career path,No
+2021-07-02,E106168,2021-06-30,Career path,No
+2021-08-08,E100237,2021-07-31,Leadership,No
+2021-07-14,E100271,2021-07-18,Career path,No
+2021-07-14,E100350,2021-07-17,Personal growth,No
+2021-07-04,E100355,2021-07-01,Unsupportive scope of work,No
+2021-07-14,E100382,2021-07-14,Unsupportive scope of work,No
+2021-07-25,E100447,2021-07-22,Unsupportive scope of work,No
+2021-06-29,E100626,2021-07-02,Leadership,No
+2021-07-10,E100779,2021-07-14,Leadership,No
+2021-07-15,E100986,2021-07-14,Leadership,No
+2021-07-13,E101077,2021-07-10,Unsupportive scope of work,No
+2021-07-20,E101180,2021-07-23,Personal growth,Yes
+2021-07-30,E101210,2021-07-27,Leadership,Yes
+2021-07-25,E101465,2021-07-17,Personal growth,No
+2021-07-21,E101680,2021-07-15,Career path,No
+2021-07-21,E101689,2021-07-18,Personal growth,No
+2021-07-18,E101732,2021-07-21,Personal growth,No
+2021-07-17,E101737,2021-07-08,Unsupportive scope of work,Yes
+2021-07-17,E101986,2021-07-16,Career path,No
+2021-07-23,E101998,2021-07-16,Leadership,No
+2021-08-06,E102410,2021-07-30,Personal growth,No
+2021-07-18,E102558,2021-07-12,Career path,Yes
+2021-07-18,E102671,2021-07-21,Career path,No
+2021-07-25,E102979,2021-07-28,Career path,No
+2021-07-15,E103224,2021-07-11,Career path,Yes
+2021-07-21,E103419,2021-07-15,Unsupportive scope of work,No
+2021-07-21,E103521,2021-07-21,Career path,No
+2021-07-01,E103555,2021-07-01,Career path,Yes
+2021-08-07,E103688,2021-07-31,Personal growth,Yes
+2021-07-31,E104061,2021-07-30,Personal growth,Yes
+2021-07-18,E104066,2021-07-23,Personal growth,No
+2021-07-31,E104075,2021-07-29,Personal growth,No
+2021-07-06,E104369,2021-07-01,Personal growth,No
+2021-07-28,E104421,2021-07-28,Career path,Yes
+2021-07-12,E104474,2021-07-11,Career path,No
+2021-07-04,E104489,2021-07-05,Career path,No
+2021-07-23,E104545,2021-07-14,Personal growth,Yes
+2021-07-13,E104559,2021-07-14,Personal growth,Yes
+2021-07-09,E104727,2021-07-09,Personal growth,Yes
+2021-07-17,E104744,2021-07-13,Leadership,No
+2021-07-22,E104836,2021-07-16,Leadership,Yes
+2021-08-01,E104854,2021-07-24,Personal growth,Yes
+2021-07-11,E104858,2021-07-16,Career path,No
+2021-07-18,E104920,2021-07-18,Personal growth,No
+2021-07-24,E104931,2021-07-21,Career path,Yes
+2021-08-04,E104934,2021-07-28,Personal growth,No
+2021-07-08,E104951,2021-07-12,Personal growth,No
+2021-07-14,E105078,2021-07-05,Personal growth,Yes
+2021-08-08,E105082,2021-07-30,Unsupportive scope of work,No
+2021-07-20,E105092,2021-07-23,Career path,No
+2021-07-14,E105111,2021-07-14,Career path,No
+2021-08-04,E105154,2021-07-28,Unsupportive scope of work,Yes
+2021-07-14,E105228,2021-07-13,Leadership,No
+2021-07-09,E105243,2021-07-14,Leadership,Yes
+2021-07-15,E105250,2021-07-20,Career path,No
+2021-08-07,E105305,2021-07-30,Career path,No
+2021-07-29,E105348,2021-07-30,Personal growth,No
+2021-07-23,E105408,2021-07-22,Leadership,No
+2021-07-17,E105488,2021-07-14,Leadership,No
+2021-07-08,E105611,2021-07-08,Career path,No
+2021-07-12,E105659,2021-07-04,Career path,Yes
+2021-07-25,E105706,2021-07-19,Leadership,No
+2021-07-13,E105764,2021-07-13,Leadership,No
+2021-07-20,E105780,2021-07-21,Career path,No
+2021-07-28,E105801,2021-07-31,Personal growth,No
+2021-07-10,E105873,2021-07-12,Unsupportive scope of work,No
+2021-07-03,E105960,2021-07-05,Personal growth,No
+2021-07-05,E105966,2021-07-06,Career path,No
+2021-07-17,E106024,2021-07-19,Personal growth,No
+2021-08-01,E106026,2021-07-26,Personal growth,No
+2021-07-26,E106035,2021-07-22,Unsupportive scope of work,No
+2021-07-09,E106087,2021-07-01,Career path,Yes
+2021-07-24,E106105,2021-07-24,Leadership,No
+2021-07-21,E106122,2021-07-17,Career path,No
+2021-07-20,E106140,2021-07-20,Personal growth,No
+2021-07-30,E106170,2021-07-27,Leadership,No
+2021-07-16,E106218,2021-07-21,Career path,Yes
+2021-07-06,E106227,2021-07-09,Leadership,No
+2021-08-04,E106257,2021-07-29,Career path,No
+2021-06-30,E106261,2021-07-05,Leadership,Yes
+2021-07-30,E106263,2021-07-25,Personal growth,No
+2021-07-27,E106272,2021-07-22,Career path,No
+2021-07-15,E106292,2021-07-07,Career path,No
+2021-08-03,E106304,2021-07-30,Personal growth,Yes
+2021-07-28,E106322,2021-07-29,Leadership,Yes
+2021-07-25,E106324,2021-07-26,Personal growth,No
+2021-08-01,E106332,2021-07-31,Personal growth,No
+2021-08-09,E100078,2021-08-13,Career path,No
+2021-07-28,E100366,2021-08-02,Personal growth,No
+2021-08-22,E100436,2021-08-18,Personal growth,No
+2021-08-14,E100548,2021-08-18,Career path,No
+2021-08-16,E100683,2021-08-08,Career path,Yes
+2021-08-11,E100694,2021-08-12,Unsupportive scope of work,Yes
+2021-08-27,E100750,2021-08-26,Unsupportive scope of work,Yes
+2021-08-21,E100886,2021-08-13,Leadership,No
+2021-08-18,E101129,2021-08-16,Personal growth,No
+2021-08-20,E101203,2021-08-24,Personal growth,No
+2021-08-31,E101471,2021-08-25,Career path,No
+2021-08-08,E101569,2021-08-08,Career path,No
+2021-08-12,E101599,2021-08-14,Career path,No
+2021-08-07,E101951,2021-08-09,Personal growth,Yes
+2021-08-14,E102018,2021-08-13,Personal growth,No
+2021-08-29,E102264,2021-08-29,Career path,No
+2021-08-16,E102484,2021-08-12,Personal growth,No
+2021-08-23,E102500,2021-08-24,Career path,Yes
+2021-08-15,E103131,2021-08-17,Personal growth,Yes
+2021-08-11,E103214,2021-08-11,Personal growth,No
+2021-09-06,E103238,2021-08-28,Unsupportive scope of work,No
+2021-08-31,E103516,2021-08-29,Unsupportive scope of work,Yes
+2021-08-17,E104025,2021-08-21,Personal growth,Yes
+2021-08-23,E104170,2021-08-16,Career path,No
+2021-08-22,E104235,2021-08-22,Career path,Yes
+2021-08-22,E104328,2021-08-24,Leadership,No
+2021-08-11,E104502,2021-08-06,Career path,No
+2021-08-15,E104524,2021-08-12,Unsupportive scope of work,Yes
+2021-08-05,E104621,2021-08-03,Career path,No
+2021-08-21,E104647,2021-08-16,Leadership,No
+2021-08-15,E105060,2021-08-06,Career path,No
+2021-08-18,E105065,2021-08-09,Personal growth,No
+2021-08-25,E105125,2021-08-29,Personal growth,Yes
+2021-08-27,E105137,2021-08-28,Career path,Yes
+2021-08-23,E105212,2021-08-18,Unsupportive scope of work,No
+2021-08-26,E105310,2021-08-20,Career path,No
+2021-08-28,E105333,2021-08-27,Leadership,No
+2021-09-01,E105430,2021-08-23,Unsupportive scope of work,No
+2021-08-04,E105613,2021-08-06,Leadership,No
+2021-08-09,E105614,2021-08-11,Unsupportive scope of work,No
+2021-08-08,E105630,2021-08-03,Career path,No
+2021-08-29,E105664,2021-08-28,Career path,Yes
+2021-09-04,E105665,2021-08-28,Personal growth,No
+2021-08-30,E105680,2021-08-29,Personal growth,No
+2021-08-21,E105842,2021-08-20,Personal growth,No
+2021-08-27,E105878,2021-08-25,Unsupportive scope of work,Yes
+2021-08-17,E105937,2021-08-16,Leadership,Yes
+2021-08-23,E106008,2021-08-25,Leadership,Yes
+2021-09-01,E106022,2021-08-26,Leadership,No
+2021-08-14,E106052,2021-08-16,Career path,Yes
+2021-09-05,E106084,2021-08-27,Unsupportive scope of work,Yes
+2021-09-04,E106118,2021-08-27,Personal growth,No
+2021-08-17,E106158,2021-08-08,Personal growth,Yes
+2021-08-23,E106161,2021-08-23,Career path,Yes
+2021-08-14,E106176,2021-08-11,Career path,Yes
+2021-08-28,E106182,2021-08-24,Personal growth,No
+2021-08-30,E106192,2021-08-30,Personal growth,No
+2021-08-26,E106216,2021-08-25,Unsupportive scope of work,Yes
+2021-08-05,E106243,2021-08-06,Career path,No
+2021-08-05,E106244,2021-08-10,Career path,No
+2021-08-23,E106251,2021-08-16,Leadership,Yes
+2021-08-25,E106291,2021-08-23,Leadership,No
+2021-08-09,E106306,2021-08-06,Unsupportive scope of work,No
+2021-07-28,E106321,2021-08-01,Unsupportive scope of work,No
+2021-08-12,E106334,2021-08-08,Career path,Yes
+2021-08-08,E106368,2021-08-04,Career path,No
+2021-08-20,E106396,2021-08-12,Career path,No
+2021-08-10,E106409,2021-08-12,Unsupportive scope of work,No
+2021-08-13,E106422,2021-08-18,Unsupportive scope of work,No
+2021-08-29,E106426,2021-08-23,Personal growth,No
+2021-08-26,E106438,2021-08-23,Career path,No
+2021-08-03,E106449,2021-08-08,Personal growth,No
+2021-08-19,E106457,2021-08-11,Career path,No
+2021-08-26,E106494,2021-08-20,Career path,No
+2021-09-05,E106513,2021-08-31,Personal growth,No
+2021-08-20,E106530,2021-08-11,Personal growth,Yes
+2021-08-04,E106537,2021-08-09,Unsupportive scope of work,Yes
+2021-09-23,E100033,2021-09-26,Career path,Yes
+2021-09-06,E100080,2021-09-01,Unsupportive scope of work,Yes
+2021-09-24,E100105,2021-09-24,Personal growth,No
+2021-09-02,E100243,2021-09-03,Career path,No
+2021-09-20,E100913,2021-09-22,Career path,No
+2021-09-21,E101081,2021-09-22,Career path,No
+2021-09-26,E101168,2021-09-20,Unsupportive scope of work,Yes
+2021-09-11,E101360,2021-09-08,Personal growth,No
+2021-09-30,E101470,2021-09-24,Personal growth,No
+2021-09-16,E101493,2021-09-10,Unsupportive scope of work,No
+2021-09-22,E101595,2021-09-27,Personal growth,No
+2021-09-06,E101646,2021-09-04,Unsupportive scope of work,Yes
+2021-09-08,E101790,2021-09-09,Career path,Yes
+2021-09-12,E101791,2021-09-10,Personal growth,No
+2021-09-17,E102074,2021-09-17,Personal growth,No
+2021-09-22,E102098,2021-09-23,Leadership,No
+2021-08-29,E102111,2021-09-03,Personal growth,No
+2021-10-01,E102152,2021-09-30,Leadership,No
+2021-09-09,E102389,2021-09-14,Career path,Yes
+2021-09-24,E102426,2021-09-25,Leadership,No
+2021-09-24,E102647,2021-09-22,Leadership,No
+2021-09-18,E102726,2021-09-21,Personal growth,No
+2021-09-07,E102862,2021-09-03,Career path,Yes
+2021-10-03,E102865,2021-09-29,Personal growth,No
+2021-09-06,E102936,2021-09-08,Unsupportive scope of work,No
+2021-09-09,E103199,2021-09-13,Personal growth,Yes
+2021-09-12,E103242,2021-09-13,Unsupportive scope of work,Yes
+2021-09-20,E103364,2021-09-12,Leadership,No
+2021-09-10,E103580,2021-09-04,Personal growth,No
+2021-09-10,E103693,2021-09-14,Personal growth,Yes
+2021-09-19,E103887,2021-09-24,Leadership,No
+2021-09-12,E104375,2021-09-17,Leadership,Yes
+2021-09-13,E104414,2021-09-17,Personal growth,No
+2021-09-03,E104480,2021-09-01,Leadership,No
+2021-09-27,E104516,2021-09-27,Personal growth,No
+2021-09-20,E104542,2021-09-21,Unsupportive scope of work,No
+2021-09-09,E104719,2021-09-09,Career path,Yes
+2021-09-04,E104856,2021-09-03,Career path,Yes
+2021-09-15,E104907,2021-09-07,Unsupportive scope of work,No
+2021-09-16,E104972,2021-09-10,Leadership,No
+2021-09-09,E105025,2021-09-05,Personal growth,No
+2021-09-22,E105119,2021-09-22,Leadership,No
+2021-09-22,E105126,2021-09-21,Personal growth,Yes
+2021-09-20,E105185,2021-09-24,Personal growth,No
+2021-09-13,E105211,2021-09-18,Career path,No
+2021-09-11,E105442,2021-09-10,Unsupportive scope of work,No
+2021-09-24,E105666,2021-09-29,Career path,Yes
+2021-09-12,E105728,2021-09-10,Career path,Yes
+2021-09-12,E105850,2021-09-15,Unsupportive scope of work,No
+2021-09-19,E106048,2021-09-10,Leadership,No
+2021-09-06,E106173,2021-09-09,Career path,No
+2021-09-29,E106213,2021-09-29,Unsupportive scope of work,No
+2021-09-25,E106242,2021-09-26,Career path,No
+2021-10-06,E106265,2021-09-27,Personal growth,No
+2021-09-12,E106296,2021-09-03,Personal growth,No
+2021-09-19,E106301,2021-09-24,Unsupportive scope of work,No
+2021-10-01,E106335,2021-09-23,Career path,Yes
+2021-09-13,E106345,2021-09-11,Personal growth,No
+2021-09-17,E106356,2021-09-17,Personal growth,No
+2021-09-11,E106370,2021-09-02,Leadership,No
+2021-09-23,E106373,2021-09-28,Career path,No
+2021-09-30,E106434,2021-09-28,Career path,No
+2021-09-27,E106485,2021-09-30,Career path,No
+2021-09-29,E106511,2021-09-23,Career path,No
+2021-08-31,E106515,2021-09-02,Personal growth,No
+2021-09-12,E106535,2021-09-17,Personal growth,Yes
+2021-09-21,E106571,2021-09-24,Career path,Yes
+2021-09-24,E106576,2021-09-19,Personal growth,No
+2021-09-08,E106589,2021-09-02,Career path,Yes
+2021-10-03,E106620,2021-09-27,Career path,Yes
+2021-10-02,E106624,2021-09-27,Personal growth,No
+2021-09-25,E106660,2021-09-19,Leadership,Yes
+2021-09-07,E106705,2021-09-02,Career path,Yes
+2021-09-18,E106720,2021-09-19,Career path,No
+2021-10-29,E100112,2021-10-23,Personal growth,No
+2021-11-02,E100337,2021-10-30,Personal growth,No
+2021-10-08,E100610,2021-10-05,Unsupportive scope of work,Yes
+2021-09-30,E100624,2021-10-04,Personal growth,No
+2021-10-20,E100647,2021-10-20,Personal growth,No
+2021-10-18,E100690,2021-10-14,Unsupportive scope of work,Yes
+2021-10-19,E101019,2021-10-16,Personal growth,No
+2021-10-09,E101072,2021-10-07,Unsupportive scope of work,No
+2021-10-24,E101097,2021-10-24,Leadership,Yes
+2021-10-16,E101224,2021-10-09,Career path,No
+2021-10-27,E101246,2021-10-30,Career path,No
+2021-10-11,E101460,2021-10-14,Personal growth,No
+2021-10-14,E101865,2021-10-14,Unsupportive scope of work,No
+2021-10-12,E101880,2021-10-08,Unsupportive scope of work,No
+2021-10-28,E102003,2021-10-28,Career path,No
+2021-10-27,E102028,2021-10-23,Career path,No
+2021-10-28,E102054,2021-10-24,Career path,No
+2021-10-09,E102207,2021-10-11,Personal growth,Yes
+2021-10-26,E102249,2021-10-23,Career path,No
+2021-10-14,E102259,2021-10-09,Career path,No
+2021-10-08,E102528,2021-10-11,Personal growth,No
+2021-10-30,E102554,2021-10-21,Personal growth,No
+2021-10-04,E102572,2021-10-09,Leadership,No
+2021-10-16,E102818,2021-10-14,Unsupportive scope of work,No
+2021-11-03,E103032,2021-10-28,Career path,No
+2021-10-17,E103070,2021-10-17,Leadership,No
+2021-11-02,E103235,2021-10-27,Personal growth,No
+2021-10-23,E103412,2021-10-15,Personal growth,No
+2021-10-13,E103708,2021-10-16,Leadership,No
+2021-10-20,E104039,2021-10-13,Personal growth,No
+2021-10-16,E104177,2021-10-17,Career path,No
+2021-10-15,E104423,2021-10-18,Career path,No
+2021-10-30,E104543,2021-10-25,Career path,Yes
+2021-11-01,E104606,2021-10-31,Career path,No
+2021-10-05,E104805,2021-10-03,Personal growth,No
+2021-10-18,E104823,2021-10-21,Career path,No
+2021-10-09,E104908,2021-10-08,Personal growth,Yes
+2021-10-29,E105012,2021-10-28,Leadership,No
+2021-10-21,E105286,2021-10-12,Leadership,No
+2021-10-30,E105320,2021-10-24,Leadership,No
+2021-11-05,E105371,2021-10-27,Personal growth,Yes
+2021-10-10,E105427,2021-10-07,Career path,Yes
+2021-10-09,E105477,2021-10-12,Unsupportive scope of work,Yes
+2021-09-29,E105490,2021-10-03,Unsupportive scope of work,Yes
+2021-10-23,E105537,2021-10-27,Career path,Yes
+2021-10-23,E105591,2021-10-17,Personal growth,No
+2021-10-09,E105643,2021-10-10,Leadership,No
+2021-10-17,E105651,2021-10-15,Career path,No
+2021-10-26,E105727,2021-10-23,Personal growth,Yes
+2021-10-16,E105732,2021-10-10,Personal growth,Yes
+2021-10-26,E105733,2021-10-23,Career path,No
+2021-10-29,E106038,2021-10-23,Leadership,Yes
+2021-10-12,E106041,2021-10-09,Career path,No
+2021-10-10,E106276,2021-10-10,Personal growth,Yes
+2021-10-19,E106376,2021-10-11,Career path,No
+2021-10-14,E106383,2021-10-14,Unsupportive scope of work,No
+2021-10-11,E106385,2021-10-07,Unsupportive scope of work,No
+2021-10-21,E106521,2021-10-23,Leadership,No
+2021-10-16,E106536,2021-10-16,Unsupportive scope of work,Yes
+2021-10-19,E106547,2021-10-21,Unsupportive scope of work,No
+2021-10-16,E106554,2021-10-09,Career path,Yes
+2021-10-17,E106559,2021-10-18,Personal growth,Yes
+2021-10-28,E106583,2021-10-31,Personal growth,No
+2021-10-05,E106626,2021-10-03,Career path,No
+2021-10-13,E106628,2021-10-10,Leadership,Yes
+2021-10-16,E106659,2021-10-12,Career path,No
+2021-10-22,E106726,2021-10-13,Career path,No
+2021-11-03,E106728,2021-10-30,Personal growth,No
+2021-10-14,E106756,2021-10-17,Leadership,Yes
+2021-10-23,E106777,2021-10-27,Career path,No
+2021-10-01,E106791,2021-10-02,Career path,Yes
+2021-11-02,E106819,2021-10-26,Career path,Yes
+2021-10-01,E106834,2021-10-01,Leadership,Yes
+2021-10-17,E106835,2021-10-10,Career path,No
+2021-11-01,E106850,2021-10-30,Unsupportive scope of work,No
+2021-10-15,E106856,2021-10-09,Personal growth,Yes
+2021-11-02,E106900,2021-10-26,Leadership,No
+2021-11-18,E100329,2021-11-21,Personal growth,No
+2021-11-05,E100372,2021-11-06,Personal growth,No
+2021-11-14,E100415,2021-11-07,Personal growth,No
+2021-11-15,E100723,2021-11-10,Unsupportive scope of work,No
+2021-11-19,E100957,2021-11-17,Unsupportive scope of work,No
+2021-11-13,E100995,2021-11-12,Leadership,No
+2021-11-16,E101217,2021-11-07,Career path,No
+2021-12-03,E101254,2021-11-30,Career path,Yes
+2021-11-22,E101456,2021-11-16,Career path,No
+2021-11-21,E101805,2021-11-24,Unsupportive scope of work,No
+2021-11-15,E101827,2021-11-14,Unsupportive scope of work,No
+2021-11-13,E102150,2021-11-05,Leadership,No
+2021-10-31,E102219,2021-11-05,Career path,No
+2021-11-18,E102923,2021-11-14,Leadership,No
+2021-12-04,E103245,2021-11-26,Unsupportive scope of work,No
+2021-11-19,E103265,2021-11-16,Unsupportive scope of work,No
+2021-11-24,E103389,2021-11-23,Unsupportive scope of work,No
+2021-12-03,E103723,2021-11-27,Career path,Yes
+2021-12-03,E103958,2021-11-25,Career path,Yes
+2021-11-10,E103964,2021-11-11,Leadership,Yes
+2021-11-20,E104318,2021-11-24,Personal growth,No
+2021-10-30,E104582,2021-11-03,Personal growth,Yes
+2021-11-26,E104848,2021-11-20,Personal growth,No
+2021-11-14,E104946,2021-11-11,Personal growth,Yes
+2021-12-02,E105083,2021-11-29,Leadership,No
+2021-11-23,E105121,2021-11-25,Unsupportive scope of work,No
+2021-11-18,E105136,2021-11-09,Leadership,No
+2021-11-29,E105382,2021-11-30,Personal growth,No
+2021-11-23,E105433,2021-11-17,Career path,No
+2021-12-01,E105570,2021-11-24,Personal growth,Yes
+2021-11-19,E105595,2021-11-16,Personal growth,No
+2021-11-12,E105689,2021-11-03,Unsupportive scope of work,No
+2021-12-04,E105759,2021-11-26,Unsupportive scope of work,No
+2021-11-30,E105784,2021-11-30,Personal growth,No
+2021-11-27,E105869,2021-11-23,Unsupportive scope of work,No
+2021-10-31,E105934,2021-11-04,Unsupportive scope of work,Yes
+2021-11-06,E105978,2021-11-09,Leadership,No
+2021-11-07,E105982,2021-11-03,Personal growth,Yes
+2021-12-03,E106180,2021-11-24,Personal growth,No
+2021-11-23,E106463,2021-11-27,Career path,No
+2021-11-28,E106506,2021-11-21,Personal growth,No
+2021-11-26,E106541,2021-11-20,Unsupportive scope of work,No
+2021-11-24,E106577,2021-11-29,Unsupportive scope of work,Yes
+2021-11-02,E106638,2021-11-02,Career path,No
+2021-11-01,E106686,2021-11-03,Career path,No
+2021-12-03,E106792,2021-11-30,Unsupportive scope of work,Yes
+2021-11-23,E106838,2021-11-18,Personal growth,No
+2021-11-20,E106842,2021-11-21,Career path,No
+2021-11-16,E106886,2021-11-19,Personal growth,No
+2021-11-20,E106930,2021-11-19,Unsupportive scope of work,No
+2021-11-21,E106936,2021-11-13,Personal growth,No
+2021-11-15,E106955,2021-11-14,Career path,No
+2021-11-27,E106958,2021-11-27,Unsupportive scope of work,No
+2021-11-19,E106990,2021-11-12,Career path,No
+2021-12-04,E106996,2021-11-28,Personal growth,Yes
+2021-11-10,E107043,2021-11-04,Career path,No
+2021-11-25,E107071,2021-11-16,Career path,No
+2021-11-02,E107090,2021-11-06,Unsupportive scope of work,No
+2021-12-03,E100227,2021-12-06,Unsupportive scope of work,No
+2021-12-18,E100388,2021-12-12,Leadership,Yes
+2021-12-14,E100535,2021-12-18,Career path,No
+2021-12-22,E100761,2021-12-27,Career path,Yes
+2022-01-04,E101024,2021-12-29,Unsupportive scope of work,Yes
+2021-12-18,E101087,2021-12-17,Personal growth,Yes
+2021-12-03,E101134,2021-12-03,Career path,No
+2022-01-02,E101417,2021-12-27,Career path,Yes
+2021-12-09,E101539,2021-12-09,Career path,No
+2021-12-30,E101729,2021-12-30,Unsupportive scope of work,No
+2022-01-01,E101882,2021-12-29,Career path,Yes
+2021-12-22,E102417,2021-12-22,Leadership,No
+2021-12-07,E102755,2021-12-04,Unsupportive scope of work,No
+2021-12-24,E103025,2021-12-18,Personal growth,No
+2021-12-10,E103268,2021-12-11,Career path,No
+2021-12-26,E103271,2021-12-26,Career path,Yes
+2021-12-29,E103585,2021-12-22,Leadership,No
+2021-12-23,E103765,2021-12-19,Career path,Yes
+2021-12-19,E103814,2021-12-19,Unsupportive scope of work,No
+2021-12-02,E103903,2021-12-03,Personal growth,No
+2021-12-06,E103934,2021-12-04,Leadership,No
+2021-12-19,E104002,2021-12-21,Unsupportive scope of work,No
+2021-12-21,E104058,2021-12-16,Personal growth,Yes
+2021-12-29,E104458,2021-12-21,Career path,No
+2021-12-04,E104661,2021-12-03,Career path,No
+2021-12-14,E104678,2021-12-13,Career path,No
+2021-12-11,E104700,2021-12-03,Personal growth,Yes
+2022-01-01,E104785,2021-12-23,Leadership,No
+2021-12-15,E105054,2021-12-15,Personal growth,Yes
+2021-12-07,E105116,2021-12-11,Career path,No
+2021-12-23,E105163,2021-12-25,Personal growth,No
+2021-12-08,E105322,2021-12-11,Unsupportive scope of work,No
+2021-12-13,E105415,2021-12-12,Career path,Yes
+2021-12-07,E105560,2021-12-07,Career path,No
+2021-12-21,E105910,2021-12-14,Personal growth,No
+2021-12-06,E105941,2021-12-07,Personal growth,Yes
+2021-12-27,E106094,2021-12-22,Career path,No
+2021-11-26,E106150,2021-12-01,Unsupportive scope of work,Yes
+2021-12-28,E106201,2021-12-30,Personal growth,No
+2021-12-14,E106225,2021-12-05,Personal growth,No
+2022-01-01,E106247,2021-12-25,Unsupportive scope of work,Yes
+2021-12-31,E106316,2021-12-22,Personal growth,Yes
+2021-12-01,E106326,2021-12-04,Unsupportive scope of work,No
+2021-12-16,E106348,2021-12-07,Personal growth,No
+2021-12-30,E106379,2021-12-29,Personal growth,No
+2021-12-27,E106555,2021-12-23,Personal growth,No
+2021-12-20,E106560,2021-12-23,Unsupportive scope of work,No
+2021-12-15,E106570,2021-12-11,Leadership,Yes
+2021-11-27,E106582,2021-12-01,Leadership,Yes
+2021-12-24,E106618,2021-12-25,Leadership,No
+2021-12-20,E106621,2021-12-13,Personal growth,Yes
+2021-12-06,E106635,2021-12-09,Unsupportive scope of work,Yes
+2021-12-26,E106673,2021-12-22,Personal growth,Yes
+2021-12-14,E106760,2021-12-16,Personal growth,No
+2021-12-28,E106800,2021-12-21,Leadership,Yes
+2021-12-06,E106896,2021-12-07,Unsupportive scope of work,No
+2022-01-07,E106951,2021-12-29,Career path,Yes
+2021-12-16,E106961,2021-12-20,Personal growth,No
+2021-12-18,E107016,2021-12-11,Personal growth,Yes
+2021-12-13,E107030,2021-12-14,Career path,No
+2021-12-31,E107088,2021-12-30,Personal growth,No
+2021-12-16,E107106,2021-12-19,Career path,No
+2021-12-24,E107109,2021-12-16,Personal growth,No
+2021-12-13,E107117,2021-12-12,Career path,Yes
+2021-12-22,E107177,2021-12-22,Career path,No
+2022-01-06,E107192,2021-12-30,Unsupportive scope of work,No
+2021-12-02,E107242,2021-12-03,Leadership,No
+2022-01-23,E100030,2022-01-17,Unsupportive scope of work,No
+2022-01-08,E100248,2022-01-13,Personal growth,Yes
+2022-01-22,E100405,2022-01-24,Personal growth,Yes
+2022-01-22,E100456,2022-01-13,Career path,No
+2022-01-13,E100834,2022-01-17,Personal growth,No
+2022-01-12,E100836,2022-01-10,Leadership,Yes
+2022-02-04,E100908,2022-01-26,Personal growth,No
+2022-01-31,E101328,2022-01-24,Career path,Yes
+2022-01-11,E101411,2022-01-05,Career path,No
+2022-02-06,E101561,2022-01-31,Unsupportive scope of work,No
+2022-02-06,E101628,2022-01-31,Personal growth,No
+2022-01-10,E101655,2022-01-04,Unsupportive scope of work,Yes
+2022-01-23,E101898,2022-01-27,Personal growth,Yes
+2022-01-10,E102006,2022-01-03,Personal growth,Yes
+2022-02-03,E102095,2022-01-27,Career path,Yes
+2022-01-26,E102312,2022-01-31,Personal growth,No
+2022-01-23,E102354,2022-01-26,Unsupportive scope of work,No
+2022-01-18,E102477,2022-01-11,Leadership,No
+2022-01-22,E102491,2022-01-24,Personal growth,No
+2022-01-13,E102612,2022-01-10,Personal growth,No
+2022-01-02,E102690,2022-01-01,Leadership,No
+2022-01-06,E102876,2022-01-08,Unsupportive scope of work,Yes
+2022-01-10,E102893,2022-01-11,Personal growth,Yes
+2022-02-07,E103225,2022-01-30,Personal growth,Yes
+2022-01-16,E103330,2022-01-13,Leadership,No
+2022-01-13,E103639,2022-01-09,Career path,No
+2022-01-18,E103769,2022-01-09,Career path,No
+2022-02-05,E103845,2022-01-31,Unsupportive scope of work,Yes
+2022-01-18,E103996,2022-01-12,Personal growth,Yes
+2022-01-07,E104436,2022-01-02,Career path,Yes
+2022-01-10,E104553,2022-01-05,Unsupportive scope of work,Yes
+2022-01-11,E104633,2022-01-03,Personal growth,No
+2022-02-08,E104723,2022-01-31,Personal growth,No
+2022-02-08,E104804,2022-01-31,Personal growth,Yes
+2022-01-16,E104827,2022-01-07,Personal growth,Yes
+2022-01-16,E104831,2022-01-11,Unsupportive scope of work,No
+2022-01-25,E104853,2022-01-22,Personal growth,Yes
+2022-01-13,E104930,2022-01-13,Career path,No
+2022-02-05,E105052,2022-01-27,Personal growth,No
+2022-01-30,E105093,2022-01-29,Career path,No
+2022-01-26,E105389,2022-01-28,Career path,No
+2022-01-15,E105392,2022-01-16,Career path,No
+2022-01-22,E105455,2022-01-27,Career path,No
+2022-01-19,E105896,2022-01-24,Career path,No
+2022-01-10,E105975,2022-01-14,Career path,No
+2022-01-10,E105985,2022-01-08,Personal growth,Yes
+2022-01-08,E106004,2022-01-08,Personal growth,No
+2022-01-09,E106046,2022-01-04,Personal growth,No
+2022-01-11,E106053,2022-01-13,Career path,No
+2022-02-01,E106068,2022-01-25,Personal growth,No
+2022-01-05,E106186,2022-01-04,Personal growth,Yes
+2022-01-25,E106259,2022-01-21,Career path,No
+2022-02-01,E106260,2022-01-25,Personal growth,No
+2022-01-19,E106401,2022-01-20,Leadership,No
+2022-01-11,E106402,2022-01-08,Career path,No
+2022-01-14,E106544,2022-01-06,Unsupportive scope of work,No
+2022-01-16,E106598,2022-01-21,Leadership,No
+2022-01-16,E106702,2022-01-20,Career path,No
+2022-01-16,E106716,2022-01-13,Career path,Yes
+2022-01-10,E106745,2022-01-09,Personal growth,Yes
+2022-01-06,E106773,2022-01-10,Leadership,No
+2022-01-12,E106831,2022-01-08,Personal growth,No
+2022-01-26,E107009,2022-01-23,Career path,No
+2022-01-22,E107012,2022-01-19,Career path,No
+2022-02-01,E107046,2022-01-28,Unsupportive scope of work,No
+2022-01-27,E107056,2022-01-25,Career path,No
+2022-01-24,E107063,2022-01-26,Personal growth,No
+2022-01-10,E107079,2022-01-11,Career path,No
+2022-01-21,E107119,2022-01-13,Personal growth,No
+2022-01-28,E107121,2022-01-21,Personal growth,No
+2022-01-18,E107183,2022-01-12,Career path,No
+2022-01-11,E107208,2022-01-16,Career path,Yes
+2022-01-13,E107219,2022-01-08,Career path,No
+2022-01-02,E107266,2022-01-04,Personal growth,No
+2022-01-20,E107270,2022-01-20,Personal growth,No
+2022-01-23,E107374,2022-01-19,Career path,No
+2022-02-26,E100050,2022-02-26,Unsupportive scope of work,Yes
+2022-02-11,E100228,2022-02-09,Personal growth,No
+2022-02-13,E100357,2022-02-11,Leadership,No
+2022-02-23,E100368,2022-02-28,Personal growth,No
+2022-02-14,E100479,2022-02-16,Unsupportive scope of work,No
+2022-02-21,E101046,2022-02-17,Personal growth,Yes
+2022-02-18,E101140,2022-02-22,Personal growth,No
+2022-02-16,E101233,2022-02-20,Leadership,No
+2022-02-20,E101270,2022-02-23,Career path,No
+2022-02-13,E101349,2022-02-15,Career path,No
+2022-02-24,E101572,2022-02-16,Personal growth,No
+2022-03-07,E101620,2022-02-27,Unsupportive scope of work,No
+2022-02-11,E101814,2022-02-06,Personal growth,No
+2022-02-15,E101950,2022-02-17,Career path,No
+2022-02-08,E102365,2022-02-11,Career path,No
+2022-02-14,E102543,2022-02-16,Personal growth,No
+2022-02-25,E103260,2022-02-28,Personal growth,Yes
+2022-02-13,E103418,2022-02-05,Career path,No
+2022-02-23,E103454,2022-02-27,Personal growth,No
+2022-02-13,E103897,2022-02-15,Career path,No
+2022-02-10,E104118,2022-02-07,Leadership,No
+2022-01-29,E104378,2022-02-03,Personal growth,No
+2022-03-01,E104473,2022-02-24,Career path,No
+2022-02-12,E104514,2022-02-11,Career path,No
+2022-02-22,E104573,2022-02-23,Personal growth,Yes
+2022-02-08,E104584,2022-02-05,Personal growth,No
+2022-02-20,E104760,2022-02-22,Career path,Yes
+2022-02-16,E104949,2022-02-16,Personal growth,Yes
+2022-03-01,E105231,2022-02-26,Career path,No
+2022-02-18,E105525,2022-02-22,Personal growth,No
+2022-02-03,E105618,2022-02-04,Leadership,No
+2022-02-27,E105687,2022-02-20,Unsupportive scope of work,No
+2022-02-13,E105811,2022-02-07,Personal growth,No
+2022-02-18,E105953,2022-02-16,Career path,Yes
+2022-02-28,E106012,2022-02-26,Unsupportive scope of work,Yes
+2022-02-20,E106045,2022-02-13,Leadership,No
+2022-02-27,E106187,2022-02-25,Personal growth,No
+2022-02-02,E106346,2022-02-02,Career path,No
+2022-02-11,E106362,2022-02-16,Career path,Yes
+2022-02-28,E106476,2022-02-28,Personal growth,No
+2022-01-30,E106556,2022-02-03,Career path,No
+2022-02-25,E106699,2022-02-20,Career path,No
+2022-02-24,E106711,2022-02-15,Personal growth,No
+2022-02-19,E106833,2022-02-16,Career path,No
+2022-02-25,E106839,2022-02-17,Unsupportive scope of work,Yes
+2022-02-25,E106843,2022-02-19,Career path,No
+2022-02-22,E106890,2022-02-23,Unsupportive scope of work,No
+2022-02-24,E106905,2022-02-25,Personal growth,No
+2022-02-11,E106916,2022-02-04,Career path,No
+2022-02-28,E106953,2022-02-25,Unsupportive scope of work,No
+2022-02-18,E106967,2022-02-10,Personal growth,No
+2022-02-18,E107017,2022-02-16,Unsupportive scope of work,No
+2022-02-23,E107033,2022-02-27,Personal growth,No
+2022-02-06,E107045,2022-02-08,Leadership,No
+2022-02-17,E107058,2022-02-18,Unsupportive scope of work,No
+2022-02-15,E107126,2022-02-19,Personal growth,No
+2022-02-22,E107138,2022-02-16,Personal growth,No
+2022-02-16,E107167,2022-02-13,Career path,No
+2022-02-06,E107187,2022-02-02,Career path,No
+2022-02-21,E107213,2022-02-15,Leadership,No
+2022-01-31,E107312,2022-02-03,Personal growth,No
+2022-02-17,E107399,2022-02-19,Personal growth,No
+2022-02-03,E107452,2022-02-07,Leadership,No
+2022-01-30,E107464,2022-02-04,Personal growth,No
+2022-02-10,E107465,2022-02-08,Career path,No
+2022-02-05,E107474,2022-02-01,Personal growth,No
+2022-02-22,E107486,2022-02-18,Leadership,Yes
+2022-02-16,E107489,2022-02-13,Career path,No
+2022-02-07,E107497,2022-02-01,Unsupportive scope of work,Yes
+2022-02-18,E107502,2022-02-21,Personal growth,No
+2022-02-08,E107543,2022-02-09,Leadership,Yes
+2022-03-19,E100093,2022-03-18,Career path,No
+2022-03-24,E100106,2022-03-16,Unsupportive scope of work,Yes
+2022-03-02,E100267,2022-03-05,Personal growth,Yes
+2022-03-03,E100689,2022-03-04,Career path,No
+2022-03-05,E101245,2022-03-04,Unsupportive scope of work,No
+2022-03-25,E101604,2022-03-28,Personal growth,Yes
+2022-03-03,E101648,2022-03-04,Unsupportive scope of work,No
+2022-03-18,E101658,2022-03-19,Personal growth,No
+2022-03-14,E101969,2022-03-14,Personal growth,No
+2022-03-12,E102242,2022-03-16,Career path,No
+2022-03-14,E102293,2022-03-06,Personal growth,No
+2022-03-20,E102771,2022-03-20,Personal growth,No
+2022-03-10,E103356,2022-03-11,Personal growth,No
+2022-03-13,E103447,2022-03-18,Unsupportive scope of work,No
+2022-03-13,E103711,2022-03-04,Unsupportive scope of work,No
+2022-03-04,E104157,2022-03-06,Career path,Yes
+2022-03-30,E104217,2022-03-22,Personal growth,No
+2022-03-31,E104313,2022-03-30,Leadership,No
+2022-04-01,E104364,2022-03-26,Personal growth,Yes
+2022-03-21,E104409,2022-03-24,Personal growth,No
+2022-03-10,E104452,2022-03-08,Career path,Yes
+2022-03-24,E104506,2022-03-24,Career path,No
+2022-03-04,E104580,2022-03-07,Unsupportive scope of work,No
+2022-03-25,E104869,2022-03-17,Personal growth,Yes
+2022-03-12,E104943,2022-03-07,Personal growth,No
+2022-03-19,E105008,2022-03-10,Personal growth,Yes
+2022-03-08,E105095,2022-03-03,Personal growth,No
+2022-03-05,E105123,2022-03-08,Personal growth,No
+2022-03-20,E105138,2022-03-12,Career path,No
+2022-03-05,E105256,2022-03-05,Unsupportive scope of work,No
+2022-03-14,E105363,2022-03-09,Leadership,No
+2022-03-22,E105419,2022-03-25,Unsupportive scope of work,No
+2022-03-12,E105649,2022-03-07,Career path,No
+2022-03-07,E105692,2022-03-08,Career path,No
+2022-03-02,E105779,2022-03-03,Leadership,No
+2022-03-14,E105794,2022-03-17,Unsupportive scope of work,Yes
+2022-03-28,E105828,2022-03-29,Career path,No
+2022-03-31,E105879,2022-03-28,Personal growth,Yes
+2022-03-29,E105893,2022-03-26,Unsupportive scope of work,No
+2022-03-11,E105958,2022-03-15,Personal growth,No
+2022-03-15,E105969,2022-03-07,Personal growth,No
+2022-04-01,E106167,2022-03-26,Career path,Yes
+2022-03-15,E106252,2022-03-15,Personal growth,Yes
+2022-03-22,E106460,2022-03-18,Career path,No
+2022-03-22,E106587,2022-03-20,Career path,No
+2022-03-23,E106679,2022-03-23,Personal growth,Yes
+2022-04-01,E106685,2022-03-23,Personal growth,No
+2022-03-25,E106701,2022-03-29,Career path,No
+2022-03-30,E106761,2022-03-28,Career path,Yes
+2022-03-22,E106866,2022-03-19,Career path,No
+2022-03-25,E107042,2022-03-22,Career path,No
+2022-03-09,E107140,2022-03-08,Career path,Yes
+2022-04-07,E107185,2022-03-31,Personal growth,No
+2022-03-29,E107199,2022-03-27,Personal growth,Yes
+2022-03-18,E107233,2022-03-09,Unsupportive scope of work,No
+2022-03-14,E107238,2022-03-13,Unsupportive scope of work,Yes
+2022-03-09,E107247,2022-03-04,Unsupportive scope of work,No
+2022-03-21,E107256,2022-03-24,Unsupportive scope of work,No
+2022-03-08,E107325,2022-03-03,Unsupportive scope of work,No
+2022-02-25,E107335,2022-03-02,Unsupportive scope of work,Yes
+2022-03-18,E107346,2022-03-11,Personal growth,Yes
+2022-04-06,E107409,2022-03-29,Career path,No
+2022-03-23,E107485,2022-03-22,Career path,No
+2022-04-03,E107500,2022-03-25,Personal growth,Yes
+2022-03-05,E107508,2022-03-02,Personal growth,No
+2022-03-22,E107532,2022-03-23,Personal growth,No
+2022-03-07,E107579,2022-03-01,Leadership,No
+2022-03-30,E107591,2022-03-21,Career path,Yes
+2022-04-01,E107593,2022-03-29,Personal growth,No
+2022-04-01,E107598,2022-03-27,Personal growth,No
+2022-03-07,E107604,2022-03-11,Personal growth,Yes
+2022-03-02,E107630,2022-03-06,Personal growth,Yes
+2022-03-06,E107707,2022-03-05,Career path,No
+2022-03-15,E107749,2022-03-20,Career path,No
+2022-04-07,E100696,2022-04-05,Personal growth,No
+2022-05-01,E101018,2022-04-28,Career path,No
+2022-04-13,E101079,2022-04-12,Personal growth,Yes
+2022-04-26,E101445,2022-04-20,Career path,No
+2022-04-15,E101778,2022-04-10,Personal growth,No
+2022-04-04,E101863,2022-04-02,Personal growth,No
+2022-04-03,E102001,2022-04-04,Career path,No
+2022-04-04,E102008,2022-04-05,Leadership,No
+2022-04-23,E102208,2022-04-20,Unsupportive scope of work,Yes
+2022-04-29,E103022,2022-04-29,Personal growth,No
+2022-04-19,E103140,2022-04-20,Career path,No
+2022-04-22,E103169,2022-04-22,Personal growth,No
+2022-04-14,E103254,2022-04-10,Unsupportive scope of work,No
+2022-04-19,E103433,2022-04-10,Personal growth,No
+2022-04-03,E103680,2022-04-05,Career path,No
+2022-04-18,E103900,2022-04-23,Unsupportive scope of work,Yes
+2022-04-21,E103959,2022-04-23,Leadership,No
+2022-04-21,E104210,2022-04-13,Leadership,Yes
+2022-04-26,E104420,2022-04-29,Personal growth,No
+2022-04-13,E104427,2022-04-09,Leadership,No
+2022-04-22,E104534,2022-04-20,Career path,No
+2022-04-02,E104617,2022-04-04,Unsupportive scope of work,Yes
+2022-04-11,E104684,2022-04-12,Personal growth,No
+2022-04-09,E104812,2022-04-11,Career path,Yes
+2022-04-27,E104985,2022-04-26,Unsupportive scope of work,Yes
+2022-05-04,E105066,2022-04-27,Unsupportive scope of work,No
+2022-04-17,E105088,2022-04-16,Unsupportive scope of work,No
+2022-04-06,E105270,2022-04-10,Personal growth,No
+2022-04-19,E105424,2022-04-24,Personal growth,Yes
+2022-04-02,E105718,2022-04-05,Unsupportive scope of work,No
+2022-04-20,E105752,2022-04-19,Career path,No
+2022-04-07,E105776,2022-04-12,Career path,No
+2022-04-12,E105827,2022-04-05,Career path,No
+2022-04-07,E105856,2022-04-01,Personal growth,Yes
+2022-04-09,E105864,2022-04-13,Career path,No
+2022-04-25,E105908,2022-04-17,Personal growth,No
+2022-04-28,E105913,2022-04-30,Leadership,Yes
+2022-04-13,E105972,2022-04-06,Leadership,No
+2022-04-26,E106120,2022-04-21,Personal growth,No
+2022-04-12,E106131,2022-04-16,Career path,Yes
+2022-04-12,E106271,2022-04-15,Career path,No
+2022-04-24,E106414,2022-04-18,Personal growth,No
+2022-03-29,E106525,2022-04-01,Unsupportive scope of work,No
+2022-04-05,E106526,2022-04-04,Personal growth,No
+2022-04-03,E106723,2022-04-03,Personal growth,Yes
+2022-04-18,E106772,2022-04-09,Career path,Yes
+2022-04-03,E106825,2022-04-07,Career path,No
+2022-04-10,E106906,2022-04-15,Personal growth,No
+2022-05-04,E106915,2022-04-28,Personal growth,No
+2022-04-21,E106925,2022-04-23,Personal growth,No
+2022-04-21,E107008,2022-04-14,Unsupportive scope of work,Yes
+2022-04-27,E107203,2022-04-20,Unsupportive scope of work,No
+2022-04-11,E107216,2022-04-16,Career path,No
+2022-04-24,E107282,2022-04-16,Unsupportive scope of work,No
+2022-04-14,E107291,2022-04-09,Unsupportive scope of work,No
+2022-04-21,E107408,2022-04-24,Career path,No
+2022-04-21,E107432,2022-04-25,Leadership,No
+2022-04-24,E107441,2022-04-18,Personal growth,No
+2022-05-02,E107510,2022-04-23,Leadership,No
+2022-04-18,E107562,2022-04-10,Career path,Yes
+2022-04-21,E107578,2022-04-16,Unsupportive scope of work,No
+2022-03-31,E107607,2022-04-03,Personal growth,No
+2022-04-29,E107621,2022-04-29,Unsupportive scope of work,No
+2022-04-25,E107658,2022-04-21,Career path,No
+2022-04-07,E107662,2022-04-07,Unsupportive scope of work,No
+2022-04-21,E107721,2022-04-25,Personal growth,Yes
+2022-04-15,E107728,2022-04-10,Career path,No
+2022-04-23,E107733,2022-04-22,Personal growth,Yes
+2022-04-22,E107742,2022-04-20,Career path,No
+2022-04-28,E107761,2022-04-20,Career path,Yes
+2022-05-04,E107824,2022-04-27,Career path,No
+2022-04-18,E107828,2022-04-09,Unsupportive scope of work,Yes
+2022-04-18,E107837,2022-04-09,Personal growth,No
+2022-04-22,E107849,2022-04-13,Unsupportive scope of work,No
+2022-04-18,E107854,2022-04-11,Career path,No
+2022-04-20,E107877,2022-04-19,Career path,No
+2022-04-26,E107888,2022-04-22,Personal growth,No
+2022-03-31,E107894,2022-04-03,Career path,No
+2022-04-02,E107924,2022-04-01,Career path,Yes
+2022-05-18,E100021,2022-05-17,Career path,No
+2022-04-26,E100063,2022-05-01,Personal growth,No
+2022-06-02,E100311,2022-05-27,Personal growth,No
+2022-05-22,E100442,2022-05-20,Unsupportive scope of work,Yes
+2022-05-27,E100463,2022-05-25,Personal growth,Yes
+2022-05-11,E100852,2022-05-08,Career path,Yes
+2022-05-21,E101163,2022-05-21,Career path,No
+2022-05-16,E101268,2022-05-09,Career path,Yes
+2022-05-26,E101371,2022-05-28,Personal growth,Yes
+2022-05-27,E101468,2022-05-21,Career path,No
+2022-06-03,E101761,2022-05-26,Unsupportive scope of work,No
+2022-05-24,E102061,2022-05-15,Leadership,No
+2022-06-02,E102073,2022-05-27,Personal growth,Yes
+2022-05-22,E102472,2022-05-19,Career path,No
+2022-05-10,E102542,2022-05-10,Leadership,Yes
+2022-05-29,E102905,2022-05-24,Personal growth,No
+2022-05-08,E103080,2022-05-11,Career path,Yes
+2022-05-20,E103543,2022-05-16,Personal growth,No
+2022-05-24,E103545,2022-05-15,Career path,Yes
+2022-05-19,E103674,2022-05-15,Career path,No
+2022-05-10,E103798,2022-05-08,Personal growth,No
+2022-05-13,E103831,2022-05-17,Unsupportive scope of work,Yes
+2022-05-29,E104284,2022-05-26,Unsupportive scope of work,No
+2022-04-30,E104493,2022-05-03,Career path,No
+2022-05-03,E104498,2022-05-01,Personal growth,No
+2022-05-10,E104586,2022-05-05,Unsupportive scope of work,No
+2022-05-13,E104588,2022-05-11,Personal growth,Yes
+2022-04-29,E104597,2022-05-04,Career path,No
+2022-05-30,E104966,2022-05-27,Personal growth,No
+2022-05-09,E105105,2022-05-14,Personal growth,No
+2022-05-20,E105144,2022-05-15,Career path,No
+2022-05-16,E105315,2022-05-16,Leadership,No
+2022-05-07,E105453,2022-05-07,Personal growth,No
+2022-05-23,E105809,2022-05-24,Personal growth,No
+2022-05-04,E106110,2022-05-05,Personal growth,No
+2022-05-20,E106520,2022-05-13,Career path,No
+2022-05-30,E106586,2022-05-28,Career path,No
+2022-05-23,E106625,2022-05-22,Leadership,No
+2022-05-05,E106675,2022-05-03,Career path,No
+2022-05-26,E106683,2022-05-24,Personal growth,No
+2022-05-27,E106724,2022-05-31,Personal growth,No
+2022-05-17,E106864,2022-05-17,Career path,Yes
+2022-06-08,E107055,2022-05-30,Leadership,No
+2022-05-26,E107181,2022-05-30,Personal growth,Yes
+2022-05-08,E107257,2022-05-04,Career path,Yes
+2022-05-19,E107273,2022-05-18,Personal growth,No
+2022-05-08,E107383,2022-05-07,Personal growth,No
+2022-05-05,E107396,2022-05-01,Personal growth,Yes
+2022-05-14,E107450,2022-05-06,Personal growth,No
+2022-04-30,E107466,2022-05-03,Leadership,No
+2022-05-13,E107494,2022-05-15,Career path,No
+2022-05-11,E107583,2022-05-03,Personal growth,Yes
+2022-05-28,E107732,2022-05-23,Career path,No
+2022-05-14,E107787,2022-05-07,Unsupportive scope of work,No
+2022-05-18,E107800,2022-05-19,Personal growth,No
+2022-05-16,E107835,2022-05-18,Unsupportive scope of work,No
+2022-05-13,E107873,2022-05-17,Personal growth,No
+2022-06-09,E107926,2022-05-31,Unsupportive scope of work,No
+2022-05-17,E107937,2022-05-18,Career path,No
+2022-06-03,E107945,2022-05-27,Personal growth,No
+2022-05-27,E107957,2022-05-26,Leadership,No
+2022-05-12,E107961,2022-05-14,Career path,No
+2022-05-06,E108029,2022-05-01,Personal growth,Yes
+2022-05-09,E108062,2022-05-10,Career path,No
+2022-05-12,E108065,2022-05-07,Leadership,No
+2022-06-03,E108099,2022-05-29,Career path,No
+2022-05-15,E108115,2022-05-16,Personal growth,No
+2022-06-03,E100082,2022-06-07,Career path,Yes
+2022-06-25,E100364,2022-06-24,Personal growth,No
+2022-06-26,E100498,2022-06-29,Personal growth,No
+2022-06-15,E100795,2022-06-06,Career path,No
+2022-07-02,E101258,2022-06-26,Personal growth,No
+2022-06-16,E101280,2022-06-07,Personal growth,Yes
+2022-06-22,E101675,2022-06-27,Personal growth,No
+2022-07-05,E101978,2022-06-26,Career path,No
+2022-06-19,E102452,2022-06-24,Unsupportive scope of work,Yes
+2022-06-01,E102550,2022-06-06,Career path,Yes
+2022-06-12,E102895,2022-06-08,Leadership,Yes
+2022-06-10,E103646,2022-06-07,Personal growth,No
+2022-06-11,E103882,2022-06-10,Career path,No
+2022-06-17,E103931,2022-06-15,Personal growth,No
+2022-06-24,E104093,2022-06-16,Unsupportive scope of work,Yes
+2022-06-09,E104388,2022-06-14,Personal growth,No
+2022-07-03,E104403,2022-06-30,Personal growth,No
+2022-05-30,E104772,2022-06-01,Career path,No
+2022-06-26,E104942,2022-06-26,Personal growth,No
+2022-07-06,E104983,2022-06-27,Career path,Yes
+2022-06-15,E105061,2022-06-08,Personal growth,No
+2022-07-02,E105127,2022-06-25,Career path,No
+2022-06-19,E105247,2022-06-19,Personal growth,No
+2022-06-21,E105303,2022-06-24,Personal growth,No
+2022-06-26,E105383,2022-06-22,Unsupportive scope of work,Yes
+2022-06-29,E105567,2022-06-30,Unsupportive scope of work,Yes
+2022-06-12,E105585,2022-06-04,Personal growth,No
+2022-06-21,E105858,2022-06-23,Unsupportive scope of work,Yes
+2022-07-07,E105885,2022-06-30,Career path,No
+2022-06-19,E105973,2022-06-10,Personal growth,No
+2022-06-09,E106077,2022-06-13,Personal growth,No
+2022-06-15,E106223,2022-06-06,Leadership,Yes
+2022-06-12,E106318,2022-06-09,Unsupportive scope of work,No
+2022-06-16,E106366,2022-06-18,Personal growth,No
+2022-06-16,E106550,2022-06-09,Personal growth,No
+2022-06-26,E106663,2022-06-23,Leadership,No
+2022-06-13,E106698,2022-06-04,Unsupportive scope of work,Yes
+2022-06-29,E106860,2022-06-22,Personal growth,No
+2022-06-14,E106947,2022-06-18,Career path,Yes
+2022-06-23,E107023,2022-06-17,Personal growth,No
+2022-06-17,E107070,2022-06-08,Career path,No
+2022-06-20,E107150,2022-06-13,Personal growth,No
+2022-06-10,E107221,2022-06-10,Career path,Yes
+2022-06-20,E107244,2022-06-16,Personal growth,Yes
+2022-06-11,E107246,2022-06-12,Personal growth,Yes
+2022-06-13,E107296,2022-06-17,Leadership,Yes
+2022-06-15,E107363,2022-06-18,Personal growth,Yes
+2022-06-15,E107390,2022-06-13,Unsupportive scope of work,Yes
+2022-05-30,E107436,2022-06-04,Unsupportive scope of work,No
+2022-06-16,E107492,2022-06-18,Career path,No
+2022-06-21,E107611,2022-06-24,Personal growth,Yes
+2022-06-13,E107654,2022-06-06,Unsupportive scope of work,No
+2022-06-18,E107673,2022-06-11,Career path,No
+2022-06-06,E107674,2022-06-09,Leadership,No
+2022-06-21,E107702,2022-06-18,Leadership,No
+2022-06-17,E107816,2022-06-15,Unsupportive scope of work,No
+2022-06-27,E107842,2022-06-27,Unsupportive scope of work,No
+2022-06-11,E107944,2022-06-12,Career path,No
+2022-06-07,E107987,2022-06-04,Unsupportive scope of work,No
+2022-06-15,E107990,2022-06-10,Career path,No
+2022-06-10,E107991,2022-06-13,Unsupportive scope of work,No
+2022-06-23,E108082,2022-06-15,Career path,No
+2022-06-26,E108097,2022-06-29,Personal growth,No
+2022-05-31,E108104,2022-06-03,Career path,No
+2022-06-12,E108132,2022-06-15,Personal growth,No
+2022-05-31,E108181,2022-06-02,Leadership,No
+2022-07-05,E108230,2022-06-27,Career path,No
+2022-06-16,E108274,2022-06-20,Unsupportive scope of work,No
+2022-07-18,E100102,2022-07-19,Career path,No
+2022-07-10,E100155,2022-07-01,Career path,Yes
+2022-07-15,E100462,2022-07-13,Leadership,No
+2022-07-19,E100464,2022-07-22,Unsupportive scope of work,No
+2022-07-29,E100507,2022-07-25,Career path,Yes
+2022-07-05,E100778,2022-07-04,Unsupportive scope of work,Yes
+2022-07-05,E100976,2022-07-10,Personal growth,No
+2022-07-02,E101015,2022-07-03,Leadership,No
+2022-07-23,E101051,2022-07-24,Personal growth,Yes
+2022-07-03,E101669,2022-07-01,Personal growth,No
+2022-07-14,E101831,2022-07-13,Unsupportive scope of work,No
+2022-07-16,E102887,2022-07-09,Personal growth,No
+2022-07-12,E102943,2022-07-10,Leadership,Yes
+2022-07-29,E102978,2022-07-29,Career path,No
+2022-07-29,E102997,2022-07-26,Career path,No
+2022-07-09,E103332,2022-07-13,Personal growth,No
+2022-06-27,E104252,2022-07-01,Leadership,No
+2022-07-19,E104453,2022-07-24,Unsupportive scope of work,No
+2022-07-10,E104487,2022-07-13,Personal growth,Yes
+2022-08-01,E104698,2022-07-31,Personal growth,No
+2022-07-18,E105102,2022-07-17,Career path,Yes
+2022-07-23,E105181,2022-07-16,Career path,Yes
+2022-07-25,E105214,2022-07-21,Unsupportive scope of work,Yes
+2022-07-17,E105229,2022-07-18,Personal growth,No
+2022-07-13,E105306,2022-07-08,Leadership,No
+2022-07-04,E105365,2022-07-08,Career path,No
+2022-07-22,E105366,2022-07-23,Career path,Yes
+2022-07-05,E105663,2022-07-01,Leadership,No
+2022-08-04,E105688,2022-07-26,Unsupportive scope of work,No
+2022-07-05,E105803,2022-07-05,Personal growth,No
+2022-07-18,E106138,2022-07-19,Unsupportive scope of work,No
+2022-07-18,E106206,2022-07-11,Unsupportive scope of work,No
+2022-08-08,E106278,2022-07-31,Unsupportive scope of work,Yes
+2022-07-12,E106500,2022-07-07,Unsupportive scope of work,No
+2022-07-28,E106503,2022-07-30,Unsupportive scope of work,Yes
+2022-07-10,E106622,2022-07-15,Personal growth,Yes
+2022-07-23,E106746,2022-07-17,Career path,Yes
+2022-07-15,E106764,2022-07-17,Career path,No
+2022-07-26,E106787,2022-07-31,Personal growth,No
+2022-07-08,E106902,2022-07-06,Leadership,No
+2022-07-23,E106931,2022-07-15,Personal growth,Yes
+2022-07-30,E106939,2022-07-30,Leadership,No
+2022-07-18,E106973,2022-07-10,Personal growth,Yes
+2022-07-10,E106983,2022-07-11,Personal growth,Yes
+2022-07-13,E107021,2022-07-11,Personal growth,Yes
+2022-07-23,E107129,2022-07-23,Personal growth,No
+2022-07-25,E107251,2022-07-22,Personal growth,No
+2022-07-16,E107269,2022-07-17,Unsupportive scope of work,No
+2022-08-01,E107331,2022-07-27,Personal growth,Yes
+2022-07-07,E107354,2022-07-06,Career path,Yes
+2022-07-30,E107364,2022-07-27,Unsupportive scope of work,No
+2022-06-29,E107473,2022-07-02,Unsupportive scope of work,Yes
+2022-07-03,E107568,2022-07-06,Personal growth,No
+2022-07-05,E107603,2022-07-10,Career path,Yes
+2022-08-02,E107619,2022-07-29,Career path,No
+2022-07-21,E107632,2022-07-17,Personal growth,No
+2022-07-07,E107652,2022-07-05,Career path,No
+2022-07-07,E107670,2022-07-09,Personal growth,No
+2022-08-07,E107810,2022-07-29,Personal growth,No
+2022-07-19,E107848,2022-07-11,Personal growth,Yes
+2022-07-12,E107883,2022-07-08,Unsupportive scope of work,No
+2022-07-13,E107946,2022-07-11,Leadership,No
+2022-07-27,E107975,2022-07-27,Personal growth,Yes
+2022-07-12,E107993,2022-07-16,Personal growth,Yes
+2022-07-13,E107998,2022-07-06,Personal growth,Yes
+2022-07-09,E108001,2022-07-10,Career path,Yes
+2022-07-15,E108042,2022-07-17,Career path,Yes
+2022-07-16,E108060,2022-07-19,Personal growth,Yes
+2022-07-25,E108089,2022-07-18,Personal growth,No
+2022-07-05,E108153,2022-07-08,Personal growth,No
+2022-07-25,E108159,2022-07-22,Personal growth,No
+2022-07-11,E108202,2022-07-10,Unsupportive scope of work,No
+2022-07-26,E108236,2022-07-31,Career path,No
+2022-07-07,E108280,2022-07-11,Unsupportive scope of work,Yes
+2022-07-26,E108293,2022-07-19,Personal growth,Yes
+2022-07-09,E108315,2022-07-12,Career path,No
+2022-07-06,E108337,2022-07-11,Leadership,No
+2022-08-01,E108345,2022-07-30,Career path,No
+2022-07-24,E108353,2022-07-17,Career path,No
+2022-07-12,E108360,2022-07-03,Career path,No
+2022-07-16,E108377,2022-07-12,Personal growth,No
+2022-08-02,E108441,2022-07-25,Unsupportive scope of work,Yes
+2022-07-07,E108454,2022-07-11,Personal growth,No
+2022-08-20,E100125,2022-08-25,Personal growth,Yes
+2022-08-14,E100186,2022-08-05,Career path,No
+2022-09-02,E100484,2022-08-24,Unsupportive scope of work,No
+2022-08-12,E100644,2022-08-04,Personal growth,No
+2022-08-26,E100717,2022-08-30,Leadership,No
+2022-08-23,E100773,2022-08-16,Personal growth,No
+2022-09-05,E101146,2022-08-30,Unsupportive scope of work,No
+2022-08-02,E101542,2022-08-06,Career path,Yes
+2022-08-21,E102182,2022-08-14,Unsupportive scope of work,No
+2022-08-21,E102617,2022-08-13,Career path,No
+2022-09-01,E102863,2022-08-28,Personal growth,Yes
+2022-08-24,E103696,2022-08-21,Personal growth,No
+2022-08-01,E103715,2022-08-06,Career path,No
+2022-08-10,E103932,2022-08-11,Career path,No
+2022-08-16,E103988,2022-08-21,Leadership,Yes
+2022-09-05,E104591,2022-08-27,Unsupportive scope of work,No
+2022-08-14,E104841,2022-08-12,Unsupportive scope of work,No
+2022-08-26,E104916,2022-08-20,Unsupportive scope of work,No
+2022-08-13,E104999,2022-08-09,Personal growth,No
+2022-08-05,E105047,2022-08-08,Career path,No
+2022-09-03,E105393,2022-08-30,Personal growth,Yes
+2022-08-19,E105402,2022-08-11,Career path,No
+2022-08-17,E105420,2022-08-20,Personal growth,No
+2022-08-17,E105729,2022-08-08,Personal growth,No
+2022-09-05,E105852,2022-08-28,Personal growth,Yes
+2022-08-24,E105902,2022-08-15,Career path,Yes
+2022-08-07,E105906,2022-08-05,Career path,Yes
+2022-08-24,E106099,2022-08-25,Unsupportive scope of work,No
+2022-08-03,E106121,2022-08-08,Leadership,Yes
+2022-09-07,E106700,2022-08-29,Personal growth,No
+2022-08-14,E106734,2022-08-05,Personal growth,Yes
+2022-08-31,E106778,2022-08-31,Unsupportive scope of work,No
+2022-08-09,E106783,2022-08-11,Personal growth,No
+2022-07-29,E106836,2022-08-03,Career path,Yes
+2022-08-22,E106911,2022-08-23,Career path,No
+2022-08-24,E107170,2022-08-16,Leadership,Yes
+2022-08-19,E107190,2022-08-17,Personal growth,No
+2022-08-13,E107202,2022-08-18,Personal growth,No
+2022-08-10,E107338,2022-08-07,Career path,No
+2022-08-01,E107362,2022-08-02,Career path,No
+2022-08-15,E107392,2022-08-15,Career path,No
+2022-08-05,E107411,2022-08-03,Unsupportive scope of work,No
+2022-08-13,E107431,2022-08-10,Personal growth,Yes
+2022-07-30,E107448,2022-08-04,Personal growth,No
+2022-08-26,E107454,2022-08-29,Unsupportive scope of work,No
+2022-07-29,E107609,2022-08-02,Leadership,No
+2022-08-03,E107681,2022-08-01,Unsupportive scope of work,Yes
+2022-08-03,E107688,2022-08-01,Personal growth,No
+2022-09-08,E107698,2022-08-30,Career path,No
+2022-08-25,E107717,2022-08-22,Personal growth,No
+2022-08-20,E107736,2022-08-12,Career path,No
+2022-09-02,E107759,2022-08-31,Unsupportive scope of work,No
+2022-08-31,E107889,2022-08-24,Career path,No
+2022-08-13,E108039,2022-08-17,Leadership,Yes
+2022-08-12,E108084,2022-08-17,Personal growth,Yes
+2022-08-10,E108239,2022-08-05,Career path,Yes
+2022-08-31,E108247,2022-08-23,Leadership,Yes
+2022-08-20,E108259,2022-08-13,Career path,No
+2022-08-02,E108260,2022-08-03,Unsupportive scope of work,No
+2022-08-13,E108265,2022-08-16,Career path,No
+2022-08-15,E108268,2022-08-15,Unsupportive scope of work,No
+2022-08-19,E108281,2022-08-12,Personal growth,No
+2022-07-27,E108289,2022-08-01,Leadership,No
+2022-09-05,E108320,2022-08-29,Leadership,No
+2022-08-15,E108325,2022-08-17,Career path,No
+2022-08-03,E108331,2022-08-06,Personal growth,Yes
+2022-08-10,E108333,2022-08-15,Unsupportive scope of work,No
+2022-08-13,E108370,2022-08-08,Personal growth,Yes
+2022-09-06,E108383,2022-08-31,Career path,No
+2022-07-30,E108384,2022-08-03,Leadership,Yes
+2022-08-20,E108475,2022-08-20,Leadership,No
+2022-08-16,E108477,2022-08-18,Career path,Yes
+2022-08-11,E108493,2022-08-04,Personal growth,No
+2022-08-03,E108497,2022-08-04,Career path,Yes
+2022-08-04,E108501,2022-08-08,Career path,No
+2022-08-27,E108515,2022-08-22,Unsupportive scope of work,No
+2022-08-07,E108552,2022-08-05,Unsupportive scope of work,No
+2022-09-01,E108580,2022-08-23,Unsupportive scope of work,No
+2022-08-20,E108601,2022-08-19,Personal growth,No
+2022-08-27,E108602,2022-08-22,Leadership,No
+2022-08-29,E108606,2022-08-21,Unsupportive scope of work,No
+2022-08-23,E108627,2022-08-23,Leadership,No
+2022-09-03,E108630,2022-08-26,Career path,No
+2022-08-31,E108644,2022-08-24,Unsupportive scope of work,Yes
+2022-09-29,E100343,2022-09-22,Personal growth,No
+2022-09-27,E100377,2022-09-25,Leadership,No
+2022-09-16,E100384,2022-09-08,Personal growth,No
+2022-09-15,E100402,2022-09-16,Personal growth,No
+2022-09-09,E100423,2022-09-02,Personal growth,No
+2022-09-28,E100426,2022-09-20,Unsupportive scope of work,No
+2022-09-22,E101645,2022-09-26,Leadership,No
+2022-09-14,E101921,2022-09-12,Career path,Yes
+2022-09-21,E101979,2022-09-18,Career path,No
+2022-09-11,E102275,2022-09-13,Unsupportive scope of work,No
+2022-09-17,E102604,2022-09-11,Personal growth,No
+2022-09-27,E102678,2022-09-23,Unsupportive scope of work,No
+2022-09-11,E102765,2022-09-08,Unsupportive scope of work,Yes
+2022-09-17,E103572,2022-09-22,Personal growth,No
+2022-09-05,E103875,2022-09-08,Leadership,No
+2022-09-20,E104128,2022-09-16,Unsupportive scope of work,No
+2022-09-11,E104242,2022-09-05,Personal growth,Yes
+2022-09-19,E104457,2022-09-14,Personal growth,Yes
+2022-10-06,E104636,2022-09-28,Unsupportive scope of work,No
+2022-09-06,E104667,2022-09-07,Career path,No
+2022-08-27,E105005,2022-09-01,Personal growth,No
+2022-09-29,E105071,2022-09-30,Unsupportive scope of work,No
+2022-09-12,E105147,2022-09-10,Personal growth,No
+2022-09-04,E105604,2022-09-07,Career path,Yes
+2022-09-09,E105668,2022-09-08,Leadership,No
+2022-09-30,E105757,2022-09-25,Unsupportive scope of work,No
+2022-09-11,E105817,2022-09-07,Career path,Yes
+2022-09-25,E106044,2022-09-30,Career path,No
+2022-09-25,E106097,2022-09-26,Unsupportive scope of work,No
+2022-09-21,E106113,2022-09-26,Career path,No
+2022-10-04,E106162,2022-09-29,Career path,Yes
+2022-09-21,E106274,2022-09-13,Career path,No
+2022-09-08,E106298,2022-09-05,Unsupportive scope of work,No
+2022-09-15,E106443,2022-09-08,Personal growth,No
+2022-09-30,E106650,2022-09-24,Career path,No
+2022-09-28,E106668,2022-09-25,Career path,Yes
+2022-09-22,E106727,2022-09-26,Personal growth,Yes
+2022-09-08,E106821,2022-09-07,Personal growth,No
+2022-09-08,E106846,2022-09-13,Career path,No
+2022-09-28,E106997,2022-09-26,Personal growth,No
+2022-09-11,E107011,2022-09-16,Personal growth,No
+2022-09-03,E107051,2022-09-08,Career path,No
+2022-09-07,E107236,2022-09-05,Career path,Yes
+2022-09-20,E107370,2022-09-11,Career path,No
+2022-09-09,E107389,2022-09-10,Leadership,No
+2022-09-27,E107540,2022-09-25,Career path,No
+2022-09-20,E107620,2022-09-17,Personal growth,No
+2022-09-26,E107622,2022-09-22,Career path,No
+2022-09-25,E107640,2022-09-29,Career path,Yes
+2022-09-14,E107789,2022-09-18,Personal growth,No
+2022-09-15,E108094,2022-09-09,Career path,No
+2022-09-22,E108113,2022-09-26,Leadership,No
+2022-09-14,E108121,2022-09-13,Unsupportive scope of work,Yes
+2022-09-30,E108128,2022-09-25,Career path,No
+2022-09-28,E108171,2022-09-20,Leadership,Yes
+2022-09-28,E108198,2022-09-20,Personal growth,No
+2022-09-23,E108358,2022-09-25,Personal growth,No
+2022-10-01,E108397,2022-09-22,Unsupportive scope of work,No
+2022-09-12,E108421,2022-09-07,Personal growth,No
+2022-10-01,E108424,2022-09-28,Unsupportive scope of work,Yes
+2022-09-09,E108466,2022-09-14,Personal growth,No
+2022-09-11,E108473,2022-09-16,Personal growth,No
+2022-09-22,E108505,2022-09-16,Personal growth,No
+2022-10-04,E108542,2022-09-29,Leadership,No
+2022-09-21,E108660,2022-09-24,Leadership,No
+2022-09-14,E108675,2022-09-18,Personal growth,No
+2022-09-12,E108725,2022-09-04,Leadership,No
+2022-09-23,E108754,2022-09-21,Personal growth,Yes
+2022-09-29,E108769,2022-09-20,Career path,No
+2022-09-14,E108782,2022-09-08,Personal growth,No
+2022-09-15,E108794,2022-09-19,Personal growth,No
+2022-09-23,E108795,2022-09-24,Unsupportive scope of work,Yes
+2022-09-24,E108797,2022-09-18,Leadership,No
+2022-09-25,E108811,2022-09-28,Career path,No
+2022-10-09,E100038,2022-10-12,Personal growth,No
+2022-10-10,E100145,2022-10-07,Career path,No
+2022-10-19,E100497,2022-10-10,Personal growth,No
+2022-10-23,E100792,2022-10-24,Unsupportive scope of work,No
+2022-11-04,E100955,2022-10-26,Career path,No
+2022-10-18,E101282,2022-10-14,Leadership,No
+2022-10-08,E101970,2022-10-06,Leadership,Yes
+2022-10-21,E102067,2022-10-24,Personal growth,Yes
+2022-10-08,E102377,2022-10-05,Unsupportive scope of work,Yes
+2022-10-22,E103059,2022-10-26,Personal growth,Yes
+2022-10-25,E103135,2022-10-29,Unsupportive scope of work,No
+2022-10-05,E103670,2022-10-10,Leadership,No
+2022-10-03,E103851,2022-10-08,Career path,No
+2022-10-14,E104106,2022-10-14,Unsupportive scope of work,No
+2022-10-26,E104323,2022-10-30,Unsupportive scope of work,No
+2022-10-15,E105457,2022-10-06,Personal growth,No
+2022-10-12,E105790,2022-10-16,Unsupportive scope of work,No
+2022-10-12,E105813,2022-10-04,Career path,Yes
+2022-10-02,E105824,2022-10-04,Career path,No
+2022-10-16,E105831,2022-10-09,Personal growth,No
+2022-10-23,E105844,2022-10-26,Personal growth,No
+2022-10-08,E105855,2022-10-04,Personal growth,No
+2022-11-01,E105877,2022-10-31,Personal growth,No
+2022-10-24,E105980,2022-10-15,Personal growth,No
+2022-10-21,E106033,2022-10-13,Career path,No
+2022-10-04,E106069,2022-10-07,Leadership,No
+2022-10-12,E106287,2022-10-10,Unsupportive scope of work,No
+2022-10-28,E106397,2022-10-31,Leadership,No
+2022-10-07,E106425,2022-10-09,Leadership,Yes
+2022-10-25,E106495,2022-10-21,Personal growth,No
+2022-10-07,E106514,2022-10-09,Personal growth,No
+2022-11-02,E106844,2022-10-28,Personal growth,No
+2022-10-27,E106862,2022-10-18,Career path,No
+2022-10-05,E106910,2022-10-02,Personal growth,No
+2022-10-28,E106981,2022-10-23,Leadership,No
+2022-10-18,E107052,2022-10-17,Unsupportive scope of work,No
+2022-10-19,E107120,2022-10-16,Leadership,Yes
+2022-10-16,E107147,2022-10-16,Personal growth,No
+2022-10-02,E107388,2022-10-05,Career path,Yes
+2022-10-29,E107394,2022-10-24,Personal growth,No
+2022-10-09,E107550,2022-10-11,Career path,No
+2022-10-22,E107642,2022-10-16,Personal growth,No
+2022-10-21,E107814,2022-10-14,Personal growth,No
+2022-10-13,E107869,2022-10-11,Leadership,No
+2022-10-18,E107878,2022-10-19,Career path,Yes
+2022-10-23,E107890,2022-10-19,Leadership,No
+2022-10-11,E107902,2022-10-09,Career path,Yes
+2022-10-26,E108007,2022-10-19,Personal growth,No
+2022-10-30,E108046,2022-10-31,Personal growth,Yes
+2022-11-06,E108116,2022-10-30,Personal growth,No
+2022-10-15,E108144,2022-10-09,Personal growth,No
+2022-10-02,E108154,2022-10-01,Unsupportive scope of work,No
+2022-10-17,E108317,2022-10-18,Personal growth,Yes
+2022-10-18,E108354,2022-10-17,Personal growth,No
+2022-10-03,E108381,2022-10-04,Career path,No
+2022-10-08,E108538,2022-10-11,Unsupportive scope of work,No
+2022-10-28,E108578,2022-10-19,Career path,No
+2022-10-07,E108588,2022-10-07,Personal growth,Yes
+2022-10-16,E108592,2022-10-15,Personal growth,No
+2022-10-23,E108629,2022-10-26,Career path,No
+2022-10-17,E108651,2022-10-12,Unsupportive scope of work,Yes
+2022-10-14,E108656,2022-10-12,Leadership,Yes
+2022-10-02,E108712,2022-10-01,Career path,Yes
+2022-11-03,E108796,2022-10-28,Unsupportive scope of work,No
+2022-10-11,E108804,2022-10-15,Leadership,No
+2022-10-18,E108884,2022-10-12,Career path,Yes
+2022-10-25,E108922,2022-10-30,Unsupportive scope of work,Yes
+2022-10-14,E108938,2022-10-13,Personal growth,Yes
+2022-10-12,E108964,2022-10-10,Personal growth,No
+2022-09-30,E108983,2022-10-04,Personal growth,No
+2022-10-16,E109011,2022-10-11,Unsupportive scope of work,No
+2022-11-04,E101236,2022-11-05,Unsupportive scope of work,No
+2022-11-09,E101247,2022-11-01,Career path,Yes
+2022-11-24,E101384,2022-11-29,Career path,No
+2022-11-28,E101594,2022-11-19,Personal growth,Yes
+2022-11-23,E101697,2022-11-27,Personal growth,Yes
+2022-11-25,E102419,2022-11-28,Unsupportive scope of work,Yes
+2022-11-10,E102460,2022-11-05,Personal growth,No
+2022-11-25,E102766,2022-11-30,Career path,Yes
+2022-11-28,E102831,2022-11-21,Career path,No
+2022-11-28,E102839,2022-11-21,Career path,No
+2022-11-09,E102948,2022-11-03,Career path,Yes
+2022-11-25,E102961,2022-11-22,Unsupportive scope of work,No
+2022-11-14,E103378,2022-11-11,Personal growth,No
+2022-11-10,E104497,2022-11-09,Career path,Yes
+2022-11-16,E104509,2022-11-21,Leadership,No
+2022-11-24,E104752,2022-11-28,Personal growth,No
+2022-11-11,E104832,2022-11-03,Career path,No
+2022-11-06,E105182,2022-11-07,Career path,Yes
+2022-12-06,E105183,2022-11-27,Career path,No
+2022-11-13,E105325,2022-11-13,Personal growth,No
+2022-12-02,E105494,2022-11-24,Career path,No
+2022-11-16,E105573,2022-11-13,Unsupportive scope of work,No
+2022-11-05,E105655,2022-11-09,Personal growth,Yes
+2022-11-21,E106032,2022-11-25,Unsupportive scope of work,Yes
+2022-11-14,E106185,2022-11-17,Personal growth,No
+2022-11-30,E106567,2022-11-22,Personal growth,No
+2022-11-14,E106717,2022-11-16,Career path,Yes
+2022-11-12,E106751,2022-11-17,Leadership,No
+2022-11-13,E106887,2022-11-11,Unsupportive scope of work,No
+2022-11-15,E107094,2022-11-19,Career path,No
+2022-11-19,E107149,2022-11-24,Personal growth,No
+2022-11-18,E107161,2022-11-16,Leadership,Yes
+2022-12-05,E107214,2022-11-29,Personal growth,No
+2022-11-02,E107316,2022-11-01,Career path,Yes
+2022-11-20,E107453,2022-11-16,Personal growth,Yes
+2022-11-29,E107628,2022-11-21,Unsupportive scope of work,No
+2022-11-07,E107679,2022-11-07,Career path,No
+2022-11-19,E107730,2022-11-11,Unsupportive scope of work,Yes
+2022-11-30,E107911,2022-11-27,Career path,No
+2022-11-12,E107963,2022-11-07,Career path,No
+2022-11-19,E108048,2022-11-23,Unsupportive scope of work,No
+2022-11-07,E108092,2022-11-02,Unsupportive scope of work,No
+2022-11-10,E108135,2022-11-10,Leadership,No
+2022-11-17,E108180,2022-11-15,Personal growth,No
+2022-11-12,E108314,2022-11-13,Personal growth,No
+2022-12-02,E108318,2022-11-27,Career path,Yes
+2022-11-27,E108373,2022-11-26,Career path,Yes
+2022-11-23,E108449,2022-11-16,Personal growth,No
+2022-11-20,E108462,2022-11-18,Unsupportive scope of work,Yes
+2022-11-26,E108539,2022-11-19,Career path,Yes
+2022-11-16,E108549,2022-11-16,Personal growth,No
+2022-10-29,E108567,2022-11-03,Personal growth,No
+2022-11-16,E108645,2022-11-13,Career path,No
+2022-11-04,E108701,2022-11-02,Personal growth,No
+2022-11-27,E108717,2022-11-27,Personal growth,No
+2022-11-14,E108734,2022-11-14,Personal growth,No
+2022-11-24,E108758,2022-11-27,Unsupportive scope of work,No
+2022-11-08,E108764,2022-11-09,Leadership,No
+2022-12-04,E108774,2022-11-29,Unsupportive scope of work,No
+2022-11-08,E108776,2022-11-10,Career path,Yes
+2022-11-25,E108808,2022-11-18,Personal growth,No
+2022-11-10,E108828,2022-11-07,Unsupportive scope of work,No
+2022-11-04,E108845,2022-11-01,Personal growth,No
+2022-11-12,E108885,2022-11-17,Unsupportive scope of work,No
+2022-11-14,E108919,2022-11-15,Personal growth,Yes
+2022-11-20,E108923,2022-11-12,Unsupportive scope of work,No
+2022-11-15,E108936,2022-11-09,Career path,No
+2022-11-20,E108953,2022-11-13,Personal growth,Yes
+2022-11-30,E109073,2022-11-23,Personal growth,No
+2022-11-17,E109084,2022-11-17,Personal growth,Yes
+2022-10-28,E109086,2022-11-01,Career path,Yes
+2022-11-14,E109098,2022-11-17,Unsupportive scope of work,Yes
+2022-11-08,E109126,2022-11-10,Unsupportive scope of work,No
+2022-11-03,E109146,2022-11-01,Unsupportive scope of work,No
+2022-12-15,E100294,2022-12-19,Career path,No
+2022-12-06,E100381,2022-12-07,Career path,Yes
+2022-12-07,E100394,2022-12-12,Unsupportive scope of work,No
+2022-11-29,E100789,2022-12-03,Personal growth,No
+2022-12-09,E100940,2022-12-09,Leadership,No
+2022-12-27,E102167,2022-12-24,Personal growth,No
+2022-12-03,E103192,2022-12-06,Personal growth,No
+2022-12-28,E103396,2022-12-25,Personal growth,No
+2023-01-05,E103637,2022-12-31,Leadership,No
+2022-12-01,E104250,2022-12-06,Personal growth,No
+2022-12-12,E104302,2022-12-12,Career path,Yes
+2022-12-06,E104371,2022-12-11,Career path,Yes
+2022-12-04,E104862,2022-12-02,Personal growth,No
+2022-12-19,E104880,2022-12-22,Unsupportive scope of work,Yes
+2022-12-02,E104933,2022-12-06,Personal growth,No
+2022-12-07,E105145,2022-12-01,Unsupportive scope of work,Yes
+2022-12-19,E105203,2022-12-10,Personal growth,No
+2022-12-10,E105217,2022-12-13,Career path,No
+2022-12-25,E105507,2022-12-29,Unsupportive scope of work,No
+2022-12-19,E105711,2022-12-20,Personal growth,Yes
+2022-12-16,E105814,2022-12-09,Personal growth,No
+2022-12-12,E105822,2022-12-05,Unsupportive scope of work,No
+2022-12-27,E106297,2022-12-21,Unsupportive scope of work,No
+2022-12-17,E106358,2022-12-17,Leadership,No
+2022-12-21,E106387,2022-12-14,Personal growth,Yes
+2022-12-25,E106591,2022-12-30,Unsupportive scope of work,No
+2022-12-04,E106740,2022-12-08,Career path,Yes
+2022-12-13,E106898,2022-12-09,Personal growth,Yes
+2022-12-30,E107078,2022-12-31,Unsupportive scope of work,No
+2022-12-17,E107107,2022-12-08,Career path,Yes
+2022-12-22,E107135,2022-12-21,Career path,No
+2022-12-16,E107212,2022-12-11,Career path,No
+2022-12-01,E107414,2022-12-05,Career path,No
+2022-12-16,E107488,2022-12-14,Unsupportive scope of work,No
+2022-12-22,E107523,2022-12-26,Unsupportive scope of work,No
+2022-12-16,E107529,2022-12-21,Career path,No
+2022-12-11,E107735,2022-12-10,Career path,No
+2022-12-07,E107801,2022-12-11,Career path,Yes
+2022-12-29,E107833,2022-12-20,Unsupportive scope of work,Yes
+2022-12-16,E107884,2022-12-21,Personal growth,No
+2022-12-15,E107915,2022-12-18,Unsupportive scope of work,No
+2023-01-03,E107954,2022-12-28,Personal growth,No
+2023-01-04,E107969,2022-12-29,Personal growth,No
+2022-12-11,E108107,2022-12-15,Personal growth,No
+2022-12-27,E108234,2022-12-24,Unsupportive scope of work,No
+2022-12-03,E108298,2022-12-08,Leadership,No
+2022-12-10,E108365,2022-12-03,Leadership,No
+2023-01-02,E108565,2022-12-31,Career path,Yes
+2022-12-21,E108609,2022-12-20,Career path,No
+2022-12-26,E108719,2022-12-17,Unsupportive scope of work,Yes
+2022-12-25,E108800,2022-12-20,Career path,No
+2022-12-11,E108825,2022-12-04,Personal growth,No
+2022-12-11,E108826,2022-12-02,Personal growth,No
+2022-12-21,E108842,2022-12-18,Unsupportive scope of work,No
+2022-12-27,E108879,2022-12-20,Leadership,No
+2022-11-29,E108969,2022-12-02,Personal growth,Yes
+2023-01-02,E108994,2022-12-29,Career path,No
+2022-12-20,E109021,2022-12-25,Unsupportive scope of work,No
+2023-01-05,E109023,2022-12-28,Career path,No
+2022-12-01,E109085,2022-12-06,Personal growth,No
+2022-11-30,E109110,2022-12-03,Unsupportive scope of work,Yes
+2022-12-10,E109129,2022-12-13,Leadership,No
+2022-12-27,E109154,2022-12-28,Personal growth,Yes
+2022-12-25,E109157,2022-12-17,Unsupportive scope of work,Yes
+2023-01-01,E109243,2022-12-31,Career path,No
+2022-12-23,E109289,2022-12-14,Personal growth,No
+2022-12-11,E109313,2022-12-15,Career path,No
+2022-12-25,E109323,2022-12-19,Career path,No
+2023-01-06,E109351,2022-12-28,Unsupportive scope of work,No
+2023-02-05,E100787,2023-01-27,Personal growth,No
+2023-01-26,E101148,2023-01-30,Personal growth,No
+2023-02-05,E101298,2023-01-31,Leadership,Yes
+2023-01-09,E101521,2023-01-11,Personal growth,Yes
+2023-01-18,E101681,2023-01-11,Leadership,No
+2023-01-04,E102565,2023-01-03,Career path,No
+2023-01-31,E103574,2023-01-31,Personal growth,No
+2023-01-19,E103581,2023-01-15,Personal growth,No
+2023-01-19,E104077,2023-01-13,Career path,No
+2023-01-31,E104131,2023-01-31,Career path,No
+2022-12-28,E104164,2023-01-02,Unsupportive scope of work,Yes
+2023-01-27,E104439,2023-01-23,Career path,Yes
+2023-01-05,E104721,2023-01-10,Career path,No
+2023-01-13,E104755,2023-01-06,Career path,No
+2023-01-20,E105074,2023-01-21,Personal growth,Yes
+2023-01-18,E105544,2023-01-11,Career path,No
+2023-01-13,E105990,2023-01-14,Personal growth,No
+2023-01-28,E106572,2023-01-22,Personal growth,No
+2023-01-03,E106642,2023-01-07,Career path,No
+2023-01-03,E106688,2023-01-01,Personal growth,Yes
+2023-01-14,E106935,2023-01-07,Personal growth,Yes
+2023-01-17,E107243,2023-01-08,Personal growth,Yes
+2023-01-15,E107292,2023-01-13,Unsupportive scope of work,Yes
+2023-01-05,E107417,2023-01-08,Unsupportive scope of work,Yes
+2023-01-23,E107446,2023-01-18,Personal growth,Yes
+2023-01-28,E107624,2023-01-19,Career path,Yes
+2023-01-22,E107682,2023-01-19,Career path,No
+2023-01-20,E107740,2023-01-15,Unsupportive scope of work,No
+2023-01-07,E107820,2023-01-06,Leadership,No
+2023-01-12,E107864,2023-01-12,Leadership,No
+2023-01-02,E107928,2023-01-01,Personal growth,Yes
+2023-01-14,E107960,2023-01-12,Unsupportive scope of work,Yes
+2023-01-26,E108002,2023-01-23,Unsupportive scope of work,No
+2023-01-09,E108018,2023-01-07,Personal growth,No
+2023-01-12,E108024,2023-01-14,Leadership,No
+2023-01-31,E108044,2023-01-28,Leadership,No
+2023-01-16,E108050,2023-01-10,Career path,Yes
+2023-01-18,E108091,2023-01-22,Leadership,No
+2023-01-28,E108123,2023-01-24,Leadership,Yes
+2023-01-16,E108158,2023-01-10,Unsupportive scope of work,Yes
+2023-02-01,E108282,2023-01-27,Career path,Yes
+2023-01-12,E108321,2023-01-03,Unsupportive scope of work,No
+2023-01-10,E108352,2023-01-02,Unsupportive scope of work,No
+2023-01-21,E108457,2023-01-21,Career path,No
+2023-01-31,E108494,2023-01-26,Personal growth,Yes
+2023-01-30,E108519,2023-01-26,Unsupportive scope of work,Yes
+2023-01-18,E108527,2023-01-15,Personal growth,No
+2023-01-28,E108632,2023-01-21,Unsupportive scope of work,No
+2023-01-14,E108756,2023-01-17,Personal growth,Yes
+2023-01-18,E108849,2023-01-18,Personal growth,Yes
+2022-12-29,E108952,2023-01-02,Leadership,No
+2023-01-29,E108997,2023-01-27,Career path,No
+2022-12-30,E109037,2023-01-04,Unsupportive scope of work,Yes
+2023-01-29,E109160,2023-01-27,Career path,No
+2023-02-05,E109164,2023-01-27,Personal growth,Yes
+2023-01-27,E109212,2023-01-23,Personal growth,No
+2023-01-10,E109225,2023-01-08,Personal growth,No
+2023-01-17,E109262,2023-01-22,Unsupportive scope of work,Yes
+2023-01-27,E109284,2023-01-21,Personal growth,No
+2023-01-08,E109325,2023-01-11,Personal growth,No
+2023-01-21,E109347,2023-01-23,Personal growth,No
+2023-01-11,E109401,2023-01-03,Leadership,No
+2023-01-11,E109432,2023-01-07,Unsupportive scope of work,No
+2023-01-13,E109443,2023-01-15,Unsupportive scope of work,No
+2023-02-02,E109463,2023-01-29,Unsupportive scope of work,No
+2023-01-06,E109481,2023-01-11,Personal growth,Yes
+2023-01-18,E109510,2023-01-22,Unsupportive scope of work,No
+2023-01-18,E109524,2023-01-21,Career path,No
+2023-01-09,E109537,2023-01-04,Leadership,No
+2023-01-18,E109550,2023-01-09,Personal growth,No
+2023-01-04,E109555,2023-01-07,Career path,Yes
+2023-02-26,E100128,2023-02-25,Unsupportive scope of work,No
+2023-02-25,E100269,2023-02-25,Career path,No
+2023-02-21,E100618,2023-02-21,Personal growth,Yes
+2023-03-05,E100868,2023-02-27,Unsupportive scope of work,No
+2023-02-21,E100928,2023-02-19,Career path,No
+2023-02-13,E101152,2023-02-04,Career path,Yes
+2023-02-07,E101374,2023-02-01,Unsupportive scope of work,No
+2023-02-16,E101764,2023-02-20,Unsupportive scope of work,No
+2023-02-23,E101834,2023-02-28,Unsupportive scope of work,Yes
+2023-02-24,E101947,2023-02-25,Personal growth,No
+2023-02-21,E102114,2023-02-16,Leadership,No
+2023-02-11,E102141,2023-02-14,Career path,No
+2023-02-25,E102432,2023-02-21,Career path,No
+2023-02-21,E102920,2023-02-13,Personal growth,No
+2023-02-28,E103470,2023-02-25,Personal growth,Yes
+2023-03-02,E103546,2023-02-25,Personal growth,No
+2023-02-24,E104240,2023-02-15,Unsupportive scope of work,No
+2023-02-25,E104713,2023-02-25,Unsupportive scope of work,No
+2023-02-16,E105388,2023-02-18,Career path,No
+2023-02-04,E105700,2023-02-09,Unsupportive scope of work,Yes
+2023-02-02,E105766,2023-02-07,Personal growth,Yes
+2023-02-16,E105775,2023-02-17,Unsupportive scope of work,No
+2023-02-17,E105796,2023-02-12,Career path,No
+2023-02-26,E105923,2023-02-26,Personal growth,Yes
+2023-02-01,E106015,2023-02-03,Unsupportive scope of work,No
+2023-02-19,E106193,2023-02-22,Personal growth,Yes
+2023-01-30,E106523,2023-02-04,Career path,No
+2023-03-02,E106575,2023-02-21,Unsupportive scope of work,No
+2023-02-05,E106630,2023-02-06,Unsupportive scope of work,No
+2023-02-04,E106684,2023-02-07,Career path,No
+2023-02-01,E107225,2023-02-01,Personal growth,Yes
+2023-02-26,E107240,2023-02-21,Career path,Yes
+2023-02-26,E107284,2023-02-26,Personal growth,No
+2023-02-21,E107580,2023-02-23,Career path,No
+2023-03-05,E107667,2023-02-26,Personal growth,No
+2023-02-20,E108041,2023-02-23,Career path,No
+2023-02-13,E108146,2023-02-08,Leadership,No
+2023-02-25,E108189,2023-02-21,Career path,Yes
+2023-02-10,E108215,2023-02-15,Career path,Yes
+2023-02-03,E108398,2023-02-02,Personal growth,Yes
+2023-02-04,E108407,2023-02-02,Career path,No
+2023-02-04,E108536,2023-02-03,Career path,Yes
+2023-02-25,E108805,2023-02-17,Personal growth,Yes
+2023-03-01,E108875,2023-02-22,Career path,No
+2023-02-24,E108886,2023-02-17,Unsupportive scope of work,No
+2023-01-31,E108975,2023-02-04,Leadership,Yes
+2023-03-02,E109034,2023-02-21,Personal growth,Yes
+2023-02-08,E109068,2023-02-13,Unsupportive scope of work,Yes
+2023-02-22,E109115,2023-02-14,Career path,Yes
+2023-02-20,E109147,2023-02-16,Career path,No
+2023-02-05,E109190,2023-02-03,Personal growth,No
+2023-02-21,E109213,2023-02-15,Personal growth,No
+2023-02-12,E109263,2023-02-12,Career path,No
+2023-02-14,E109280,2023-02-16,Career path,No
+2023-02-19,E109321,2023-02-15,Unsupportive scope of work,No
+2023-02-21,E109374,2023-02-25,Career path,Yes
+2023-03-02,E109406,2023-02-25,Career path,Yes
+2023-02-26,E109416,2023-02-17,Career path,No
+2023-03-07,E109429,2023-02-28,Career path,No
+2023-02-19,E109466,2023-02-23,Career path,No
+2023-02-12,E109504,2023-02-04,Leadership,No
+2023-02-26,E109552,2023-02-28,Career path,Yes
+2023-02-25,E109610,2023-02-18,Personal growth,No
+2023-02-24,E109690,2023-02-20,Unsupportive scope of work,No
+2023-02-26,E109697,2023-02-20,Career path,No
+2023-03-24,E100026,2023-03-16,Career path,No
+2023-03-13,E100249,2023-03-14,Leadership,Yes
+2023-03-29,E100718,2023-03-20,Career path,Yes
+2023-04-06,E100967,2023-03-28,Unsupportive scope of work,No
+2023-03-30,E101147,2023-03-30,Personal growth,Yes
+2023-03-08,E102080,2023-03-04,Career path,No
+2023-03-05,E102526,2023-03-08,Personal growth,No
+2023-03-12,E102801,2023-03-03,Personal growth,Yes
+2023-03-11,E103174,2023-03-07,Leadership,No
+2023-03-31,E104262,2023-03-24,Personal growth,No
+2023-03-07,E104637,2023-03-09,Unsupportive scope of work,No
+2023-03-03,E104649,2023-03-08,Career path,Yes
+2023-03-16,E104840,2023-03-17,Personal growth,Yes
+2023-03-14,E105503,2023-03-14,Career path,Yes
+2023-03-26,E105565,2023-03-23,Unsupportive scope of work,No
+2023-03-16,E105854,2023-03-13,Unsupportive scope of work,No
+2023-03-23,E105977,2023-03-15,Unsupportive scope of work,Yes
+2023-03-04,E106065,2023-03-06,Personal growth,No
+2023-03-18,E106195,2023-03-19,Career path,No
+2023-03-03,E106497,2023-03-01,Personal growth,No
+2023-03-14,E106600,2023-03-10,Personal growth,No
+2023-03-25,E106712,2023-03-24,Career path,Yes
+2023-04-01,E107049,2023-03-24,Leadership,Yes
+2023-03-17,E107100,2023-03-11,Unsupportive scope of work,Yes
+2023-03-14,E107123,2023-03-11,Career path,No
+2023-03-02,E107143,2023-03-02,Leadership,No
+2023-03-06,E107172,2023-03-11,Leadership,No
+2023-03-18,E107184,2023-03-11,Unsupportive scope of work,No
+2023-03-14,E107218,2023-03-16,Unsupportive scope of work,No
+2023-02-27,E107398,2023-03-01,Leadership,No
+2023-03-14,E107703,2023-03-13,Personal growth,No
+2023-03-16,E107829,2023-03-14,Unsupportive scope of work,Yes
+2023-03-31,E107898,2023-03-29,Personal growth,No
+2023-03-14,E107917,2023-03-09,Career path,Yes
+2023-03-14,E107986,2023-03-11,Leadership,Yes
+2023-03-10,E108162,2023-03-13,Unsupportive scope of work,No
+2023-03-26,E108199,2023-03-28,Career path,No
+2023-03-19,E108262,2023-03-20,Personal growth,No
+2023-03-11,E108264,2023-03-13,Career path,No
+2023-03-11,E108294,2023-03-03,Unsupportive scope of work,No
+2023-03-02,E108330,2023-03-04,Career path,No
+2023-03-28,E108374,2023-03-27,Personal growth,No
+2023-03-27,E108437,2023-03-25,Personal growth,No
+2023-03-25,E108496,2023-03-24,Career path,No
+2023-03-20,E108550,2023-03-19,Unsupportive scope of work,No
+2023-03-19,E108626,2023-03-14,Career path,No
+2023-03-14,E108757,2023-03-13,Career path,No
+2023-03-06,E108876,2023-03-03,Career path,Yes
+2023-03-29,E108943,2023-03-21,Unsupportive scope of work,No
+2023-03-25,E109027,2023-03-26,Career path,No
+2023-03-19,E109161,2023-03-22,Career path,Yes
+2023-03-15,E109204,2023-03-16,Career path,No
+2023-03-16,E109235,2023-03-10,Personal growth,No
+2023-03-10,E109285,2023-03-10,Personal growth,No
+2023-03-11,E109365,2023-03-03,Career path,No
+2023-03-12,E109379,2023-03-12,Personal growth,No
+2023-03-13,E109390,2023-03-06,Leadership,Yes
+2023-04-05,E109408,2023-03-29,Personal growth,No
+2023-04-07,E109454,2023-03-29,Unsupportive scope of work,No
+2023-03-23,E109544,2023-03-22,Career path,No
+2023-03-20,E109554,2023-03-15,Career path,Yes
+2023-03-16,E109569,2023-03-21,Unsupportive scope of work,No
+2023-04-05,E109598,2023-03-28,Career path,No
+2023-03-18,E109623,2023-03-20,Personal growth,Yes
+2023-03-17,E109681,2023-03-11,Career path,No
+2023-04-01,E109762,2023-03-31,Unsupportive scope of work,No
+2023-03-18,E109794,2023-03-22,Personal growth,Yes
+2023-02-25,E109806,2023-03-02,Career path,No
+2023-03-27,E109836,2023-03-24,Leadership,No
+2023-02-27,E109840,2023-03-01,Personal growth,No
+2023-03-03,E109851,2023-03-08,Leadership,No
+2023-03-16,E109901,2023-03-08,Career path,No
+2023-03-30,E109914,2023-03-24,Unsupportive scope of work,No
+2023-03-16,E109925,2023-03-16,Personal growth,No
+2023-04-17,E100245,2023-04-22,Unsupportive scope of work,No
+2023-04-29,E100422,2023-04-20,Personal growth,No
+2023-04-19,E100577,2023-04-13,Personal growth,Yes
+2023-04-22,E101208,2023-04-15,Leadership,Yes
+2023-04-11,E101636,2023-04-09,Unsupportive scope of work,Yes
+2023-04-27,E101759,2023-04-28,Career path,Yes
+2023-04-11,E102040,2023-04-08,Career path,No
+2023-04-12,E102283,2023-04-11,Leadership,Yes
+2023-04-11,E102586,2023-04-13,Personal growth,Yes
+2023-04-11,E103050,2023-04-05,Career path,No
+2023-05-02,E103051,2023-04-27,Career path,No
+2023-04-12,E103691,2023-04-12,Personal growth,No
+2023-04-09,E103788,2023-04-04,Career path,No
+2023-04-12,E104113,2023-04-10,Leadership,No
+2023-04-12,E104312,2023-04-13,Personal growth,No
+2023-04-04,E104859,2023-04-09,Career path,Yes
+2023-05-02,E104982,2023-04-30,Personal growth,Yes
+2023-04-04,E105271,2023-04-05,Career path,No
+2023-05-03,E105622,2023-04-26,Personal growth,Yes
+2023-04-17,E105756,2023-04-22,Unsupportive scope of work,No
+2023-04-20,E105821,2023-04-15,Personal growth,Yes
+2023-04-24,E106926,2023-04-27,Career path,No
+2023-04-24,E107061,2023-04-24,Career path,No
+2023-05-01,E107091,2023-04-28,Personal growth,No
+2023-04-04,E107113,2023-04-02,Career path,No
+2023-04-12,E107115,2023-04-05,Personal growth,No
+2023-04-22,E107122,2023-04-25,Career path,Yes
+2023-04-28,E107148,2023-04-21,Career path,Yes
+2023-03-31,E107252,2023-04-03,Career path,No
+2023-04-23,E107311,2023-04-24,Career path,No
+2023-04-23,E107498,2023-04-14,Personal growth,Yes
+2023-04-17,E107565,2023-04-10,Career path,Yes
+2023-05-04,E107576,2023-04-30,Career path,Yes
+2023-04-23,E107798,2023-04-14,Personal growth,Yes
+2023-04-14,E108038,2023-04-18,Career path,Yes
+2023-04-19,E108137,2023-04-20,Unsupportive scope of work,No
+2023-04-29,E108200,2023-04-30,Career path,Yes
+2023-04-13,E108351,2023-04-10,Career path,No
+2023-04-12,E108488,2023-04-07,Career path,No
+2023-04-24,E108513,2023-04-19,Career path,No
+2023-04-17,E108832,2023-04-08,Personal growth,No
+2023-04-20,E108858,2023-04-20,Personal growth,Yes
+2023-04-25,E108887,2023-04-30,Leadership,Yes
+2023-04-23,E108892,2023-04-25,Unsupportive scope of work,Yes
+2023-04-29,E108899,2023-04-24,Personal growth,No
+2023-05-04,E109029,2023-04-27,Career path,No
+2023-04-03,E109030,2023-04-04,Personal growth,Yes
+2023-05-01,E109063,2023-04-25,Unsupportive scope of work,No
+2023-04-15,E109247,2023-04-16,Personal growth,Yes
+2023-03-30,E109278,2023-04-04,Personal growth,No
+2023-04-17,E109295,2023-04-15,Personal growth,Yes
+2023-04-23,E109329,2023-04-15,Personal growth,No
+2023-03-30,E109386,2023-04-03,Career path,No
+2023-04-19,E109387,2023-04-16,Leadership,Yes
+2023-04-18,E109418,2023-04-14,Personal growth,Yes
+2023-04-22,E109603,2023-04-13,Unsupportive scope of work,No
+2023-04-17,E109655,2023-04-08,Career path,No
+2023-05-09,E109658,2023-04-30,Personal growth,No
+2023-04-29,E109688,2023-04-23,Personal growth,No
+2023-04-06,E109689,2023-04-10,Personal growth,No
+2023-04-20,E109745,2023-04-14,Unsupportive scope of work,No
+2023-04-21,E109759,2023-04-12,Unsupportive scope of work,No
+2023-04-23,E109771,2023-04-23,Personal growth,No
+2023-05-07,E109823,2023-04-29,Personal growth,Yes
+2023-04-08,E109883,2023-04-08,Unsupportive scope of work,No
+2023-04-13,E109920,2023-04-16,Personal growth,Yes
+2023-04-28,E110015,2023-04-19,Leadership,Yes
+2023-04-16,E110029,2023-04-20,Career path,No
+2023-03-28,E110039,2023-04-01,Leadership,No
+2023-04-21,E110043,2023-04-19,Personal growth,Yes
+2023-04-22,E110071,2023-04-23,Career path,Yes
+2023-04-14,E110078,2023-04-07,Unsupportive scope of work,Yes
+2023-04-27,E110094,2023-04-22,Leadership,No
+2023-05-18,E100189,2023-05-14,Career path,No
+2023-05-01,E100332,2023-05-02,Personal growth,No
+2023-06-07,E100468,2023-05-29,Career path,No
+2023-05-19,E100646,2023-05-16,Unsupportive scope of work,No
+2023-06-02,E100992,2023-05-27,Unsupportive scope of work,No
+2023-05-16,E103426,2023-05-18,Personal growth,Yes
+2023-05-02,E103776,2023-05-06,Career path,No
+2023-06-02,E104060,2023-05-24,Personal growth,Yes
+2023-05-24,E104657,2023-05-29,Career path,Yes
+2023-05-23,E104860,2023-05-14,Personal growth,Yes
+2023-06-01,E104928,2023-05-28,Personal growth,No
+2023-05-25,E105395,2023-05-20,Leadership,No
+2023-05-22,E105820,2023-05-22,Personal growth,No
+2023-05-28,E105823,2023-05-29,Career path,No
+2023-04-30,E105865,2023-05-04,Unsupportive scope of work,No
+2023-05-14,E106016,2023-05-08,Leadership,No
+2023-05-07,E106294,2023-05-06,Career path,No
+2023-04-28,E106420,2023-05-03,Personal growth,Yes
+2023-05-03,E106501,2023-05-06,Career path,No
+2023-06-07,E106606,2023-05-30,Personal growth,Yes
+2023-05-20,E106767,2023-05-11,Unsupportive scope of work,Yes
+2023-05-14,E106784,2023-05-10,Unsupportive scope of work,Yes
+2023-05-07,E106827,2023-05-02,Unsupportive scope of work,Yes
+2023-05-25,E106859,2023-05-18,Personal growth,Yes
+2023-05-28,E106883,2023-05-21,Personal growth,No
+2023-05-06,E107072,2023-05-10,Personal growth,No
+2023-05-31,E107156,2023-05-30,Personal growth,No
+2023-05-29,E107445,2023-05-20,Personal growth,No
+2023-05-28,E107689,2023-05-20,Leadership,Yes
+2023-05-09,E107747,2023-05-11,Personal growth,No
+2023-05-27,E107826,2023-05-31,Career path,No
+2023-05-21,E107956,2023-05-15,Career path,No
+2023-05-19,E108157,2023-05-12,Leadership,Yes
+2023-05-20,E108186,2023-05-25,Personal growth,No
+2023-05-09,E108709,2023-05-05,Personal growth,No
+2023-05-28,E108750,2023-05-27,Unsupportive scope of work,Yes
+2023-05-06,E108778,2023-05-03,Personal growth,No
+2023-05-06,E108856,2023-05-11,Personal growth,Yes
+2023-05-27,E108897,2023-05-21,Personal growth,No
+2023-05-07,E108992,2023-05-11,Personal growth,Yes
+2023-05-10,E109191,2023-05-11,Career path,No
+2023-05-06,E109273,2023-05-10,Career path,Yes
+2023-05-28,E109346,2023-05-29,Personal growth,No
+2023-05-14,E109459,2023-05-18,Personal growth,No
+2023-05-26,E109489,2023-05-20,Unsupportive scope of work,No
+2023-06-03,E109491,2023-05-30,Unsupportive scope of work,Yes
+2023-06-02,E109523,2023-05-31,Personal growth,No
+2023-05-04,E109557,2023-05-03,Career path,No
+2023-05-27,E109570,2023-05-27,Personal growth,No
+2023-05-22,E109586,2023-05-26,Unsupportive scope of work,Yes
+2023-05-27,E109676,2023-05-25,Unsupportive scope of work,No
+2023-05-15,E109761,2023-05-13,Personal growth,No
+2023-05-11,E109787,2023-05-10,Career path,No
+2023-05-18,E109859,2023-05-11,Personal growth,Yes
+2023-06-04,E109868,2023-05-28,Leadership,No
+2023-05-26,E109882,2023-05-29,Personal growth,No
+2023-05-07,E109902,2023-05-11,Personal growth,No
+2023-05-10,E109957,2023-05-04,Career path,No
+2023-05-02,E110017,2023-05-03,Career path,No
+2023-05-29,E110037,2023-05-24,Career path,No
+2023-05-21,E110048,2023-05-21,Career path,Yes
+2023-06-05,E110072,2023-05-30,Personal growth,Yes
+2023-05-18,E110085,2023-05-15,Career path,Yes
+2023-05-15,E110101,2023-05-11,Career path,Yes
+2023-05-18,E110105,2023-05-14,Unsupportive scope of work,No
+2023-05-04,E110110,2023-05-03,Career path,Yes
+2023-05-12,E110135,2023-05-08,Leadership,No
+2023-06-03,E110146,2023-05-31,Personal growth,No
+2023-05-09,E110229,2023-05-04,Personal growth,Yes
+2023-05-16,E110231,2023-05-12,Personal growth,No
+2023-05-21,E110265,2023-05-21,Personal growth,No
+2023-06-25,E100217,2023-06-28,Personal growth,No
+2023-06-07,E100526,2023-06-10,Leadership,No
+2023-06-24,E100584,2023-06-25,Unsupportive scope of work,Yes
+2023-06-29,E101025,2023-06-20,Personal growth,Yes
+2023-06-22,E101422,2023-06-16,Career path,No
+2023-06-13,E101743,2023-06-16,Career path,No
+2023-06-11,E102048,2023-06-09,Unsupportive scope of work,No
+2023-06-30,E102803,2023-06-30,Leadership,Yes
+2023-06-17,E103020,2023-06-14,Career path,Yes
+2023-06-14,E103121,2023-06-08,Career path,No
+2023-06-27,E103351,2023-06-20,Career path,No
+2023-06-22,E103571,2023-06-27,Personal growth,No
+2023-06-11,E103737,2023-06-03,Career path,Yes
+2023-06-15,E104123,2023-06-15,Unsupportive scope of work,No
+2023-06-03,E104144,2023-06-07,Career path,Yes
+2023-07-01,E105046,2023-06-29,Unsupportive scope of work,No
+2023-06-20,E105188,2023-06-21,Personal growth,No
+2023-06-30,E105743,2023-06-30,Career path,Yes
+2023-06-06,E105914,2023-06-10,Personal growth,Yes
+2023-06-24,E105949,2023-06-23,Unsupportive scope of work,No
+2023-06-04,E105967,2023-06-04,Personal growth,No
+2023-06-12,E105991,2023-06-17,Personal growth,Yes
+2023-06-24,E106219,2023-06-23,Personal growth,No
+2023-06-26,E106602,2023-06-25,Personal growth,No
+2023-05-30,E106631,2023-06-03,Personal growth,Yes
+2023-06-12,E107384,2023-06-03,Unsupportive scope of work,Yes
+2023-06-09,E107553,2023-06-06,Career path,No
+2023-06-05,E107613,2023-06-08,Personal growth,Yes
+2023-06-18,E107627,2023-06-21,Career path,No
+2023-06-18,E107718,2023-06-22,Personal growth,No
+2023-06-09,E107841,2023-06-12,Personal growth,Yes
+2023-05-31,E107970,2023-06-03,Unsupportive scope of work,No
+2023-06-04,E108178,2023-06-01,Leadership,Yes
+2023-06-24,E108227,2023-06-27,Unsupportive scope of work,Yes
+2023-06-14,E108290,2023-06-19,Personal growth,No
+2023-06-14,E108376,2023-06-15,Unsupportive scope of work,Yes
+2023-06-25,E108431,2023-06-30,Career path,No
+2023-06-17,E108452,2023-06-10,Personal growth,No
+2023-06-21,E108807,2023-06-14,Personal growth,No
+2023-06-23,E108956,2023-06-15,Unsupportive scope of work,No
+2023-06-11,E108980,2023-06-05,Personal growth,No
+2023-06-13,E109002,2023-06-14,Leadership,No
+2023-06-13,E109056,2023-06-12,Unsupportive scope of work,No
+2023-05-30,E109177,2023-06-01,Unsupportive scope of work,No
+2023-06-30,E109217,2023-06-27,Personal growth,Yes
+2023-06-30,E109359,2023-06-25,Career path,No
+2023-06-26,E109433,2023-06-17,Personal growth,No
+2023-06-29,E109541,2023-06-27,Personal growth,No
+2023-06-22,E109551,2023-06-21,Career path,Yes
+2023-06-24,E109627,2023-06-22,Unsupportive scope of work,No
+2023-06-30,E109632,2023-06-24,Career path,No
+2023-06-03,E109738,2023-06-07,Career path,No
+2023-06-25,E109767,2023-06-20,Personal growth,No
+2023-06-26,E109779,2023-06-20,Unsupportive scope of work,No
+2023-06-16,E109786,2023-06-07,Leadership,No
+2023-06-25,E109821,2023-06-19,Unsupportive scope of work,Yes
+2023-06-23,E109848,2023-06-15,Leadership,No
+2023-05-28,E109888,2023-06-01,Career path,No
+2023-06-08,E109900,2023-06-06,Career path,No
+2023-06-21,E109923,2023-06-16,Career path,Yes
+2023-06-28,E109952,2023-06-22,Personal growth,No
+2023-06-01,E109974,2023-06-02,Leadership,No
+2023-06-05,E110024,2023-06-09,Career path,No
+2023-06-14,E110084,2023-06-13,Unsupportive scope of work,No
+2023-06-14,E110134,2023-06-09,Career path,No
+2023-06-28,E110142,2023-06-24,Personal growth,No
+2023-06-07,E110148,2023-06-04,Leadership,No
+2023-06-27,E110234,2023-06-18,Leadership,No
+2023-06-12,E110279,2023-06-05,Personal growth,No
+2023-06-11,E110385,2023-06-10,Career path,No
+2023-06-10,E110387,2023-06-10,Unsupportive scope of work,No
+2023-07-03,E101266,2023-07-03,Career path,No
+2023-07-30,E101962,2023-07-26,Career path,No
+2023-07-15,E103280,2023-07-18,Career path,Yes
+2023-07-25,E103383,2023-07-27,Unsupportive scope of work,Yes
+2023-08-01,E105161,2023-07-31,Personal growth,No
+2023-07-20,E105542,2023-07-17,Unsupportive scope of work,No
+2023-07-24,E105554,2023-07-19,Personal growth,No
+2023-08-04,E105715,2023-07-26,Leadership,No
+2023-07-29,E106088,2023-07-23,Career path,Yes
+2023-07-03,E106146,2023-07-06,Personal growth,No
+2023-07-11,E106610,2023-07-06,Leadership,Yes
+2023-07-04,E106979,2023-07-06,Leadership,Yes
+2023-07-09,E107083,2023-07-12,Career path,No
+2023-07-14,E107739,2023-07-16,Career path,No
+2023-07-15,E108108,2023-07-20,Leadership,Yes
+2023-07-18,E108183,2023-07-22,Personal growth,No
+2023-07-19,E108206,2023-07-20,Career path,Yes
+2023-07-27,E108220,2023-07-30,Career path,No
+2023-07-17,E108253,2023-07-14,Career path,No
+2023-07-02,E108680,2023-07-07,Personal growth,No
+2023-07-26,E108731,2023-07-26,Personal growth,No
+2023-07-22,E108864,2023-07-23,Personal growth,No
+2023-07-31,E108951,2023-07-23,Unsupportive scope of work,No
+2023-06-30,E108996,2023-07-01,Career path,No
+2023-07-13,E109040,2023-07-17,Unsupportive scope of work,No
+2023-07-25,E109050,2023-07-30,Unsupportive scope of work,No
+2023-07-23,E109121,2023-07-23,Leadership,No
+2023-07-21,E109220,2023-07-26,Career path,Yes
+2023-07-07,E109388,2023-07-05,Unsupportive scope of work,No
+2023-07-09,E109572,2023-07-01,Personal growth,Yes
+2023-07-25,E109628,2023-07-18,Personal growth,Yes
+2023-07-10,E109649,2023-07-08,Unsupportive scope of work,No
+2023-07-23,E109679,2023-07-23,Leadership,No
+2023-07-08,E109769,2023-07-01,Career path,Yes
+2023-08-07,E109843,2023-07-31,Personal growth,No
+2023-07-12,E109921,2023-07-11,Leadership,No
+2023-08-08,E109951,2023-07-31,Unsupportive scope of work,No
+2023-08-01,E110007,2023-07-27,Personal growth,No
+2023-08-02,E110023,2023-07-24,Career path,Yes
+2023-08-01,E110044,2023-07-30,Career path,No
+2023-07-14,E110047,2023-07-13,Career path,No
+2023-07-25,E110093,2023-07-19,Leadership,No
+2023-07-15,E110124,2023-07-11,Career path,Yes
+2023-07-26,E110215,2023-07-31,Career path,No
+2023-07-19,E110250,2023-07-10,Personal growth,Yes
+2023-07-24,E110273,2023-07-16,Career path,Yes
+2023-07-12,E110314,2023-07-10,Career path,No
+2023-06-29,E110341,2023-07-02,Unsupportive scope of work,No
+2023-07-07,E110366,2023-07-12,Personal growth,Yes
+2023-08-05,E110397,2023-07-27,Personal growth,Yes
+2023-07-04,E110404,2023-07-01,Personal growth,No
+2023-07-11,E110411,2023-07-14,Unsupportive scope of work,No
+2023-07-10,E110468,2023-07-13,Personal growth,No
+2023-07-18,E110515,2023-07-19,Personal growth,No
+2023-07-09,E110534,2023-07-03,Career path,No
+2023-07-11,E110541,2023-07-03,Personal growth,Yes
+2023-07-22,E110556,2023-07-16,Personal growth,No
+2023-07-28,E110560,2023-07-19,Career path,No
+2023-07-18,E110563,2023-07-09,Personal growth,No
+2023-08-19,E100612,2023-08-19,Career path,No
+2023-08-04,E101443,2023-08-01,Leadership,Yes
+2023-08-14,E101897,2023-08-13,Personal growth,Yes
+2023-08-19,E102471,2023-08-18,Personal growth,No
+2023-08-25,E102778,2023-08-25,Unsupportive scope of work,Yes
+2023-09-02,E102993,2023-08-28,Career path,No
+2023-08-13,E103642,2023-08-05,Unsupportive scope of work,No
+2023-08-07,E104567,2023-08-08,Personal growth,No
+2023-08-29,E104762,2023-08-26,Personal growth,No
+2023-07-31,E105023,2023-08-04,Career path,No
+2023-08-25,E105502,2023-08-25,Career path,No
+2023-08-12,E105536,2023-08-16,Personal growth,Yes
+2023-08-13,E105620,2023-08-07,Unsupportive scope of work,No
+2023-08-11,E105716,2023-08-09,Personal growth,No
+2023-08-17,E106564,2023-08-13,Personal growth,Yes
+2023-08-08,E106793,2023-08-04,Unsupportive scope of work,Yes
+2023-08-12,E106972,2023-08-05,Personal growth,No
+2023-08-09,E107197,2023-08-08,Career path,No
+2023-08-03,E107205,2023-08-04,Leadership,No
+2023-08-17,E107258,2023-08-10,Career path,Yes
+2023-08-23,E107427,2023-08-26,Career path,Yes
+2023-08-20,E107525,2023-08-11,Personal growth,No
+2023-09-01,E107774,2023-08-24,Leadership,No
+2023-09-01,E107858,2023-08-26,Unsupportive scope of work,No
+2023-08-21,E107921,2023-08-17,Personal growth,No
+2023-08-30,E108087,2023-08-24,Leadership,No
+2023-09-04,E108106,2023-08-31,Personal growth,No
+2023-08-08,E108155,2023-08-06,Career path,No
+2023-08-24,E108176,2023-08-22,Unsupportive scope of work,Yes
+2023-08-13,E108708,2023-08-08,Unsupportive scope of work,No
+2023-08-28,E108903,2023-08-20,Career path,No
+2023-08-27,E109014,2023-08-21,Leadership,No
+2023-08-26,E109057,2023-08-24,Personal growth,No
+2023-08-17,E109072,2023-08-15,Career path,Yes
+2023-08-15,E109275,2023-08-13,Personal growth,Yes
+2023-08-24,E109286,2023-08-18,Unsupportive scope of work,Yes
+2023-08-07,E109342,2023-08-06,Personal growth,No
+2023-08-03,E109412,2023-08-04,Career path,No
+2023-09-05,E109427,2023-08-29,Personal growth,Yes
+2023-08-03,E109668,2023-08-07,Leadership,No
+2023-08-04,E109693,2023-08-09,Career path,No
+2023-08-16,E109810,2023-08-07,Career path,No
+2023-08-13,E109844,2023-08-15,Career path,No
+2023-08-21,E109887,2023-08-17,Unsupportive scope of work,Yes
+2023-08-03,E109942,2023-08-01,Career path,No
+2023-08-17,E109984,2023-08-20,Personal growth,No
+2023-09-06,E110010,2023-08-28,Personal growth,No
+2023-09-04,E110119,2023-08-28,Career path,No
+2023-08-22,E110157,2023-08-26,Unsupportive scope of work,Yes
+2023-08-17,E110304,2023-08-13,Career path,No
+2023-08-11,E110320,2023-08-05,Career path,Yes
+2023-08-18,E110334,2023-08-20,Personal growth,No
+2023-08-08,E110347,2023-08-11,Personal growth,No
+2023-08-30,E110348,2023-08-27,Career path,No
+2023-08-31,E110355,2023-08-23,Personal growth,No
+2023-08-14,E110405,2023-08-18,Unsupportive scope of work,Yes
+2023-08-08,E110477,2023-08-10,Unsupportive scope of work,No
+2023-08-18,E110482,2023-08-14,Career path,No
+2023-08-29,E110492,2023-08-30,Personal growth,No
+2023-08-02,E110529,2023-08-01,Career path,No
+2023-08-24,E110540,2023-08-23,Career path,Yes
+2023-08-04,E110697,2023-08-08,Personal growth,No
+2023-09-05,E110724,2023-08-29,Personal growth,No
+2023-08-08,E110759,2023-08-09,Unsupportive scope of work,No
+2023-08-26,E110765,2023-08-24,Personal growth,Yes
+2023-08-14,E110799,2023-08-10,Unsupportive scope of work,No
+2023-08-14,E110804,2023-08-07,Personal growth,No
+2023-08-19,E110827,2023-08-20,Career path,No
+2023-08-03,E110834,2023-08-06,Personal growth,No
+2023-09-22,E100077,2023-09-14,Career path,Yes
+2023-09-22,E100494,2023-09-19,Unsupportive scope of work,Yes
+2023-09-23,E101394,2023-09-19,Career path,Yes
+2023-09-21,E103860,2023-09-20,Leadership,Yes
+2023-09-07,E103904,2023-09-10,Personal growth,No
+2023-09-24,E104424,2023-09-28,Personal growth,Yes
+2023-09-29,E104464,2023-09-23,Career path,No
+2023-09-05,E104842,2023-09-07,Career path,No
+2023-09-06,E104996,2023-09-11,Career path,No
+2023-10-08,E105021,2023-09-29,Unsupportive scope of work,No
+2023-09-15,E105373,2023-09-13,Unsupportive scope of work,No
+2023-08-31,E105466,2023-09-03,Leadership,No
+2023-09-24,E105526,2023-09-28,Unsupportive scope of work,No
+2023-09-04,E106051,2023-09-02,Personal growth,No
+2023-09-01,E106245,2023-09-01,Personal growth,No
+2023-09-07,E106419,2023-09-04,Personal growth,No
+2023-09-06,E106542,2023-09-10,Personal growth,No
+2023-09-07,E106907,2023-09-01,Unsupportive scope of work,No
+2023-09-05,E107037,2023-09-06,Career path,No
+2023-08-29,E107231,2023-09-02,Leadership,No
+2023-09-23,E107344,2023-09-17,Career path,Yes
+2023-09-22,E107651,2023-09-21,Career path,No
+2023-09-29,E107802,2023-09-26,Career path,Yes
+2023-09-23,E107855,2023-09-20,Personal growth,Yes
+2023-09-14,E107981,2023-09-12,Personal growth,Yes
+2023-09-20,E108037,2023-09-23,Personal growth,No
+2023-09-29,E108349,2023-09-20,Personal growth,Yes
+2023-10-07,E108379,2023-09-28,Career path,No
+2023-09-08,E108508,2023-09-04,Personal growth,Yes
+2023-09-28,E108638,2023-09-20,Unsupportive scope of work,Yes
+2023-10-05,E108673,2023-09-26,Unsupportive scope of work,No
+2023-09-21,E108702,2023-09-23,Career path,No
+2023-09-02,E108786,2023-09-06,Career path,No
+2023-10-09,E108802,2023-09-30,Personal growth,No
+2023-10-03,E108871,2023-09-28,Career path,No
+2023-09-13,E108881,2023-09-12,Unsupportive scope of work,No
+2023-09-10,E108993,2023-09-08,Unsupportive scope of work,No
+2023-09-17,E109028,2023-09-17,Unsupportive scope of work,No
+2023-09-25,E109071,2023-09-23,Career path,No
+2023-10-04,E109249,2023-09-27,Leadership,No
+2023-09-28,E109307,2023-09-25,Career path,No
+2023-09-10,E109312,2023-09-01,Leadership,No
+2023-09-11,E109600,2023-09-16,Unsupportive scope of work,No
+2023-09-23,E109634,2023-09-28,Career path,No
+2023-10-09,E109636,2023-09-30,Leadership,No
+2023-09-15,E109749,2023-09-08,Personal growth,Yes
+2023-09-18,E109884,2023-09-14,Personal growth,No
+2023-09-22,E109948,2023-09-27,Unsupportive scope of work,No
+2023-09-18,E109999,2023-09-15,Career path,No
+2023-10-07,E110020,2023-09-29,Personal growth,No
+2023-09-14,E110031,2023-09-13,Personal growth,No
+2023-09-23,E110080,2023-09-24,Personal growth,Yes
+2023-09-27,E110129,2023-09-20,Career path,No
+2023-09-23,E110178,2023-09-18,Unsupportive scope of work,Yes
+2023-09-06,E110195,2023-09-03,Personal growth,Yes
+2023-10-02,E110219,2023-09-23,Leadership,No
+2023-09-25,E110268,2023-09-20,Career path,Yes
+2023-09-15,E110319,2023-09-18,Personal growth,Yes
+2023-09-01,E110346,2023-09-03,Personal growth,Yes
+2023-09-25,E110386,2023-09-19,Personal growth,Yes
+2023-08-29,E110408,2023-09-03,Personal growth,No
+2023-09-08,E110420,2023-09-12,Personal growth,Yes
+2023-09-16,E110422,2023-09-07,Career path,Yes
+2023-09-19,E110511,2023-09-16,Career path,No
+2023-09-18,E110544,2023-09-20,Career path,No
+2023-09-10,E110557,2023-09-03,Leadership,No
+2023-09-28,E110569,2023-09-24,Career path,No
+2023-09-19,E110603,2023-09-22,Career path,Yes
+2023-09-30,E110608,2023-09-29,Personal growth,No
+2023-09-05,E110621,2023-09-08,Personal growth,No
+2023-09-08,E110670,2023-09-07,Personal growth,Yes
+2023-08-31,E110678,2023-09-04,Career path,No
+2023-09-17,E110701,2023-09-17,Personal growth,No
+2023-09-23,E110710,2023-09-14,Unsupportive scope of work,No
+2023-09-22,E110810,2023-09-17,Personal growth,No
+2023-09-24,E110841,2023-09-23,Career path,No
+2023-09-24,E110848,2023-09-25,Unsupportive scope of work,No
+2023-09-24,E110887,2023-09-19,Personal growth,Yes
+2023-09-13,E110907,2023-09-15,Career path,Yes
+2023-09-24,E110934,2023-09-19,Unsupportive scope of work,No
+2023-09-13,E110940,2023-09-16,Career path,Yes
+2023-09-19,E110964,2023-09-24,Career path,No
+2023-09-24,E110970,2023-09-22,Personal growth,Yes
+2023-09-12,E111001,2023-09-04,Personal growth,No
+2023-10-27,E101055,2023-10-30,Career path,No
+2023-10-03,E101406,2023-10-03,Career path,No
+2023-10-12,E101565,2023-10-04,Personal growth,No
+2023-10-23,E101844,2023-10-19,Career path,No
+2023-10-03,E104005,2023-10-02,Personal growth,Yes
+2023-11-04,E105481,2023-10-29,Personal growth,Yes
+2023-11-02,E105670,2023-10-27,Unsupportive scope of work,Yes
+2023-10-25,E105944,2023-10-27,Personal growth,Yes
+2023-11-07,E106205,2023-10-30,Personal growth,Yes
+2023-10-15,E106687,2023-10-11,Leadership,Yes
+2023-10-10,E106794,2023-10-02,Career path,No
+2023-10-20,E106974,2023-10-13,Personal growth,Yes
+2023-10-17,E107253,2023-10-19,Personal growth,No
+2023-10-15,E107678,2023-10-17,Leadership,Yes
+2023-11-01,E107876,2023-10-29,Leadership,No
+2023-10-21,E108233,2023-10-14,Personal growth,No
+2023-09-28,E108603,2023-10-02,Leadership,Yes
+2023-11-04,E109036,2023-10-26,Career path,No
+2023-10-10,E109456,2023-10-07,Personal growth,No
+2023-10-21,E109457,2023-10-14,Leadership,Yes
+2023-10-28,E109516,2023-10-26,Career path,No
+2023-10-07,E109580,2023-10-07,Personal growth,Yes
+2023-10-14,E109604,2023-10-12,Personal growth,No
+2023-11-05,E109677,2023-10-27,Unsupportive scope of work,No
+2023-10-06,E109708,2023-10-07,Personal growth,No
+2023-10-12,E109793,2023-10-09,Personal growth,No
+2023-10-16,E109845,2023-10-21,Personal growth,Yes
+2023-10-30,E110133,2023-10-22,Unsupportive scope of work,No
+2023-10-08,E110173,2023-10-03,Leadership,Yes
+2023-10-10,E110208,2023-10-12,Personal growth,No
+2023-10-08,E110228,2023-10-01,Personal growth,No
+2023-10-05,E110275,2023-10-10,Unsupportive scope of work,No
+2023-10-17,E110360,2023-10-18,Personal growth,Yes
+2023-10-01,E110369,2023-10-01,Career path,No
+2023-09-28,E110371,2023-10-02,Unsupportive scope of work,No
+2023-10-19,E110375,2023-10-15,Career path,Yes
+2023-10-14,E110381,2023-10-15,Leadership,No
+2023-10-28,E110389,2023-10-31,Career path,No
+2023-10-21,E110459,2023-10-25,Unsupportive scope of work,Yes
+2023-10-14,E110473,2023-10-18,Career path,No
+2023-10-15,E110498,2023-10-12,Personal growth,Yes
+2023-10-23,E110523,2023-10-27,Unsupportive scope of work,No
+2023-10-10,E110548,2023-10-01,Unsupportive scope of work,Yes
+2023-10-15,E110619,2023-10-12,Personal growth,Yes
+2023-10-08,E110628,2023-10-04,Leadership,Yes
+2023-11-05,E110644,2023-10-28,Leadership,No
+2023-10-21,E110693,2023-10-24,Unsupportive scope of work,No
+2023-10-08,E110709,2023-10-13,Personal growth,Yes
+2023-10-14,E110720,2023-10-17,Personal growth,No
+2023-10-17,E110731,2023-10-09,Personal growth,No
+2023-10-11,E110751,2023-10-02,Personal growth,No
+2023-10-07,E110767,2023-10-01,Career path,No
+2023-10-24,E110789,2023-10-29,Unsupportive scope of work,Yes
+2023-11-04,E110811,2023-10-27,Unsupportive scope of work,No
+2023-10-20,E110821,2023-10-13,Career path,No
+2023-10-08,E110936,2023-10-06,Leadership,Yes
+2023-10-16,E110998,2023-10-12,Career path,No
+2023-10-26,E111026,2023-10-17,Career path,No
+2023-10-09,E111029,2023-10-01,Personal growth,No
+2023-10-12,E111094,2023-10-17,Personal growth,No
+2023-10-16,E111103,2023-10-16,Unsupportive scope of work,Yes
+2023-10-25,E111114,2023-10-20,Leadership,Yes
+2023-10-26,E111121,2023-10-17,Personal growth,No
+2023-10-28,E111139,2023-10-26,Personal growth,No
+2023-10-31,E111219,2023-10-23,Career path,No
+2023-11-15,E100413,2023-11-14,Personal growth,Yes
+2023-11-24,E100619,2023-11-27,Personal growth,Yes
+2023-11-17,E100714,2023-11-12,Career path,No
+2023-11-18,E101475,2023-11-15,Personal growth,No
+2023-11-17,E101723,2023-11-08,Unsupportive scope of work,No
+2023-11-09,E102221,2023-11-04,Personal growth,No
+2023-11-12,E102772,2023-11-12,Leadership,No
+2023-11-14,E104331,2023-11-06,Career path,No
+2023-11-27,E104642,2023-11-27,Career path,No
+2023-10-31,E104782,2023-11-05,Personal growth,No
+2023-11-29,E105826,2023-11-28,Personal growth,No
+2023-11-30,E105874,2023-11-27,Unsupportive scope of work,Yes
+2023-11-30,E106125,2023-11-24,Personal growth,No
+2023-11-22,E106828,2023-11-22,Leadership,No
+2023-11-19,E107062,2023-11-17,Leadership,No
+2023-11-26,E107558,2023-11-20,Personal growth,No
+2023-11-10,E107844,2023-11-15,Unsupportive scope of work,No
+2023-11-03,E107983,2023-11-07,Unsupportive scope of work,No
+2023-11-16,E107995,2023-11-10,Unsupportive scope of work,No
+2023-11-26,E108306,2023-11-22,Unsupportive scope of work,Yes
+2023-11-14,E108334,2023-11-07,Career path,Yes
+2023-12-01,E108487,2023-11-27,Unsupportive scope of work,Yes
+2023-11-05,E108640,2023-11-07,Personal growth,No
+2023-11-29,E108747,2023-11-27,Career path,No
+2023-11-06,E108812,2023-11-07,Leadership,No
+2023-11-11,E108910,2023-11-12,Personal growth,No
+2023-11-07,E108932,2023-11-08,Personal growth,No
+2023-11-27,E108942,2023-11-30,Unsupportive scope of work,No
+2023-11-16,E109019,2023-11-13,Personal growth,No
+2023-12-02,E109079,2023-11-27,Leadership,Yes
+2023-11-14,E109314,2023-11-05,Career path,No
+2023-11-18,E109338,2023-11-11,Career path,No
+2023-11-29,E109350,2023-11-23,Personal growth,No
+2023-11-08,E109371,2023-11-03,Personal growth,No
+2023-10-27,E109476,2023-11-01,Personal growth,No
+2023-11-10,E109511,2023-11-04,Personal growth,No
+2023-11-15,E109661,2023-11-13,Unsupportive scope of work,Yes
+2023-11-26,E109873,2023-11-23,Leadership,Yes
+2023-11-05,E109927,2023-11-05,Personal growth,No
+2023-11-08,E109997,2023-11-03,Career path,No
+2023-11-27,E110014,2023-11-21,Personal growth,Yes
+2023-11-05,E110305,2023-11-02,Personal growth,No
+2023-11-04,E110359,2023-11-02,Career path,No
+2023-11-12,E110439,2023-11-06,Personal growth,Yes
+2023-11-24,E110578,2023-11-29,Career path,Yes
+2023-11-11,E110585,2023-11-05,Unsupportive scope of work,No
+2023-11-10,E110616,2023-11-01,Career path,No
+2023-11-25,E110705,2023-11-19,Leadership,No
+2023-11-20,E110713,2023-11-17,Career path,No
+2023-11-08,E110725,2023-11-03,Career path,No
+2023-11-20,E110761,2023-11-11,Personal growth,Yes
+2023-11-24,E110762,2023-11-19,Leadership,No
+2023-11-27,E110900,2023-11-26,Personal growth,No
+2023-11-22,E110909,2023-11-13,Personal growth,No
+2023-11-23,E110993,2023-11-17,Personal growth,Yes
+2023-11-07,E111008,2023-11-01,Career path,Yes
+2023-11-19,E111050,2023-11-16,Unsupportive scope of work,No
+2023-11-22,E111077,2023-11-21,Career path,No
+2023-11-01,E111138,2023-11-01,Unsupportive scope of work,No
+2023-11-13,E111156,2023-11-13,Career path,Yes
+2023-11-25,E111178,2023-11-19,Personal growth,No
+2023-10-31,E111180,2023-11-04,Career path,Yes
+2023-11-13,E111237,2023-11-05,Career path,No
+2023-11-12,E111246,2023-11-09,Unsupportive scope of work,Yes
+2023-11-28,E111316,2023-11-19,Unsupportive scope of work,Yes
+2023-11-27,E111335,2023-11-29,Unsupportive scope of work,No
+2023-11-16,E111360,2023-11-21,Unsupportive scope of work,No
+2023-11-21,E111366,2023-11-20,Unsupportive scope of work,No
+2023-11-06,E111369,2023-11-11,Unsupportive scope of work,No
+2023-11-04,E111388,2023-11-04,Career path,No
+2023-12-17,E100159,2023-12-20,Personal growth,No
+2023-12-21,E100528,2023-12-18,Personal growth,Yes
+2023-11-26,E101414,2023-12-01,Leadership,No
+2023-12-16,E103463,2023-12-07,Unsupportive scope of work,No
+2023-12-21,E104142,2023-12-12,Career path,No
+2023-12-09,E104174,2023-12-06,Career path,No
+2023-12-22,E104714,2023-12-13,Personal growth,Yes
+2023-12-30,E105037,2023-12-21,Career path,No
+2024-01-06,E105176,2023-12-30,Personal growth,Yes
+2023-12-11,E106072,2023-12-12,Unsupportive scope of work,No
+2023-12-14,E106609,2023-12-07,Career path,Yes
+2023-12-21,E106640,2023-12-17,Personal growth,Yes
+2023-12-20,E106788,2023-12-19,Career path,No
+2024-01-03,E107065,2023-12-26,Personal growth,No
+2024-01-05,E107110,2023-12-31,Unsupportive scope of work,No
+2023-12-13,E107168,2023-12-13,Leadership,No
+2023-11-28,E107313,2023-12-03,Leadership,Yes
+2024-01-07,E107794,2023-12-29,Personal growth,Yes
+2023-12-17,E107951,2023-12-19,Personal growth,No
+2023-12-21,E108285,2023-12-18,Personal growth,No
+2023-12-27,E108481,2023-12-26,Personal growth,Yes
+2024-01-03,E108558,2023-12-31,Personal growth,No
+2023-12-11,E108587,2023-12-10,Personal growth,Yes
+2023-12-26,E108692,2023-12-17,Personal growth,Yes
+2023-12-12,E108809,2023-12-11,Career path,Yes
+2023-12-29,E109076,2023-12-21,Personal growth,Yes
+2023-12-26,E109270,2023-12-23,Leadership,No
+2023-12-10,E109430,2023-12-01,Unsupportive scope of work,No
+2023-12-06,E109474,2023-12-10,Personal growth,Yes
+2023-12-13,E109652,2023-12-07,Unsupportive scope of work,No
+2023-12-07,E109733,2023-12-10,Personal growth,No
+2023-12-16,E109741,2023-12-10,Leadership,Yes
+2023-12-15,E109752,2023-12-10,Personal growth,Yes
+2023-12-09,E109775,2023-12-01,Leadership,No
+2023-12-12,E109889,2023-12-05,Personal growth,No
+2023-12-09,E109956,2023-12-06,Personal growth,No
+2023-12-11,E110056,2023-12-10,Career path,No
+2023-12-01,E110087,2023-12-01,Leadership,No
+2023-12-07,E110112,2023-12-05,Career path,Yes
+2023-12-30,E110280,2023-12-29,Personal growth,No
+2023-12-25,E110393,2023-12-19,Unsupportive scope of work,Yes
+2023-12-14,E110395,2023-12-13,Unsupportive scope of work,No
+2023-12-16,E110460,2023-12-17,Leadership,No
+2023-12-03,E110470,2023-12-01,Leadership,No
+2023-12-19,E110525,2023-12-14,Personal growth,No
+2023-12-02,E110625,2023-12-02,Personal growth,No
+2023-12-23,E110650,2023-12-19,Leadership,Yes
+2023-12-31,E110776,2023-12-24,Unsupportive scope of work,No
+2023-12-26,E110822,2023-12-22,Leadership,No
+2023-12-26,E110846,2023-12-31,Unsupportive scope of work,No
+2023-12-27,E110908,2023-12-19,Career path,No
+2023-12-21,E110974,2023-12-14,Leadership,Yes
+2023-12-31,E110981,2023-12-27,Career path,Yes
+2023-12-14,E111069,2023-12-07,Career path,No
+2023-12-15,E111234,2023-12-19,Personal growth,Yes
+2023-12-16,E111248,2023-12-13,Career path,No
+2023-12-21,E111264,2023-12-15,Career path,No
+2023-12-28,E111282,2023-12-20,Personal growth,No
+2023-12-20,E111286,2023-12-23,Personal growth,No
+2023-12-12,E111393,2023-12-09,Career path,No
+2023-12-09,E111403,2023-12-14,Personal growth,No
+2023-12-30,E111414,2023-12-24,Career path,No
+2023-12-26,E111440,2023-12-25,Personal growth,No
+2024-01-03,E111447,2023-12-30,Personal growth,Yes
+2023-12-27,E111472,2023-12-30,Career path,Yes
+2023-12-08,E111473,2023-12-04,Career path,Yes
+2023-12-10,E111494,2023-12-06,Career path,Yes
+2023-12-16,E111504,2023-12-16,Career path,Yes
+2023-12-11,E111512,2023-12-16,Leadership,No
+2024-01-02,E111527,2023-12-28,Unsupportive scope of work,Yes
+2023-12-10,E111533,2023-12-12,Career path,No
+2023-12-05,E111538,2023-12-05,Personal growth,No
+2023-12-28,E111549,2023-12-31,Career path,No
+2023-12-23,E111554,2023-12-23,Personal growth,No
+2023-12-07,E111557,2023-12-02,Unsupportive scope of work,No
+2024-01-06,E100167,2024-01-09,Unsupportive scope of work,No
+2024-01-26,E100181,2024-01-29,Career path,No
+2024-01-09,E100345,2024-01-06,Unsupportive scope of work,No
+2024-01-22,E100532,2024-01-18,Career path,No
+2024-01-07,E101495,2024-01-07,Career path,Yes
+2024-01-28,E101744,2024-01-22,Unsupportive scope of work,Yes
+2024-01-30,E101840,2024-01-30,Leadership,No
+2024-01-09,E102770,2024-01-04,Leadership,No
+2024-02-01,E102796,2024-01-24,Career path,Yes
+2024-01-12,E103103,2024-01-11,Unsupportive scope of work,No
+2024-01-19,E103393,2024-01-20,Career path,No
+2024-01-07,E104306,2024-01-09,Unsupportive scope of work,No
+2024-01-24,E104767,2024-01-18,Career path,No
+2024-01-16,E105114,2024-01-11,Unsupportive scope of work,No
+2024-01-13,E105314,2024-01-14,Personal growth,Yes
+2024-01-17,E105357,2024-01-21,Personal growth,Yes
+2024-01-11,E105603,2024-01-02,Personal growth,No
+2024-01-14,E106268,2024-01-08,Personal growth,No
+2024-01-13,E107133,2024-01-07,Unsupportive scope of work,No
+2024-02-02,E107425,2024-01-30,Career path,Yes
+2024-01-15,E107988,2024-01-13,Career path,No
+2024-01-22,E108015,2024-01-23,Career path,Yes
+2024-01-20,E108145,2024-01-25,Unsupportive scope of work,No
+2024-01-25,E108654,2024-01-18,Personal growth,Yes
+2024-01-14,E108691,2024-01-05,Career path,No
+2024-01-14,E108927,2024-01-10,Unsupportive scope of work,No
+2023-12-30,E109017,2024-01-02,Unsupportive scope of work,No
+2024-01-18,E109304,2024-01-10,Career path,No
+2024-02-08,E109348,2024-01-30,Unsupportive scope of work,No
+2024-01-13,E109461,2024-01-10,Leadership,Yes
+2024-01-28,E109464,2024-01-27,Career path,No
+2024-01-17,E109577,2024-01-21,Personal growth,No
+2024-01-07,E109650,2024-01-10,Personal growth,Yes
+2024-01-25,E109866,2024-01-17,Career path,No
+2024-01-10,E109945,2024-01-09,Personal growth,No
+2024-01-21,E110102,2024-01-14,Career path,No
+2024-01-07,E110295,2024-01-01,Personal growth,No
+2024-01-16,E110361,2024-01-20,Unsupportive scope of work,No
+2024-01-12,E110472,2024-01-12,Career path,Yes
+2024-01-24,E110524,2024-01-26,Career path,No
+2024-01-11,E110550,2024-01-13,Career path,Yes
+2024-01-30,E110607,2024-01-21,Career path,No
+2024-01-31,E110740,2024-01-24,Personal growth,Yes
+2024-01-05,E110781,2024-01-03,Personal growth,No
+2024-01-27,E110894,2024-01-20,Career path,No
+2024-01-28,E110951,2024-01-21,Personal growth,Yes
+2024-01-09,E111005,2024-01-05,Career path,No
+2024-01-14,E111036,2024-01-17,Leadership,No
+2024-01-05,E111116,2024-01-02,Career path,No
+2024-01-19,E111197,2024-01-11,Personal growth,No
+2024-01-17,E111212,2024-01-16,Career path,No
+2024-01-11,E111242,2024-01-06,Personal growth,No
+2024-01-16,E111297,2024-01-18,Unsupportive scope of work,No
+2024-01-13,E111312,2024-01-14,Personal growth,No
+2024-01-17,E111382,2024-01-11,Career path,No
+2024-01-22,E111426,2024-01-22,Career path,Yes
+2024-01-18,E111435,2024-01-16,Personal growth,No
+2024-01-26,E111485,2024-01-21,Personal growth,Yes
+2024-01-21,E111514,2024-01-20,Career path,No
+2024-01-06,E111546,2024-01-07,Personal growth,No
+2024-01-25,E111627,2024-01-17,Leadership,No
+2023-12-31,E111638,2024-01-01,Leadership,No
+2024-02-01,E111679,2024-01-30,Personal growth,Yes
+2024-01-01,E111681,2024-01-04,Career path,No

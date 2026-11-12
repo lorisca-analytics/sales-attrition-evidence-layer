@@ -1,0 +1,127 @@
+{
+  "version": "1.0.0",
+  "synthetic": true,
+  "params": {
+    "leader_effect": 1.5,
+    "seed": 20231
+  },
+  "window": [
+    "2022-01",
+    "2023-12"
+  ],
+  "size": {
+    "seller_months": 72644,
+    "sellers": 7189,
+    "teams": 300,
+    "branches": 60,
+    "regions": 9,
+    "exits": 4049,
+    "leaders_with_known_route": 514,
+    "leaders_unknown_route": 361,
+    "seller_months_unknown_route_share": 0.309,
+    "seller_months_no_leader_share": 0.0
+  },
+  "overall_exits_per_100_per_year": 66.8,
+  "raw": {
+    "rate_top": 78.9,
+    "rate_average": 49.4,
+    "rate_unknown": 60.8,
+    "gap": 29.5
+  },
+  "controlled": {
+    "rows": 49988,
+    "teams": 243,
+    "rate_top": 76.5,
+    "rate_average": 53.1,
+    "gap": 23.3,
+    "gap_ci": [
+      18.3,
+      29.2
+    ],
+    "odds_ratio": 1.47,
+    "odds_ratio_ci": [
+      1.33,
+      1.63
+    ]
+  },
+  "reasons": {
+    "forms_matched": 1262,
+    "resign_exits_known_route": 2804,
+    "leadership_share": 0.118,
+    "top_reason": "Personal growth"
+  },
+  "survival_6m": {
+    "average seller": 0.6835,
+    "top seller": 0.5832
+  },
+  "survival_12m": {
+    "average seller": 0.5171,
+    "top seller": 0.3993
+  },
+  "cost": {
+    "assumptions": {
+      "vacancy_months": 1.0,
+      "ramp_months": 3,
+      "ramp_output_share": 0.5
+    },
+    "seller_years_under_top_seller_leaders_per_year": 1421,
+    "extra_exits_per_year": 331,
+    "sales_months_lost_per_exit": 2.5,
+    "full_time_sellers_of_sales_lost_per_year": 69
+  },
+  "branch_overlap": {
+    "top_share_high_exit_branches": 0.639,
+    "top_share_other_branches": 0.398
+  },
+  "checks": {
+    "incomplete_region_months": [
+      {
+        "region": "R07",
+        "month": "2023-12",
+        "roster_exits": 20,
+        "unrecorded": 20
+      }
+    ],
+    "roster_exits_without_record": 23
+  },
+  "sensitivity": [
+    {
+      "check": "Voluntary resignations only",
+      "rate_top": 74.2,
+      "rate_average": 51.0,
+      "gap": 23.2,
+      "gap_ci": [
+        17.5,
+        29.1
+      ]
+    },
+    {
+      "check": "Leave out each seller's first 3 months",
+      "rate_top": 67.4,
+      "rate_average": 46.1,
+      "gap": 21.4,
+      "gap_ci": [
+        15.7,
+        28.0
+      ]
+    },
+    {
+      "check": "Top seller = top 30% instead of top 20%",
+      "rate_top": 75.5,
+      "rate_average": 52.2,
+      "gap": 23.3,
+      "gap_ci": [
+        17.5,
+        29.3
+      ]
+    }
+  ],
+  "null_calibration": {
+    "runs": 20,
+    "leader_effect": 1.0,
+    "mean_gap": -0.4,
+    "intervals_including_zero": 18,
+    "misses_above_zero": 1,
+    "misses_below_zero": 1
+  }
+}

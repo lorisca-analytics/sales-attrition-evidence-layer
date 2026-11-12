@@ -1,0 +1,52 @@
+{
+  "id": "sales-attrition-evidence-layer",
+  "repo": "lorisca-analytics/sales-attrition-evidence-layer",
+  "title": "Attrition was a promotion problem",
+  "status": "live",
+  "group": "work",
+  "year": "2024",
+  "hook": "Field sales kept losing people after I fixed hiring. I joined intake, exit interview, performance and training records and traced the exits to team leaders promoted for their sales numbers alone. This repo rebuilds that view on synthetic data.",
+  "metric": "I cut department turnover about 15% (2023) and 17% (2024)",
+  "trace": {
+    "problem": "I fixed hiring, and people kept leaving",
+    "move": "One joined view, exits tied to each team leader's promotion route",
+    "result": "I tightened hiring criteria, and Training reworked promotion assessment"
+  },
+  "cardVisual": {
+    "kind": "bars",
+    "label": "Exits per 100 sellers a year, synthetic data, after controls",
+    "aLabel": "Leader promoted as top seller",
+    "aValue": 76.5,
+    "aText": "76.5",
+    "bLabel": "Leader was an average seller",
+    "bValue": 53.1,
+    "bText": "53.1"
+  },
+  "body": {
+    "problem": "The field sales team had the highest turnover in a sales force where turnover was high everywhere. Leadership saw a hiring problem. I fixed hiring first, and people kept leaving. No record said who reported to whom or who had been promoted, and the exit form doesn't name the leader.",
+    "approach": "At the bank I joined the records HR kept apart and compared exits under team leaders promoted for their own sales numbers with exits under leaders who had been average sellers. This repo rebuilds that view on synthetic records. It links sellers to leaders through the team's center code, reads each leader's promotion from their job-title history, holds branch, tenure, team size and month still, and checks the method on 20 datasets with no effect built in.",
+    "hers": "I built the evidence and made the case to leadership, and my direct manager carried it upward. Training owned the changes to manager training and curriculum.",
+    "result": "Teams under leaders promoted as top sellers lost people faster than teams under leaders who had been average sellers with good people skills. I tightened hiring criteria, and Training reworked promotion assessment and manager training. I cut department turnover about 15% (2023) and 17% (2024)."
+  },
+  "tools": [
+    "Python",
+    "pandas",
+    "statsmodels",
+    "Data contract",
+    "Synthetic data"
+  ],
+  "links": [
+    {
+      "label": "Repo",
+      "url": "https://github.com/lorisca-analytics/sales-attrition-evidence-layer",
+      "kind": "github"
+    },
+    {
+      "label": "Dashboard",
+      "url": "https://lorisca-analytics.github.io/sales-attrition-evidence-layer/",
+      "kind": "demo"
+    }
+  ],
+  "visual": "https://raw.githubusercontent.com/lorisca-analytics/sales-attrition-evidence-layer/main/docs/dashboard-light.png",
+  "visualAlt": "Dashboard showing exits per 100 sellers by region and by how the team leader was promoted, raw and after controls"
+}

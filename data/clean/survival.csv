@@ -1,0 +1,27 @@
+route,tenure_month,still_in_post,at_risk
+average seller,0,1.0,751
+average seller,1,0.9294,751
+average seller,2,0.8762,664
+average seller,3,0.7913,598
+average seller,4,0.7463,510
+average seller,5,0.7126,444
+average seller,6,0.6835,391
+average seller,7,0.6718,351
+average seller,8,0.6379,317
+average seller,9,0.6107,282
+average seller,10,0.5753,241
+average seller,11,0.5534,210
+average seller,12,0.5171,183
+top seller,0,1.0,2385
+top seller,1,0.8977,2385
+top seller,2,0.814,2049
+top seller,3,0.7264,1774
+top seller,4,0.6638,1485
+top seller,5,0.6215,1289
+top seller,6,0.5832,1150
+top seller,7,0.5509,1011
+top seller,8,0.5171,897
+top seller,9,0.4857,757
+top seller,10,0.4506,664
+top seller,11,0.4301,572
+top seller,12,0.3993,489

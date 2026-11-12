@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Attrition was a promotion problem</title>
+<meta name="description" content="A joined view of joiner, performance, probation and exit records for a field sales force, rebuilt on synthetic data. Teams led by top sellers promoted on sales alone lose more people.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&display=swap">
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <p class="badge">Synthetic data, modeled on a bank's HR records</p>
+    <h1>Attrition was a <em>promotion</em> problem</h1>
+    <p class="lede">A field sales force loses people everywhere. It loses the most under team leaders who were promoted for their own sales numbers. This page shows the joined records, the checks, and what doing nothing costs in sales.</p>
+    <p class="meta" id="meta">Loading the records…</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <p class="note" id="loadError" hidden>The data files didn't load. Run <code>python -m ael.analyze</code> to rebuild <code>data/</code>, then serve this folder with <code>python -m http.server</code> (opening the file directly blocks the data).</p>
+  <section class="kpis" aria-label="Headline numbers">
+    <div class="kpi"><div class="kpi-v" id="kpiTop"></div><div class="kpi-l">exits per 100 sellers a year under leaders promoted as top sellers</div></div>
+    <div class="kpi"><div class="kpi-v" id="kpiAvg"></div><div class="kpi-l">under leaders who were average sellers</div></div>
+    <div class="kpi"><div class="kpi-v" id="kpiGap"></div><div class="kpi-l">gap left after branch, tenure, team size and month are accounted for</div></div>
+  </section>
+  <p class="note" id="planted"></p>
+
+  <section>
+    <h2>The quick read points at regions</h2>
+    <p class="note">Ranked by region, turnover looks like a location problem. But location and leadership overlap: the branches that lose the most people also have more teams under top-seller leaders. The next section separates the two.</p>
+    <figure>
+      <div class="chart" id="chartRegion"></div>
+      <figcaption id="capRegion"></figcaption>
+    </figure>
+  </section>
+
+  <section>
+    <h2>Exits by how the team leader was promoted</h2>
+    <p class="note">No record links a seller to a leader, and none records promotions. The leader comes from the center code both share. The route comes from the leader's own job-title history: a Sales Officer in the top fifth of their branch before becoming Team Leader counts as a top seller.</p>
+    <div class="legend" id="legRoute"></div>
+    <figure>
+      <div class="chart" id="chartRoute"></div>
+      <figcaption id="capRoute"></figcaption>
+    </figure>
+  </section>
+
+  <section>
+    <h2>New hires leave sooner under top-seller leaders</h2>
+    <p class="note">Share of sellers hired in the window still in post, by month of tenure and by the route of their first leader.</p>
+    <div class="legend" id="legSurv"></div>
+    <figure>
+      <div class="chart" id="chartSurv"></div>
+      <figcaption id="capSurv"></figcaption>
+    </figure>
+  </section>
+
+  <section>
+    <h2>The exit form says growth, not leadership</h2>
+    <p class="note">Few people tick "Leadership" on an exit form, and fewer than half fill one in. Read alone, the form clears the leaders. The joined view does not.</p>
+    <div class="legend" id="legReason"></div>
+    <figure>
+      <div class="chart" id="chartReason"></div>
+      <figcaption id="capReason"></figcaption>
+    </figure>
+  </section>
+
+  <section>
+    <h2>What doing nothing costs</h2>
+    <p class="note">Leadership's first answer was to protect the sales numbers. So the cost is counted in sales.</p>
+    <p class="cost" id="costLine"></p>
+    <p class="note" id="costNote"></p>
+  </section>
+
+  <section>
+    <h2>Checks</h2>
+    <div class="aside" id="checkNull"></div>
+    <h3>Does the answer move if a rule changes?</h3>
+    <div class="tablewrap" id="tblSens"></div>
+    <h3>Months held out</h3>
+    <p class="note">A region-month is held out when a quarter or more of the people who left the roster have no row on the resignation list yet.</p>
+    <div class="tablewrap" id="tblGaps"></div>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p>All records on this page are synthetic. They are modeled on the layout of a bank's HR files, and the team leader effect is a setting in the generator. Built from <a href="data/findings.json">findings.json</a> and the CSV files next to it.</p>
+</footer>
+<div class="tip" id="tip" role="tooltip"></div>
+<script src="charts.js?v=1"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
